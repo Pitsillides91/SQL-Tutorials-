@@ -1,0 +1,1590 @@
+index,Cylinders,Engine Aspiration,Drivetrain,Transmission,Horsepower,Torque,Highway Fuel Economy
+0,V8,Twin-Turbo,AWD,automatic,697 hp @ 6000 rpm,663 ft-lbs. @ 2750 rpm,20 mpg
+1,I4,Turbocharged,FWD,automatic,201 hp @ 4800 rpm,221 ft-lbs. @ 4100 rpm,37 mpg
+2,I4,Turbocharged,AWD,automatic,201 hp @ 5000 rpm,221 ft-lbs. @ 4000 rpm,34 mpg
+3,I4,Turbocharged,AWD,automatic,201 hp @ 5000 rpm,221 ft-lbs. @ 4000 rpm,34 mpg
+4,I4,Turbocharged,FWD,automatic,201 hp @ 4800 rpm,221 ft-lbs. @ 4100 rpm,37 mpg
+5,I4,Turbocharged,AWD,automatic,201 hp @ 4475 rpm,236 ft-lbs. @ 1450 rpm,35 mpg
+6,I4,Turbocharged,AWD,automatic,201 hp @ 4475 rpm,236 ft-lbs. @ 1450 rpm,35 mpg
+7,I4,Turbocharged,AWD,automatic,261 hp @ 6300 rpm,273 ft-lbs. @ 4200 rpm,32 mpg
+8,I4,Turbocharged,AWD,automatic,261 hp @ 6300 rpm,273 ft-lbs. @ 4200 rpm,32 mpg
+9,I4,Turbocharged,AWD,automatic,201 hp @ 4475 rpm,236 ft-lbs. @ 1450 rpm,35 mpg
+10,I4,Turbocharged,AWD,automatic,261 hp @ 6300 rpm,273 ft-lbs. @ 4200 rpm,32 mpg
+11,I4,Turbocharged,AWD,automatic,261 hp @ 6300 rpm,273 ft-lbs. @ 4200 rpm,30 mpg
+12,I4,Turbocharged,AWD,automatic,261 hp @ 6300 rpm,273 ft-lbs. @ 4200 rpm,30 mpg
+13,I4,Turbocharged,AWD,automatic,261 hp @ 6300 rpm,273 ft-lbs. @ 4200 rpm,30 mpg
+14,I4,Turbocharged,AWD,automatic,201 hp @ 4475 rpm,236 ft-lbs. @ 1450 rpm,35 mpg
+15,I4,Turbocharged,AWD,automatic,201 hp @ 4475 rpm,236 ft-lbs. @ 1450 rpm,35 mpg
+16,I4,Turbocharged,AWD,automatic,261 hp @ 6300 rpm,273 ft-lbs. @ 4200 rpm,32 mpg
+17,I4,Turbocharged,AWD,automatic,261 hp @ 6300 rpm,273 ft-lbs. @ 4200 rpm,32 mpg
+18,I4,Turbocharged,AWD,automatic,261 hp @ 6300 rpm,273 ft-lbs. @ 4200 rpm,33 mpg
+19,I4,Turbocharged,AWD,automatic,261 hp @ 6300 rpm,273 ft-lbs. @ 4200 rpm,32 mpg
+20,I4,Turbocharged,AWD,automatic,261 hp @ 6300 rpm,273 ft-lbs. @ 4200 rpm,32 mpg
+21,I4,Turbocharged,AWD,automatic,261 hp @ 6300 rpm,273 ft-lbs. @ 4200 rpm,33 mpg
+22,I4,Turbocharged,AWD,automatic,201 hp @ 4475 rpm,236 ft-lbs. @ 1450 rpm,35 mpg
+23,I4,Turbocharged,AWD,automatic,261 hp @ 6300 rpm,273 ft-lbs. @ 4200 rpm,32 mpg
+24,I4,Turbocharged,AWD,automatic,261 hp @ 6300 rpm,273 ft-lbs. @ 4200 rpm,32 mpg
+25,I4,Turbocharged,AWD,automatic,261 hp @ 6300 rpm,273 ft-lbs. @ 4200 rpm,33 mpg
+26,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,33 mpg
+27,V6,Turbocharged,AWD,automatic,335 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,30 mpg
+28,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,33 mpg
+29,V6,Turbocharged,AWD,automatic,335 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,30 mpg
+30,V6,Turbocharged,AWD,automatic,335 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,30 mpg
+31,V6,Turbocharged,AWD,automatic,335 hp @ 6100 rpm,369 ft-lbs. @ 1400 rpm,30 mpg
+32,V6,Turbocharged,AWD,automatic,335 hp @ 6100 rpm,369 ft-lbs. @ 1400 rpm,30 mpg
+33,V6,Turbocharged,AWD,automatic,335 hp @ 6100 rpm,369 ft-lbs. @ 1400 rpm,30 mpg
+34,V6,Turbocharged,AWD,automatic,335 hp @ 6100 rpm,369 ft-lbs. @ 1400 rpm,30 mpg
+35,V6,Turbocharged,AWD,automatic,335 hp @ 6100 rpm,369 ft-lbs. @ 1400 rpm,30 mpg
+36,V6,Turbocharged,AWD,automatic,335 hp @ 6000 rpm,369 ft-lbs. @ 4500 rpm,28 mpg
+37,I4,Turbocharged,AWD,automatic,184 hp @ 4800 rpm,221 ft-lbs. @ 3500 rpm,29 mpg
+38,I4,Turbocharged,AWD,automatic,184 hp @ 4800 rpm,221 ft-lbs. @ 3500 rpm,29 mpg
+39,I4,Turbocharged,AWD,automatic,228 hp @ 6000 rpm,251 ft-lbs. @ 4500 rpm,28 mpg
+40,I4,Turbocharged,AWD,automatic,228 hp @ 6000 rpm,251 ft-lbs. @ 4500 rpm,28 mpg
+41,,Electric Motor,AWD,automatic,295 hp @ 0 rpm,339 ft-lbs. @ 0 rpm,89 mpg
+42,,Electric Motor,AWD,automatic,335 hp @ 0 rpm,,92 mpg
+43,,Electric Motor,AWD,automatic,295 hp @ 0 rpm,339 ft-lbs. @ 0 rpm,89 mpg
+44,,Electric Motor,AWD,automatic,335 hp @ 0 rpm,,92 mpg
+45,,Electric Motor,AWD,automatic,295 hp @ 0 rpm,339 ft-lbs. @ 0 rpm,89 mpg
+46,,Electric Motor,AWD,automatic,335 hp @ 0 rpm,,92 mpg
+47,,Electric Motor,RWD,automatic,201 hp @ 0 rpm,229 ft-lbs. @ 0 rpm,94 mpg
+48,,Electric Motor,AWD,automatic,295 hp @ 0 rpm,339 ft-lbs. @ 0 rpm,87 mpg
+49,,Electric Motor,AWD,automatic,335 hp @ 0 rpm,,92 mpg
+50,,Electric Motor,RWD,automatic,201 hp @ 0 rpm,229 ft-lbs. @ 0 rpm,94 mpg
+51,,Electric Motor,AWD,automatic,295 hp @ 0 rpm,339 ft-lbs. @ 0 rpm,87 mpg
+52,,Electric Motor,AWD,automatic,335 hp @ 0 rpm,,92 mpg
+53,,Electric Motor,AWD,automatic,295 hp @ 0 rpm,339 ft-lbs. @ 0 rpm,87 mpg
+54,,Electric Motor,AWD,automatic,335 hp @ 0 rpm,,92 mpg
+55,I4,Turbocharged,AWD,automatic,201 hp @ 0 rpm,236 ft-lbs. @ 0 rpm,29 mpg
+56,I4,Turbocharged,AWD,automatic,201 hp @ 0 rpm,236 ft-lbs. @ 0 rpm,29 mpg
+57,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,28 mpg
+58,I4,Turbocharged,AWD,automatic,362 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,27 mpg
+59,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,28 mpg
+60,I4,Turbocharged,AWD,automatic,362 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,27 mpg
+61,I4,Turbocharged,AWD,automatic,201 hp @ 0 rpm,236 ft-lbs. @ 0 rpm,29 mpg
+62,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,28 mpg
+63,I4,Turbocharged,AWD,automatic,362 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,27 mpg
+64,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,29 mpg
+65,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,29 mpg
+66,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,29 mpg
+67,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,25 mpg
+68,V6,Turbocharged,AWD,automatic,335 hp @ 5000 rpm,369 ft-lbs. @ 1370 rpm,24 mpg
+69,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,25 mpg
+70,V6,Turbocharged,AWD,automatic,335 hp @ 5000 rpm,369 ft-lbs. @ 1370 rpm,24 mpg
+71,V6,Turbocharged,AWD,automatic,335 hp @ 5000 rpm,369 ft-lbs. @ 1370 rpm,24 mpg
+72,V6,Turbocharged,AWD,automatic,335 hp @ 5000 rpm,369 ft-lbs. @ 1370 rpm,23 mpg
+73,V6,Turbocharged,AWD,automatic,335 hp @ 5000 rpm,369 ft-lbs. @ 1370 rpm,23 mpg
+74,V6,Turbocharged,AWD,automatic,335 hp @ 5000 rpm,369 ft-lbs. @ 1370 rpm,23 mpg
+75,,Electric Motor,AWD,automatic,402 hp @ 0 rpm,,90 mpg
+76,,Electric Motor,AWD,automatic,402 hp @ 0 rpm,,90 mpg
+77,,Electric Motor,AWD,automatic,402 hp @ 0 rpm,,90 mpg
+78,,Electric Motor,AWD,automatic,402 hp @ 0 rpm,,83 mpg
+79,,Electric Motor,AWD,automatic,402 hp @ 0 rpm,,83 mpg
+80,,Electric Motor,AWD,automatic,402 hp @ 0 rpm,,83 mpg
+81,I5,Turbocharged,AWD,automatic,401 hp @ 6500 rpm,369 ft-lbs. @ 3500 rpm,29 mpg
+82,V6,Twin-Turbo,AWD,automatic,444 hp @ 6700 rpm,442 ft-lbs. @ 4700 rpm,25 mpg
+83,V6,Twin-Turbo,AWD,automatic,444 hp @ 6700 rpm,442 ft-lbs. @ 4700 rpm,25 mpg
+84,V8,Twin-Turbo,AWD,automatic,621 hp @ 6000 rpm,627 ft-lbs. @ 2050 rpm,22 mpg
+85,V8,Twin-Turbo,AWD,automatic,621 hp @ 0 rpm,627 ft-lbs. @ 0 rpm,22 mpg
+86,V8,Twin-Turbo,AWD,automatic,591 hp @ 0 rpm,590 ft-lbs. @ 0 rpm,19 mpg
+87,,Electric Motor,AWD,automatic,637 hp @ 0 rpm,612 ft-lbs. @ 0 rpm,85 mpg
+88,I4,Turbocharged,AWD,automatic,306 hp @ 5450 rpm,295 ft-lbs. @ 3000 rpm,32 mpg
+89,I4,Turbocharged,AWD,automatic,306 hp @ 5450 rpm,295 ft-lbs. @ 3000 rpm,32 mpg
+90,I4,Turbocharged,AWD,automatic,306 hp @ 5450 rpm,295 ft-lbs. @ 3000 rpm,32 mpg
+91,V6,Turbocharged,AWD,automatic,349 hp @ 6300 rpm,369 ft-lbs. @ 3200 rpm,29 mpg
+92,V6,Turbocharged,AWD,automatic,349 hp @ 6300 rpm,369 ft-lbs. @ 3200 rpm,29 mpg
+93,V6,Turbocharged,AWD,automatic,349 hp @ 6300 rpm,369 ft-lbs. @ 3200 rpm,29 mpg
+94,V6,Turbocharged,AWD,automatic,349 hp @ 6300 rpm,369 ft-lbs. @ 3200 rpm,27 mpg
+95,V6,Turbocharged,AWD,automatic,349 hp @ 6300 rpm,369 ft-lbs. @ 3200 rpm,29 mpg
+96,V6,Turbocharged,AWD,automatic,349 hp @ 6300 rpm,369 ft-lbs. @ 3200 rpm,29 mpg
+97,V6,Turbocharged,AWD,automatic,349 hp @ 6300 rpm,369 ft-lbs. @ 3200 rpm,27 mpg
+98,V6,Turbocharged,AWD,automatic,349 hp @ 6300 rpm,369 ft-lbs. @ 3200 rpm,29 mpg
+99,V6,Turbocharged,AWD,automatic,349 hp @ 6300 rpm,369 ft-lbs. @ 3200 rpm,29 mpg
+100,V6,Turbocharged,AWD,automatic,349 hp @ 6300 rpm,369 ft-lbs. @ 3200 rpm,27 mpg
+101,V6,Turbocharged,AWD,automatic,349 hp @ 6300 rpm,369 ft-lbs. @ 3200 rpm,29 mpg
+102,V6,Turbocharged,AWD,automatic,349 hp @ 6300 rpm,369 ft-lbs. @ 3200 rpm,29 mpg
+103,V6,Twincharged,AWD,automatic,444 hp @ 0 rpm,442 ft-lbs. @ 0 rpm,26 mpg
+104,V6,Twincharged,AWD,automatic,444 hp @ 0 rpm,442 ft-lbs. @ 0 rpm,26 mpg
+105,V6,Twincharged,AWD,automatic,444 hp @ 0 rpm,442 ft-lbs. @ 0 rpm,26 mpg
+106,V6,Twincharged,AWD,automatic,444 hp @ 5900 rpm,442 ft-lbs. @ 2700 rpm,26 mpg
+107,V6,Twincharged,AWD,automatic,444 hp @ 5900 rpm,442 ft-lbs. @ 2700 rpm,26 mpg
+108,V6,Twincharged,AWD,automatic,444 hp @ 5900 rpm,442 ft-lbs. @ 2700 rpm,26 mpg
+109,V8,Twin-Turbo,AWD,automatic,563 hp @ 0 rpm,590 ft-lbs. @ 0 rpm,24 mpg
+110,V6,Turbocharged,AWD,automatic,349 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,24 mpg
+111,V6,Turbocharged,AWD,automatic,349 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,24 mpg
+112,V6,Turbocharged,AWD,automatic,349 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,24 mpg
+113,V6,Turbocharged,AWD,automatic,349 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,24 mpg
+114,V6,Turbocharged,AWD,automatic,349 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,24 mpg
+115,V6,Turbocharged,AWD,automatic,349 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,24 mpg
+116,V8,Twin-Turbo,AWD,automatic,500 hp @ 0 rpm,568 ft-lbs. @ 0 rpm,21 mpg
+117,V8,Twin-Turbo,AWD,automatic,500 hp @ 0 rpm,568 ft-lbs. @ 0 rpm,21 mpg
+118,V8,Twin-Turbo,AWD,automatic,500 hp @ 0 rpm,568 ft-lbs. @ 0 rpm,20 mpg
+119,V8,Twin-Turbo,AWD,automatic,500 hp @ 0 rpm,568 ft-lbs. @ 0 rpm,20 mpg
+120,,Electric Motor,AWD,automatic,496 hp @ 0 rpm,718 ft-lbs. @ 0 rpm,75 mpg
+121,,Electric Motor,AWD,automatic,496 hp @ 0 rpm,718 ft-lbs. @ 0 rpm,75 mpg
+122,,Electric Motor,AWD,automatic,496 hp @ 0 rpm,718 ft-lbs. @ 0 rpm,75 mpg
+123,,Electric Motor,AWD,automatic,496 hp @ 0 rpm,718 ft-lbs. @ 0 rpm,75 mpg
+124,,Electric Motor,AWD,automatic,522 hp @ 0 rpm,472 ft-lbs. @ 0 rpm,85 mpg
+125,,Electric Motor,AWD,automatic,522 hp @ 0 rpm,472 ft-lbs. @ 0 rpm,85 mpg
+126,I4,Turbocharged,RWD,automatic,255 hp @ 5000 rpm,295 ft-lbs. @ 1550 rpm,35 mpg
+127,I4,Turbocharged,AWD,automatic,255 hp @ 5000 rpm,295 ft-lbs. @ 1550 rpm,33 mpg
+128,I6,Turbocharged,RWD,automatic,382 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,32 mpg
+129,I6,Turbocharged,AWD,automatic,382 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,32 mpg
+130,I4,Turbocharged,FWD,automatic,228 hp @ 5000 rpm,258 ft-lbs. @ 1450 rpm,34 mpg
+131,I4,Turbocharged,AWD,automatic,228 hp @ 5000 rpm,258 ft-lbs. @ 1450 rpm,33 mpg
+132,I4,Turbocharged,AWD,automatic,302 hp @ 5000 rpm,332 ft-lbs. @ 1750 rpm,33 mpg
+133,I4,Turbocharged,RWD,automatic,288 hp @ 0 rpm,310 ft-lbs. @ 0 rpm,32 mpg
+134,I4,Turbocharged,AWD,automatic,288 hp @ 0 rpm,310 ft-lbs. @ 0 rpm,32 mpg
+135,I4,Turbocharged,RWD,automatic,255 hp @ 5000 rpm,295 ft-lbs. @ 1550 rpm,34 mpg
+136,I4,Turbocharged,AWD,automatic,255 hp @ 5000 rpm,295 ft-lbs. @ 1550 rpm,33 mpg
+137,I6,Turbocharged,RWD,automatic,382 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,31 mpg
+138,I6,Turbocharged,AWD,automatic,382 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,31 mpg
+139,I4,Turbocharged,RWD,automatic,255 hp @ 5000 rpm,295 ft-lbs. @ 1550 rpm,34 mpg
+140,I4,Turbocharged,RWD,automatic,255 hp @ 5000 rpm,295 ft-lbs. @ 1550 rpm,34 mpg
+141,I4,Turbocharged,AWD,automatic,255 hp @ 5000 rpm,295 ft-lbs. @ 1550 rpm,33 mpg
+142,I4,Turbocharged,AWD,automatic,255 hp @ 5000 rpm,295 ft-lbs. @ 1550 rpm,33 mpg
+143,I6,Turbocharged,RWD,automatic,382 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,32 mpg
+144,I6,Turbocharged,RWD,automatic,382 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,31 mpg
+145,I6,Turbocharged,AWD,automatic,382 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,31 mpg
+146,I6,Turbocharged,AWD,automatic,382 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,30 mpg
+147,I4,Turbocharged,RWD,automatic,255 hp @ 5000 rpm,295 ft-lbs. @ 1550 rpm,34 mpg
+148,I4,Turbocharged,AWD,automatic,255 hp @ 5000 rpm,295 ft-lbs. @ 1550 rpm,33 mpg
+149,I6,Turbocharged,RWD,automatic,382 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,32 mpg
+150,I6,Turbocharged,AWD,automatic,382 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,30 mpg
+151,I4,Turbocharged,RWD,automatic,255 hp @ 4700 rpm,295 ft-lbs. @ 1600 rpm,35 mpg
+152,I4,Turbocharged,AWD,automatic,255 hp @ 4700 rpm,295 ft-lbs. @ 1600 rpm,35 mpg
+153,I6,Turbocharged,AWD,automatic,375 hp @ 4700 rpm,,33 mpg
+154,I6,Turbocharged,RWD,automatic,375 hp @ 5200 rpm,398 ft-lbs. @ 1850 rpm,31 mpg
+155,I6,Turbocharged,AWD,automatic,375 hp @ 5200 rpm,398 ft-lbs. @ 1850 rpm,31 mpg
+156,I6,Turbocharged,AWD,automatic,483 hp @ 0 rpm,479 ft-lbs. @ 0 rpm,22 mpg
+157,V8,Twin-Turbo,AWD,automatic,536 hp @ 5200 rpm,553 ft-lbs. @ 1800 rpm,25 mpg
+158,I6,Turbocharged,RWD,automatic,335 hp @ 5000 rpm,369 ft-lbs. @ 1600 rpm,29 mpg
+159,I6,Turbocharged,RWD,automatic,335 hp @ 5000 rpm,369 ft-lbs. @ 1600 rpm,29 mpg
+160,I6,Turbocharged,AWD,automatic,335 hp @ 5000 rpm,369 ft-lbs. @ 1600 rpm,29 mpg
+161,I6,Turbocharged,AWD,automatic,335 hp @ 5000 rpm,369 ft-lbs. @ 1600 rpm,29 mpg
+162,V8,Twin-Turbo,AWD,automatic,523 hp @ 5500 rpm,553 ft-lbs. @ 1800 rpm,24 mpg
+163,V8,Twin-Turbo,AWD,automatic,523 hp @ 5500 rpm,553 ft-lbs. @ 1800 rpm,24 mpg
+164,I6,Turbocharged,RWD,automatic,335 hp @ 5000 rpm,369 ft-lbs. @ 1600 rpm,29 mpg
+165,I6,Turbocharged,AWD,automatic,335 hp @ 5000 rpm,369 ft-lbs. @ 1600 rpm,29 mpg
+166,V8,Twin-Turbo,AWD,automatic,523 hp @ 5500 rpm,553 ft-lbs. @ 1800 rpm,24 mpg
+167,V8,Twin-Turbo,AWD,automatic,612 hp @ 5500 rpm,590 ft-lbs. @ 2000 rpm,24 mpg
+168,V8,Twin-Turbo,AWD,automatic,630 hp @ 5600 rpm,590 ft-lbs. @ 1800 rpm,20 mpg
+169,I6,Twin-Turbo,RWD,manual,453 hp @ 6250 rpm,406 ft-lbs. @ 2650 rpm,24 mpg
+170,I6,Twin-Turbo,RWD,manual,473 hp @ 6250 rpm,406 ft-lbs. @ 2650 rpm,23 mpg
+171,I6,Twin-Turbo,RWD,automatic,503 hp @ 6250 rpm,479 ft-lbs. @ 2750 rpm,23 mpg
+172,I6,Twin-Turbo,AWD,automatic,503 hp @ 6250 rpm,479 ft-lbs. @ 2750 rpm,22 mpg
+173,I6,Twin-Turbo,AWD,automatic,543 hp @ 6250 rpm,479 ft-lbs. @ 2750 rpm,22 mpg
+174,I6,Twin-Turbo,RWD,manual,473 hp @ 6250 rpm,406 ft-lbs. @ 2650 rpm,23 mpg
+175,I6,Twin-Turbo,RWD,automatic,503 hp @ 6250 rpm,479 ft-lbs. @ 2750 rpm,23 mpg
+176,I6,Twin-Turbo,AWD,automatic,503 hp @ 6250 rpm,479 ft-lbs. @ 2750 rpm,22 mpg
+177,I6,Twin-Turbo,AWD,automatic,503 hp @ 6250 rpm,479 ft-lbs. @ 2750 rpm,23 mpg
+178,V8,Twin-Turbo,AWD,automatic,617 hp @ 6000 rpm,553 ft-lbs. @ 1800 rpm,22 mpg
+179,V8,Twin-Turbo,AWD,automatic,617 hp @ 6000 rpm,553 ft-lbs. @ 1800 rpm,22 mpg
+180,V8,Twin-Turbo,AWD,automatic,617 hp @ 6000 rpm,553 ft-lbs. @ 1800 rpm,22 mpg
+181,I4,Turbocharged,AWD,automatic,312 hp @ 5750 rpm,295 ft-lbs. @ 2000 rpm,31 mpg
+182,I4,Turbocharged,AWD,automatic,241 hp @ 4500 rpm,295 ft-lbs. @ 1500 rpm,34 mpg
+183,I4,Turbocharged,AWD,automatic,312 hp @ 5750 rpm,295 ft-lbs. @ 2000 rpm,32 mpg
+184,I4,Turbocharged,AWD,automatic,241 hp @ 4500 rpm,295 ft-lbs. @ 1500 rpm,33 mpg
+190,I4,Turbocharged,AWD,automatic,248 hp @ 5200 rpm,258 ft-lbs. @ 1450 rpm,28 mpg
+191,I6,Twin-Turbo,AWD,automatic,473 hp @ 6250 rpm,457 ft-lbs. @ 2750 rpm,20 mpg
+192,V8,Twin-Turbo,AWD,automatic,523 hp @ 5500 rpm,553 ft-lbs. @ 1800 rpm,22 mpg
+193,I6,Turbocharged,RWD,automatic,375 hp @ 5200 rpm,398 ft-lbs. @ 1850 rpm,27 mpg
+194,I6,Turbocharged,AWD,automatic,375 hp @ 5200 rpm,398 ft-lbs. @ 1850 rpm,27 mpg
+195,I6,Turbocharged,AWD,automatic,483 hp @ 0 rpm,516 ft-lbs. @ 0 rpm,22 mpg
+196,V8,Twin-Turbo,AWD,automatic,617 hp @ 6000 rpm,553 ft-lbs. @ 1800 rpm,18 mpg
+197,V8,Twin-Turbo,AWD,automatic,523 hp @ 5500 rpm,553 ft-lbs. @ 1800 rpm,22 mpg
+198,I6,Turbocharged,AWD,automatic,375 hp @ 5200 rpm,398 ft-lbs. @ 1850 rpm,26 mpg
+199,V8,Twin-Turbo,AWD,automatic,617 hp @ 6000 rpm,553 ft-lbs. @ 1800 rpm,18 mpg
+800,V8,Twin-Turbo,AWD,automatic,523 hp @ 5500 rpm,553 ft-lbs. @ 1800 rpm,21 mpg
+801,I6,Turbocharged,AWD,automatic,375 hp @ 5500 rpm,398 ft-lbs. @ 0 rpm,25 mpg
+802,V8,Twin-Turbo,AWD,automatic,644 hp @ 5400 rpm,590 ft-lbs. @ 1600 rpm,17 mpg
+803,V8,Twin-Turbo,AWD,automatic,738 hp @ 0 rpm,738 ft-lbs. @ 0 rpm,17 mpg
+804,I6,Turbocharged,RWD,automatic,382 hp @ 5000 rpm,369 ft-lbs. @ 1600 rpm,31 mpg
+805,I4,Turbocharged,RWD,automatic,255 hp @ 5000 rpm,295 ft-lbs. @ 1500 rpm,33 mpg
+806,,Electric Motor,AWD,automatic,536 hp @ 0 rpm,586 ft-lbs. @ 0 rpm,98 mpg
+807,,Electric Motor,RWD,automatic,282 hp @ 0 rpm,295 ft-lbs. @ 0 rpm,119 mpg
+808,,Electric Motor,RWD,automatic,335 hp @ 0 rpm,317 ft-lbs. @ 0 rpm,108 mpg
+809,,Electric Motor,AWD,automatic,396 hp @ 0 rpm,443 ft-lbs. @ 0 rpm,111 mpg
+810,,Electric Motor,AWD,automatic,590 hp @ 8000 rpm,586 ft-lbs. @ 0 rpm,93 mpg
+811,,Electric Motor,RWD,automatic,335 hp @ 8000 rpm,295 ft-lbs. @ 0 rpm,105 mpg
+812,,Electric Motor,AWD,automatic,650 hp @ 0 rpm,811 ft-lbs. @ 0 rpm,85 mpg
+813,,Electric Motor,RWD,automatic,449 hp @ 0 rpm,479 ft-lbs. @ 0 rpm,95 mpg
+814,,Electric Motor,AWD,automatic,536 hp @ 0 rpm,549 ft-lbs. @ 0 rpm,87 mpg
+815,,Electric Motor,AWD,automatic,610 hp @ 0 rpm,749 ft-lbs. @ 0 rpm,82 mpg
+816,,Electric Motor,AWD,automatic,516 hp @ 0 rpm,564 ft-lbs. @ 0 rpm,82 mpg
+817,V6,Turbocharged,AWD,automatic,456 hp @ 0 rpm,516 ft-lbs. @ 0 rpm,
+818,V8,Twin-Turbo,AWD,automatic,542 hp @ 5750 rpm,568 ft-lbs. @ 2000 rpm,21 mpg
+819,V6,Turbocharged,AWD,automatic,456 hp @ 0 rpm,516 ft-lbs. @ 0 rpm,
+820,V8,Twin-Turbo,AWD,automatic,542 hp @ 5750 rpm,568 ft-lbs. @ 2000 rpm,21 mpg
+821,V6,Turbocharged,AWD,automatic,456 hp @ 0 rpm,516 ft-lbs. @ 0 rpm,
+822,V6,Turbocharged,AWD,automatic,456 hp @ 0 rpm,516 ft-lbs. @ 0 rpm,
+823,V8,Twin-Turbo,AWD,automatic,542 hp @ 5750 rpm,568 ft-lbs. @ 2000 rpm,21 mpg
+824,V8,Twin-Turbo,AWD,automatic,542 hp @ 5750 rpm,568 ft-lbs. @ 2000 rpm,21 mpg
+832,W12,Twin-Turbo,AWD,automatic,650 hp @ 5000 rpm,664 ft-lbs. @ 1500 rpm,20 mpg
+833,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,22 mpg
+834,W12,Twin-Turbo,AWD,automatic,650 hp @ 5000 rpm,664 ft-lbs. @ 1500 rpm,20 mpg
+835,W12,Twin-Turbo,AWD,automatic,650 hp @ 5000 rpm,664 ft-lbs. @ 1500 rpm,20 mpg
+836,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,22 mpg
+837,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,21 mpg
+838,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,21 mpg
+839,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,21 mpg
+840,W12,Twin-Turbo,AWD,automatic,650 hp @ 5000 rpm,664 ft-lbs. @ 1500 rpm,19 mpg
+841,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,21 mpg
+842,W12,Twin-Turbo,AWD,automatic,650 hp @ 5000 rpm,664 ft-lbs. @ 1500 rpm,19 mpg
+843,W12,Twin-Turbo,AWD,automatic,650 hp @ 5000 rpm,664 ft-lbs. @ 1500 rpm,19 mpg
+844,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,21 mpg
+845,V6,Twin-Turbo,AWD,automatic,536 hp @ 0 rpm,553 ft-lbs. @ 0 rpm,22 mpg
+846,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,20 mpg
+847,V6,Twin-Turbo,AWD,automatic,536 hp @ 0 rpm,553 ft-lbs. @ 0 rpm,22 mpg
+848,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,20 mpg
+849,V6,Twin-Turbo,AWD,automatic,536 hp @ 0 rpm,553 ft-lbs. @ 0 rpm,22 mpg
+850,V6,Twin-Turbo,AWD,automatic,536 hp @ 0 rpm,553 ft-lbs. @ 0 rpm,22 mpg
+851,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,20 mpg
+852,W12,Twin-Turbo,AWD,automatic,626 hp @ 6000 rpm,664 ft-lbs. @ 1350 rpm,19 mpg
+853,V6,Twin-Turbo,AWD,automatic,536 hp @ 0 rpm,553 ft-lbs. @ 0 rpm,22 mpg
+854,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,20 mpg
+855,W12,Twin-Turbo,AWD,automatic,626 hp @ 6000 rpm,664 ft-lbs. @ 1350 rpm,19 mpg
+856,W12,Twin-Turbo,AWD,automatic,626 hp @ 6000 rpm,664 ft-lbs. @ 1350 rpm,19 mpg
+857,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,20 mpg
+858,I4,Turbocharged,4WD,manual,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,17 mpg
+859,I4,Turbocharged,4WD,manual,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,17 mpg
+860,I4,Turbocharged,4WD,manual,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,21 mpg
+861,I4,Turbocharged,4WD,manual,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,21 mpg
+862,I4,Turbocharged,4WD,manual,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,18 mpg
+863,I4,Turbocharged,4WD,manual,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,18 mpg
+864,I4,Turbocharged,4WD,automatic,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,17 mpg
+865,I4,Turbocharged,4WD,manual,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,18 mpg
+866,I4,Turbocharged,4WD,manual,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,18 mpg
+867,V6,Twin-Turbo,4WD,automatic,330 hp @ 5250 rpm,415 ft-lbs. @ 3100 rpm,17 mpg
+868,V6,Twin-Turbo,4WD,automatic,330 hp @ 5250 rpm,415 ft-lbs. @ 3100 rpm,17 mpg
+869,I4,Turbocharged,4WD,automatic,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,21 mpg
+870,V6,Twin-Turbo,4WD,automatic,418 hp @ 0 rpm,440 ft-lbs. @ 0 rpm,16 mpg
+871,V6,Twin-Turbo,4WD,automatic,330 hp @ 5250 rpm,415 ft-lbs. @ 3100 rpm,17 mpg
+872,V6,Twin-Turbo,4WD,automatic,330 hp @ 5250 rpm,415 ft-lbs. @ 3100 rpm,17 mpg
+873,I4,Turbocharged,AWD,automatic,250 hp @ 5500 rpm,277 ft-lbs. @ 3000 rpm,26 mpg
+874,I3,Turbocharged,AWD,automatic,181 hp @ 6000 rpm,190 ft-lbs. @ 3000 rpm,28 mpg
+875,I3,Turbocharged,AWD,automatic,181 hp @ 6000 rpm,190 ft-lbs. @ 3000 rpm,28 mpg
+876,I3,Turbocharged,AWD,automatic,181 hp @ 6000 rpm,190 ft-lbs. @ 3000 rpm,28 mpg
+877,I3,Turbocharged,AWD,automatic,181 hp @ 6000 rpm,190 ft-lbs. @ 3000 rpm,28 mpg
+878,,Electric Motor,RWD,automatic,266 hp @ 0 rpm,317 ft-lbs. @ 0 rpm,
+883,,Electric Motor,RWD,automatic,266 hp @ 0 rpm,317 ft-lbs. @ 0 rpm,
+884,,Electric Motor,RWD,automatic,266 hp @ 0 rpm,317 ft-lbs. @ 0 rpm,
+885,,Electric Motor,RWD,automatic,266 hp @ 0 rpm,317 ft-lbs. @ 0 rpm,
+886,,Electric Motor,RWD,automatic,266 hp @ 0 rpm,317 ft-lbs. @ 0 rpm,
+887,I4,Turbocharged,AWD,automatic,250 hp @ 5500 rpm,280 ft-lbs. @ 3000 rpm,28 mpg
+888,I4,Turbocharged,AWD,automatic,250 hp @ 5500 rpm,280 ft-lbs. @ 3000 rpm,28 mpg
+889,V6,Twin-Turbo,AWD,automatic,335 hp @ 5550 rpm,380 ft-lbs. @ 3250 rpm,25 mpg
+890,I4,Turbocharged,AWD,automatic,250 hp @ 5500 rpm,280 ft-lbs. @ 3000 rpm,28 mpg
+891,I4,Turbocharged,AWD,automatic,250 hp @ 5500 rpm,280 ft-lbs. @ 3000 rpm,28 mpg
+892,I3,Turbocharged,FWD,automatic,180 hp @ 6000 rpm,199 ft-lbs. @ 3000 rpm,34 mpg
+893,I3,Turbocharged,AWD,automatic,180 hp @ 6000 rpm,199 ft-lbs. @ 3000 rpm,32 mpg
+894,I3,Turbocharged,FWD,automatic,180 hp @ 6000 rpm,199 ft-lbs. @ 3000 rpm,34 mpg
+895,I3,Turbocharged,AWD,automatic,180 hp @ 6000 rpm,199 ft-lbs. @ 3000 rpm,32 mpg
+896,I4,Naturally Aspirated,AWD,automatic,192 hp @ 0 rpm,,36 mpg
+897,I4,Naturally Aspirated,FWD,automatic,192 hp @ 0 rpm,,36 mpg
+898,I4,Turbocharged,AWD,automatic,250 hp @ 5500 rpm,280 ft-lbs. @ 3000 rpm,31 mpg
+899,I4,Naturally Aspirated,FWD,automatic,210 hp @ 0 rpm,,37 mpg
+900,I4,Naturally Aspirated,FWD,automatic,192 hp @ 0 rpm,,36 mpg
+901,I3,Turbocharged,AWD,automatic,180 hp @ 6000 rpm,199 ft-lbs. @ 3000 rpm,32 mpg
+902,I3,Turbocharged,FWD,automatic,180 hp @ 6000 rpm,199 ft-lbs. @ 3000 rpm,34 mpg
+903,I4,Turbocharged,AWD,automatic,250 hp @ 5500 rpm,280 ft-lbs. @ 3000 rpm,31 mpg
+904,I4,Naturally Aspirated,AWD,automatic,192 hp @ 0 rpm,,36 mpg
+905,I4,Naturally Aspirated,AWD,automatic,192 hp @ 0 rpm,,36 mpg
+906,I4,Turbocharged,AWD,automatic,250 hp @ 5500 rpm,280 ft-lbs. @ 3000 rpm,31 mpg
+907,V6,Twin-Turbo,RWD,automatic,400 hp @ 5000 rpm,480 ft-lbs. @ 2250 rpm,23 mpg
+908,V6,Twin-Turbo,4WD,automatic,400 hp @ 5000 rpm,480 ft-lbs. @ 2250 rpm,22 mpg
+909,V6,Twin-Turbo,4WD,automatic,400 hp @ 5000 rpm,480 ft-lbs. @ 2250 rpm,22 mpg
+910,V6,Twin-Turbo,RWD,automatic,400 hp @ 5000 rpm,480 ft-lbs. @ 2250 rpm,23 mpg
+911,V6,Twin-Turbo,RWD,automatic,400 hp @ 5000 rpm,480 ft-lbs. @ 2250 rpm,23 mpg
+912,V6,Twin-Turbo,4WD,automatic,400 hp @ 5000 rpm,480 ft-lbs. @ 2250 rpm,22 mpg
+913,V6,Twin-Turbo,RWD,automatic,400 hp @ 5000 rpm,480 ft-lbs. @ 2250 rpm,23 mpg
+914,V6,Twin-Turbo,4WD,automatic,400 hp @ 5000 rpm,480 ft-lbs. @ 2250 rpm,22 mpg
+915,V6,Twin-Turbo,RWD,automatic,400 hp @ 5000 rpm,480 ft-lbs. @ 2250 rpm,23 mpg
+916,V6,Twin-Turbo,4WD,automatic,400 hp @ 5000 rpm,480 ft-lbs. @ 2250 rpm,22 mpg
+917,V6,Twin-Turbo,4WD,automatic,380 hp @ 5000 rpm,470 ft-lbs. @ 2250 rpm,22 mpg
+918,V6,Twin-Turbo,RWD,automatic,380 hp @ 5000 rpm,470 ft-lbs. @ 2250 rpm,23 mpg
+919,V6,Twin-Turbo,RWD,automatic,380 hp @ 5000 rpm,470 ft-lbs. @ 2250 rpm,23 mpg
+920,V6,Twin-Turbo,4WD,automatic,380 hp @ 5000 rpm,470 ft-lbs. @ 2250 rpm,22 mpg
+921,V6,Twin-Turbo,4WD,automatic,400 hp @ 5000 rpm,480 ft-lbs. @ 2250 rpm,22 mpg
+922,V6,Twin-Turbo,RWD,automatic,400 hp @ 5000 rpm,480 ft-lbs. @ 2250 rpm,23 mpg
+923,V6,Twin-Turbo,4WD,automatic,440 hp @ 5000 rpm,510 ft-lbs. @ 2250 rpm,19 mpg
+924,V6,Twin-Turbo,RWD,automatic,380 hp @ 5000 rpm,470 ft-lbs. @ 2250 rpm,23 mpg
+925,V6,Twin-Turbo,4WD,automatic,380 hp @ 5000 rpm,470 ft-lbs. @ 2250 rpm,22 mpg
+926,V6,Twin-Turbo,4WD,automatic,380 hp @ 5000 rpm,470 ft-lbs. @ 2250 rpm,22 mpg
+927,V6,Twin-Turbo,RWD,automatic,380 hp @ 5000 rpm,470 ft-lbs. @ 2250 rpm,23 mpg
+928,V6,Twin-Turbo,4WD,automatic,380 hp @ 5000 rpm,470 ft-lbs. @ 2250 rpm,22 mpg
+929,V6,Twin-Turbo,RWD,automatic,380 hp @ 5000 rpm,470 ft-lbs. @ 2250 rpm,23 mpg
+930,I4,Turbocharged,RWD,automatic,300 hp @ 5500 rpm,310 ft-lbs. @ 3500 rpm,28 mpg
+931,I4,Turbocharged,AWD,automatic,300 hp @ 5500 rpm,310 ft-lbs. @ 3500 rpm,27 mpg
+932,V6,Twin-Turbo,RWD,automatic,400 hp @ 5500 rpm,415 ft-lbs. @ 3500 rpm,26 mpg
+933,V6,Twin-Turbo,AWD,automatic,400 hp @ 5500 rpm,415 ft-lbs. @ 3500 rpm,24 mpg
+934,I4,Turbocharged,AWD,automatic,300 hp @ 5500 rpm,310 ft-lbs. @ 3500 rpm,27 mpg
+935,I4,Turbocharged,RWD,automatic,300 hp @ 5500 rpm,310 ft-lbs. @ 3500 rpm,28 mpg
+936,V6,Twin-Turbo,RWD,automatic,400 hp @ 5500 rpm,415 ft-lbs. @ 3500 rpm,26 mpg
+937,V6,Twin-Turbo,AWD,automatic,400 hp @ 5500 rpm,415 ft-lbs. @ 3500 rpm,24 mpg
+938,V6,Twin-Turbo,AWD,automatic,400 hp @ 5500 rpm,415 ft-lbs. @ 3500 rpm,24 mpg
+939,V6,Twin-Turbo,RWD,automatic,400 hp @ 5500 rpm,415 ft-lbs. @ 3500 rpm,26 mpg
+940,I4,Turbocharged,AWD,automatic,300 hp @ 5500 rpm,310 ft-lbs. @ 3500 rpm,27 mpg
+941,I4,Turbocharged,RWD,automatic,300 hp @ 5500 rpm,310 ft-lbs. @ 3500 rpm,28 mpg
+942,I4,Turbocharged,AWD,automatic,300 hp @ 5500 rpm,310 ft-lbs. @ 3500 rpm,22 mpg
+943,I4,Turbocharged,RWD,automatic,300 hp @ 5500 rpm,310 ft-lbs. @ 3500 rpm,28 mpg
+944,I4,Turbocharged,AWD,automatic,300 hp @ 5500 rpm,310 ft-lbs. @ 3500 rpm,27 mpg
+945,V6,Twin-Turbo,4WD,automatic,400 hp @ 6000 rpm,500 ft-lbs. @ 3100 rpm,24 mpg
+946,V6,Twin-Turbo,4WD,automatic,400 hp @ 6000 rpm,500 ft-lbs. @ 3100 rpm,24 mpg
+947,V8,Naturally Aspirated,4WD,automatic,400 hp @ 6000 rpm,410 ft-lbs. @ 4250 rpm,24 mpg
+948,V8,Naturally Aspirated,4WD,automatic,400 hp @ 6000 rpm,410 ft-lbs. @ 4250 rpm,24 mpg
+949,V6,Twin-Turbo,4WD,automatic,400 hp @ 6000 rpm,500 ft-lbs. @ 3100 rpm,24 mpg
+950,V6,Twin-Turbo,4WD,automatic,400 hp @ 6000 rpm,500 ft-lbs. @ 3100 rpm,24 mpg
+951,V6,Twin-Turbo,4WD,automatic,450 hp @ 5850 rpm,510 ft-lbs. @ 3000 rpm,24 mpg
+952,V6,Twin-Turbo,RWD,automatic,325 hp @ 5000 rpm,400 ft-lbs. @ 3000 rpm,25 mpg
+953,V6,Twin-Turbo,4WD,automatic,325 hp @ 5000 rpm,400 ft-lbs. @ 3000 rpm,23 mpg
+954,V6,Twin-Turbo,RWD,automatic,325 hp @ 5000 rpm,400 ft-lbs. @ 3000 rpm,25 mpg
+955,V6,Twin-Turbo,4WD,automatic,325 hp @ 5000 rpm,400 ft-lbs. @ 3000 rpm,23 mpg
+956,V8,Naturally Aspirated,4WD,automatic,400 hp @ 6000 rpm,410 ft-lbs. @ 4250 rpm,24 mpg
+957,V8,Naturally Aspirated,4WD,automatic,400 hp @ 6000 rpm,410 ft-lbs. @ 4250 rpm,24 mpg
+958,V6,Twin-Turbo,RWD,automatic,325 hp @ 5000 rpm,400 ft-lbs. @ 3000 rpm,25 mpg
+959,V6,Twin-Turbo,4WD,automatic,325 hp @ 5000 rpm,400 ft-lbs. @ 3000 rpm,23 mpg
+960,V8,Naturally Aspirated,RWD,automatic,400 hp @ 6000 rpm,410 ft-lbs. @ 4250 rpm,24 mpg
+961,V6,Twin-Turbo,4WD,automatic,325 hp @ 5000 rpm,400 ft-lbs. @ 3000 rpm,23 mpg
+962,V6,Twin-Turbo,RWD,automatic,325 hp @ 5000 rpm,400 ft-lbs. @ 3000 rpm,25 mpg
+963,V8,Naturally Aspirated,4WD,automatic,400 hp @ 6000 rpm,410 ft-lbs. @ 4250 rpm,24 mpg
+964,V6,Twin-Turbo,4WD,automatic,325 hp @ 5000 rpm,400 ft-lbs. @ 3000 rpm,23 mpg
+965,V6,Twin-Turbo,RWD,automatic,325 hp @ 5000 rpm,400 ft-lbs. @ 3000 rpm,25 mpg
+966,V6,Twin-Turbo,4WD,automatic,325 hp @ 5000 rpm,400 ft-lbs. @ 3000 rpm,23 mpg
+967,V6,Twin-Turbo,4WD,automatic,325 hp @ 5000 rpm,400 ft-lbs. @ 3000 rpm,23 mpg
+968,V8,Naturally Aspirated,4WD,automatic,400 hp @ 6000 rpm,410 ft-lbs. @ 4250 rpm,24 mpg
+969,V6,Twin-Turbo,RWD,automatic,325 hp @ 5000 rpm,400 ft-lbs. @ 3000 rpm,25 mpg
+970,V6,Twin-Turbo,RWD,automatic,325 hp @ 5000 rpm,400 ft-lbs. @ 3000 rpm,25 mpg
+971,,Electric Motor,4WD,automatic,,,63 mpg
+972,,Electric Motor,4WD,automatic,,,63 mpg
+973,,Electric Motor,4WD,automatic,,,60 mpg
+974,,Electric Motor,4WD,automatic,,,61 mpg
+975,,Electric Motor,4WD,automatic,,,61 mpg
+976,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+977,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+978,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+979,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+980,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+981,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+982,V8,Turbocharged,4WD,automatic,500 hp @ 2600 rpm,1200 ft-lbs. @ 1600 rpm,
+983,V8,Turbocharged,4WD,automatic,500 hp @ 2600 rpm,1200 ft-lbs. @ 1600 rpm,
+984,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+985,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+986,V8,Naturally Aspirated,RWD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+987,V8,Naturally Aspirated,RWD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+988,V8,Naturally Aspirated,4WD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+989,V8,Naturally Aspirated,4WD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+990,V8,Naturally Aspirated,4WD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+991,V8,Naturally Aspirated,RWD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+992,V8,Naturally Aspirated,4WD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+993,V8,Naturally Aspirated,RWD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+994,V8,Naturally Aspirated,4WD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+995,V8,Naturally Aspirated,RWD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+996,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+997,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+998,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+999,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+1600,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+1601,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+1602,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+1603,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+1604,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+1605,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+1606,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+1607,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+1608,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+1609,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+1610,V8,Turbocharged,4WD,automatic,500 hp @ 2600 rpm,1200 ft-lbs. @ 1600 rpm,
+1611,V8,Turbocharged,4WD,automatic,500 hp @ 2600 rpm,1200 ft-lbs. @ 1600 rpm,
+1612,V8,Turbocharged,4WD,automatic,500 hp @ 2600 rpm,1200 ft-lbs. @ 1600 rpm,
+1613,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+1614,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+1615,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+1616,V8,Turbocharged,RWD,automatic,475 hp @ 2600 rpm,1050 ft-lbs. @ 1600 rpm,
+1617,V8,Naturally Aspirated,4WD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+1618,V8,Turbocharged,RWD,automatic,475 hp @ 2600 rpm,1050 ft-lbs. @ 1600 rpm,
+1619,V8,Naturally Aspirated,4WD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+1620,V8,Naturally Aspirated,RWD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+1621,V8,Naturally Aspirated,4WD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+1622,V8,Naturally Aspirated,4WD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+1623,V8,Naturally Aspirated,RWD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+1624,V8,Naturally Aspirated,4WD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+1625,V8,Naturally Aspirated,RWD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+1626,V8,Naturally Aspirated,RWD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+1627,V8,Naturally Aspirated,4WD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+1628,V8,Naturally Aspirated,4WD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+1629,V8,Naturally Aspirated,4WD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+1630,V8,Naturally Aspirated,RWD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+1631,V8,Naturally Aspirated,RWD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+1632,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+1633,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+1634,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+1635,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+1636,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+1637,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+1638,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+1639,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+1640,V8,Turbocharged,4WD,automatic,475 hp @ 2600 rpm,1050 ft-lbs. @ 1600 rpm,
+1641,V8,Turbocharged,4WD,automatic,475 hp @ 2600 rpm,1050 ft-lbs. @ 1600 rpm,
+1642,V8,Turbocharged,4WD,automatic,500 hp @ 2600 rpm,1200 ft-lbs. @ 1600 rpm,
+1643,V8,Turbocharged,4WD,automatic,475 hp @ 2600 rpm,1050 ft-lbs. @ 1600 rpm,
+1644,V8,Turbocharged,4WD,automatic,475 hp @ 2600 rpm,1050 ft-lbs. @ 1600 rpm,
+1645,V8,Turbocharged,RWD,automatic,475 hp @ 2600 rpm,1050 ft-lbs. @ 1600 rpm,
+1646,V8,Turbocharged,4WD,automatic,475 hp @ 2600 rpm,1050 ft-lbs. @ 1600 rpm,
+1647,V8,Turbocharged,RWD,automatic,475 hp @ 2600 rpm,1050 ft-lbs. @ 1600 rpm,
+1648,V8,Turbocharged,4WD,automatic,475 hp @ 2600 rpm,1050 ft-lbs. @ 1600 rpm,
+1649,V8,Turbocharged,4WD,automatic,475 hp @ 2600 rpm,1050 ft-lbs. @ 1600 rpm,
+1650,I4,Turbocharged,AWD,automatic,250 hp @ 5500 rpm,277 ft-lbs. @ 3000 rpm,29 mpg
+1651,I4,Turbocharged,FWD,automatic,250 hp @ 5500 rpm,277 ft-lbs. @ 3000 rpm,30 mpg
+1652,I4,Turbocharged,FWD,automatic,250 hp @ 5500 rpm,277 ft-lbs. @ 3000 rpm,30 mpg
+1653,V8,Naturally Aspirated,RWD,manual,500 hp @ 7250 rpm,418 ft-lbs. @ 4900 rpm,22 mpg
+1654,I4,Turbocharged,RWD,automatic,315 hp @ 5500 rpm,350 ft-lbs. @ 3000 rpm,33 mpg
+1655,I4,Turbocharged,RWD,automatic,315 hp @ 5500 rpm,350 ft-lbs. @ 3000 rpm,33 mpg
+1656,I4,Turbocharged,RWD,automatic,315 hp @ 5500 rpm,350 ft-lbs. @ 3000 rpm,33 mpg
+1657,I4,Turbocharged,RWD,automatic,315 hp @ 5500 rpm,350 ft-lbs. @ 3000 rpm,33 mpg
+1658,V8,Naturally Aspirated,RWD,manual,480 hp @ 7150 rpm,486 ft-lbs. @ 7250 rpm,23 mpg
+1660,V8,Naturally Aspirated,RWD,manual,480 hp @ 7150 rpm,486 ft-lbs. @ 7250 rpm,23 mpg
+1661,V8,Naturally Aspirated,RWD,manual,480 hp @ 7150 rpm,486 ft-lbs. @ 7250 rpm,23 mpg
+1664,,Electric Motor,AWD,automatic,480 hp @ 0 rpm,634 ft-lbs. @ 0 rpm,
+1665,,Electric Motor,AWD,automatic,311 hp @ 0 rpm,427 ft-lbs. @ 0 rpm,85 mpg
+1666,,Electric Motor,RWD,automatic,266 hp @ 0 rpm,317 ft-lbs. @ 0 rpm,95 mpg
+1667,,Electric Motor,RWD,automatic,266 hp @ 0 rpm,317 ft-lbs. @ 0 rpm,95 mpg
+1668,,Electric Motor,AWD,automatic,311 hp @ 0 rpm,427 ft-lbs. @ 0 rpm,86 mpg
+1669,I4,Turbocharged,4WD,automatic,270 hp @ 0 rpm,310 ft-lbs. @ 0 rpm,24 mpg
+1670,I4,Turbocharged,RWD,automatic,270 hp @ 0 rpm,310 ft-lbs. @ 0 rpm,25 mpg
+1671,V6,Twin-Turbo,4WD,automatic,405 hp @ 0 rpm,430 ft-lbs. @ 0 rpm,18 mpg
+1672,I4,Turbocharged,4WD,automatic,270 hp @ 0 rpm,310 ft-lbs. @ 0 rpm,24 mpg
+1673,I4,Turbocharged,RWD,automatic,270 hp @ 0 rpm,310 ft-lbs. @ 0 rpm,25 mpg
+1674,I4,Turbocharged,RWD,automatic,270 hp @ 0 rpm,310 ft-lbs. @ 0 rpm,25 mpg
+1675,I4,Turbocharged,4WD,automatic,270 hp @ 0 rpm,310 ft-lbs. @ 0 rpm,24 mpg
+1676,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1677,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1678,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1679,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1680,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1681,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1682,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1683,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1684,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1685,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1686,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1687,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1688,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1689,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1690,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1691,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1692,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1693,V6,Twin-Turbo,AWD,automatic,310 hp @ 5000 rpm,400 ft-lbs. @ 2500 rpm,
+1694,V6,Twin-Turbo,RWD,automatic,310 hp @ 5000 rpm,400 ft-lbs. @ 2500 rpm,
+1695,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1696,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1697,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1698,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1699,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1700,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1701,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1702,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1703,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1704,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1705,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1706,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1707,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1708,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1709,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1710,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1711,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1712,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1713,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1714,V6,Twin-Turbo,AWD,automatic,310 hp @ 5000 rpm,400 ft-lbs. @ 2500 rpm,
+1715,V6,Twin-Turbo,AWD,automatic,310 hp @ 5000 rpm,400 ft-lbs. @ 2500 rpm,
+1716,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1717,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1718,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1719,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1720,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1721,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1722,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1723,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1724,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1725,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1726,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+1727,I6,Turbocharged,AWD,automatic,362 hp @ 5500 rpm,369 ft-lbs. @ 1800 rpm,24 mpg
+1728,I6,Twincharged,AWD,automatic,429 hp @ 6100 rpm,384 ft-lbs. @ 1800 rpm,24 mpg
+1729,V8,Twin-Turbo,AWD,automatic,469 hp @ 5500 rpm,516 ft-lbs. @ 2250 rpm,20 mpg
+1730,V8,Twin-Turbo,AWD,automatic,577 hp @ 5500 rpm,590 ft-lbs. @ 2350 rpm,21 mpg
+1731,V8,Twin-Turbo,AWD,automatic,577 hp @ 5500 rpm,590 ft-lbs. @ 2350 rpm,20 mpg
+1732,V8,Twin-Turbo,AWD,automatic,831 hp @ 5500 rpm,1032 ft-lbs. @ 2500 rpm,
+1733,I4,Turbocharged,AWD,automatic,402 hp @ 6750 rpm,369 ft-lbs. @ 5000 rpm,28 mpg
+1734,I4,Turbocharged,AWD,automatic,671 hp @ 6750 rpm,752 ft-lbs. @ 5000 rpm,
+1735,I4,Turbocharged,RWD,automatic,255 hp @ 5800 rpm,295 ft-lbs. @ 2000 rpm,36 mpg
+1736,I4,Turbocharged,AWD,automatic,255 hp @ 5800 rpm,295 ft-lbs. @ 2000 rpm,33 mpg
+1737,I4,Turbocharged,AWD,automatic,302 hp @ 5800 rpm,295 ft-lbs. @ 3000 rpm,29 mpg
+1738,I4,Turbocharged,AWD,automatic,416 hp @ 6750 rpm,369 ft-lbs. @ 5000 rpm,28 mpg
+1739,I4,Turbocharged,FWD,automatic,221 hp @ 5500 rpm,258 ft-lbs. @ 1800 rpm,36 mpg
+1740,I4,Turbocharged,AWD,automatic,221 hp @ 5500 rpm,258 ft-lbs. @ 1800 rpm,35 mpg
+1741,I6,Twincharged,AWD,automatic,443 hp @ 5800 rpm,413 ft-lbs. @ 2200 rpm,33 mpg
+1742,I4,Turbocharged,AWD,automatic,255 hp @ 5800 rpm,295 ft-lbs. @ 2000 rpm,34 mpg
+1743,I4,Turbocharged,AWD,automatic,255 hp @ 5800 rpm,295 ft-lbs. @ 2000 rpm,32 mpg
+1744,I6,Turbocharged,AWD,automatic,375 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,33 mpg
+1745,I6,Turbocharged,AWD,automatic,375 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,32 mpg
+1746,I4,Turbocharged,AWD,automatic,255 hp @ 5800 rpm,295 ft-lbs. @ 2000 rpm,33 mpg
+1747,I6,Turbocharged,AWD,automatic,375 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,31 mpg
+1748,I6,Turbocharged,AWD,automatic,375 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,31 mpg
+1749,,Electric Motor,FWD,automatic,188 hp @ 0 rpm,284 ft-lbs. @ 0 rpm,100 mpg
+1750,,Electric Motor,AWD,automatic,225 hp @ 0 rpm,288 ft-lbs. @ 0 rpm,85 mpg
+1751,,Electric Motor,AWD,automatic,288 hp @ 0 rpm,384 ft-lbs. @ 0 rpm,85 mpg
+1752,,Electric Motor,AWD,automatic,617 hp @ 0 rpm,701 ft-lbs. @ 0 rpm,74 mpg
+1753,,Electric Motor,AWD,automatic,288 hp @ 0 rpm,417 ft-lbs. @ 0 rpm,96 mpg
+1754,,Electric Motor,RWD,automatic,288 hp @ 0 rpm,564 ft-lbs. @ 0 rpm,94 mpg
+1755,,Electric Motor,AWD,automatic,402 hp @ 0 rpm,633 ft-lbs. @ 0 rpm,94 mpg
+1756,,Electric Motor,AWD,automatic,617 hp @ 0 rpm,701 ft-lbs. @ 0 rpm,71 mpg
+1757,,Electric Motor,AWD,automatic,288 hp @ 0 rpm,564 ft-lbs. @ 0 rpm,82 mpg
+1758,,Electric Motor,RWD,automatic,288 hp @ 0 rpm,417 ft-lbs. @ 0 rpm,88 mpg
+1759,,Electric Motor,AWD,automatic,402 hp @ 0 rpm,633 ft-lbs. @ 0 rpm,83 mpg
+1760,,Electric Motor,AWD,automatic,649 hp @ 0 rpm,700 ft-lbs. @ 0 rpm,85 mpg
+1761,,Electric Motor,AWD,automatic,355 hp @ 0 rpm,590 ft-lbs. @ 0 rpm,98 mpg
+1762,,Electric Motor,RWD,automatic,355 hp @ 0 rpm,590 ft-lbs. @ 0 rpm,98 mpg
+1763,,Electric Motor,AWD,automatic,536 hp @ 0 rpm,633 ft-lbs. @ 0 rpm,98 mpg
+1764,,Electric Motor,AWD,automatic,355 hp @ 0 rpm,590 ft-lbs. @ 0 rpm,82 mpg
+1765,,Electric Motor,RWD,automatic,355 hp @ 0 rpm,419 ft-lbs. @ 0 rpm,83 mpg
+1766,,Electric Motor,AWD,automatic,536 hp @ 0 rpm,633 ft-lbs. @ 0 rpm,81 mpg
+1767,V8,Twin-Turbo,4WD,automatic,577 hp @ 6000 rpm,627 ft-lbs. @ 2500 rpm,16 mpg
+1768,V8,Twin-Turbo,4WD,automatic,577 hp @ 6000 rpm,627 ft-lbs. @ 2500 rpm,12 mpg
+1769,V8,Twin-Turbo,4WD,automatic,416 hp @ 5250 rpm,450 ft-lbs. @ 2000 rpm,16 mpg
+1770,I4,Turbocharged,AWD,automatic,302 hp @ 5800 rpm,295 ft-lbs. @ 3000 rpm,28 mpg
+1771,I4,Turbocharged,FWD,automatic,221 hp @ 5500 rpm,258 ft-lbs. @ 1800 rpm,34 mpg
+1772,I4,Turbocharged,AWD,automatic,221 hp @ 5500 rpm,258 ft-lbs. @ 1800 rpm,33 mpg
+1773,I4,Turbocharged,AWD,automatic,302 hp @ 5800 rpm,295 ft-lbs. @ 3000 rpm,26 mpg
+1774,I4,Turbocharged,FWD,automatic,221 hp @ 5500 rpm,258 ft-lbs. @ 1800 rpm,33 mpg
+1775,I4,Turbocharged,AWD,automatic,221 hp @ 5500 rpm,258 ft-lbs. @ 1800 rpm,32 mpg
+1776,I4,Turbocharged,AWD,automatic,416 hp @ 6750 rpm,369 ft-lbs. @ 5000 rpm,25 mpg
+1777,I4,Turbocharged,RWD,automatic,255 hp @ 5800 rpm,295 ft-lbs. @ 2000 rpm,32 mpg
+1778,I4,Turbocharged,AWD,automatic,255 hp @ 5800 rpm,295 ft-lbs. @ 2000 rpm,31 mpg
+1779,I4,Turbocharged,AWD,automatic,416 hp @ 6750 rpm,369 ft-lbs. @ 5000 rpm,24 mpg
+1780,I4,Turbocharged,AWD,automatic,255 hp @ 5800 rpm,295 ft-lbs. @ 2000 rpm,30 mpg
+1781,I6,Twincharged,AWD,automatic,429 hp @ 6100 rpm,384 ft-lbs. @ 1800 rpm,23 mpg
+1782,V8,Twin-Turbo,AWD,automatic,603 hp @ 5750 rpm,627 ft-lbs. @ 2500 rpm,19 mpg
+1783,I4,Turbocharged,AWD,automatic,255 hp @ 5800 rpm,295 ft-lbs. @ 2000 rpm,27 mpg
+1784,I6,Turbocharged,AWD,automatic,375 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,26 mpg
+1785,I4,Turbocharged,AWD,automatic,381 hp @ 0 rpm,479 ft-lbs. @ 0 rpm,
+1786,V8,Twin-Turbo,AWD,automatic,510 hp @ 5500 rpm,538 ft-lbs. @ 2000 rpm,20 mpg
+1787,I6,Twincharged,AWD,automatic,429 hp @ 6100 rpm,384 ft-lbs. @ 1800 rpm,22 mpg
+1788,V8,Twin-Turbo,AWD,automatic,603 hp @ 5750 rpm,627 ft-lbs. @ 2500 rpm,19 mpg
+1789,V8,Twincharged,AWD,automatic,603 hp @ 5750 rpm,627 ft-lbs. @ 2500 rpm,19 mpg
+1790,I6,Turbocharged,AWD,automatic,375 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,24 mpg
+1791,V8,Twin-Turbo,AWD,automatic,510 hp @ 5500 rpm,538 ft-lbs. @ 2000 rpm,20 mpg
+1792,V8,Twin-Turbo,AWD,automatic,496 hp @ 5500 rpm,516 ft-lbs. @ 2000 rpm,26 mpg
+1793,V12,Twin-Turbo,AWD,automatic,621 hp @ 5250 rpm,664 ft-lbs. @ 2000 rpm,20 mpg
+1794,,Electric Motor,AWD,automatic,649 hp @ 0 rpm,700 ft-lbs. @ 0 rpm,77 mpg
+1795,V8,Twin-Turbo,AWD,automatic,550 hp @ 6500 rpm,538 ft-lbs. @ 5000 rpm,19 mpg
+1796,V8,Twin-Turbo,AWD,automatic,791 hp @ 0 rpm,1055 ft-lbs. @ 0 rpm,
+1797,I6,Twincharged,AWD,automatic,442 hp @ 0 rpm,413 ft-lbs. @ 0 rpm,31 mpg
+1798,V8,Twin-Turbo,AWD,automatic,496 hp @ 5500 rpm,516 ft-lbs. @ 2000 rpm,26 mpg
+1799,I6,Turbocharged,AWD,automatic,510 hp @ 0 rpm,553 ft-lbs. @ 0 rpm,
+2400,I4,Turbocharged,RWD,automatic,375 hp @ 6750 rpm,354 ft-lbs. @ 3250 rpm,27 mpg
+2401,V8,Twin-Turbo,AWD,automatic,469 hp @ 5500 rpm,516 ft-lbs. @ 2250 rpm,21 mpg
+2402,V8,Twin-Turbo,AWD,automatic,577 hp @ 5500 rpm,590 ft-lbs. @ 2500 rpm,21 mpg
+2403,I4,Turbocharged,AWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2404,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2405,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+2406,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2407,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+2408,I4,Turbocharged,AWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2409,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+2410,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2411,I4,Turbocharged,AWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2412,I4,Turbocharged,AWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2413,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+2414,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2415,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+2416,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2417,I4,Turbocharged,AWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2418,I4,Turbocharged,AWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2419,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2420,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+2421,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+2422,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2423,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+2424,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2425,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+2426,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2427,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+2428,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2429,I4,Turbocharged,AWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2430,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2431,I4,Turbocharged,AWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2432,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2433,I4,Turbocharged,AWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2434,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2435,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2436,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2437,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+2438,,Electric Motor,RWD,automatic,134 hp @ 0 rpm,295 ft-lbs. @ 0 rpm,
+2439,,Electric Motor,RWD,automatic,201 hp @ 0 rpm,295 ft-lbs. @ 0 rpm,
+2440,,Electric Motor,FWD,automatic,238 hp @ 0 rpm,221 ft-lbs. @ 0 rpm,91 mpg
+2441,,Electric Motor,FWD,automatic,214 hp @ 0 rpm,221 ft-lbs. @ 0 rpm,94 mpg
+2442,,Electric Motor,AWD,automatic,335 hp @ 0 rpm,413 ft-lbs. @ 0 rpm,89 mpg
+2443,,Electric Motor,AWD,automatic,389 hp @ 0 rpm,442 ft-lbs. @ 0 rpm,86 mpg
+2444,,Electric Motor,FWD,automatic,238 hp @ 0 rpm,221 ft-lbs. @ 0 rpm,91 mpg
+2445,,Electric Motor,AWD,automatic,389 hp @ 0 rpm,442 ft-lbs. @ 0 rpm,86 mpg
+2446,,Electric Motor,AWD,automatic,389 hp @ 0 rpm,442 ft-lbs. @ 0 rpm,87 mpg
+2447,,Electric Motor,AWD,automatic,389 hp @ 0 rpm,442 ft-lbs. @ 0 rpm,84 mpg
+2448,,Electric Motor,FWD,automatic,214 hp @ 0 rpm,221 ft-lbs. @ 0 rpm,95 mpg
+2449,I4,Naturally Aspirated,FWD,automatic,188 hp @ 6000 rpm,180 ft-lbs. @ 3600 rpm,39 mpg
+2450,I4,Naturally Aspirated,FWD,automatic,188 hp @ 6000 rpm,180 ft-lbs. @ 3600 rpm,37 mpg
+2451,I4,Naturally Aspirated,AWD,automatic,182 hp @ 6000 rpm,178 ft-lbs. @ 3600 rpm,36 mpg
+2452,I4,Naturally Aspirated,FWD,automatic,188 hp @ 6000 rpm,180 ft-lbs. @ 3600 rpm,37 mpg
+2453,I4,Naturally Aspirated,AWD,automatic,182 hp @ 6000 rpm,178 ft-lbs. @ 3600 rpm,35 mpg
+2454,I4,Naturally Aspirated,AWD,automatic,182 hp @ 6000 rpm,178 ft-lbs. @ 3600 rpm,36 mpg
+2455,I4,Naturally Aspirated,FWD,automatic,188 hp @ 6000 rpm,180 ft-lbs. @ 3600 rpm,37 mpg
+2456,I4,Turbocharged,FWD,automatic,248 hp @ 5600 rpm,273 ft-lbs. @ 4000 rpm,34 mpg
+2457,V8,Naturally Aspirated,RWD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,19 mpg
+2458,V8,Naturally Aspirated,4WD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,18 mpg
+2459,V8,Naturally Aspirated,4WD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,18 mpg
+2460,V8,Naturally Aspirated,RWD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,19 mpg
+2461,V8,Naturally Aspirated,RWD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,19 mpg
+2462,V8,Naturally Aspirated,4WD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,18 mpg
+2463,V6,Naturally Aspirated,4WD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,22 mpg
+2464,V6,Naturally Aspirated,RWD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,24 mpg
+2465,V6,Naturally Aspirated,RWD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,24 mpg
+2466,V6,Naturally Aspirated,4WD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,23 mpg
+2467,V6,Naturally Aspirated,RWD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,24 mpg
+2468,V6,Naturally Aspirated,4WD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,23 mpg
+2469,V6,Naturally Aspirated,4WD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,23 mpg
+2470,V6,Naturally Aspirated,RWD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,24 mpg
+2471,V6,Naturally Aspirated,4WD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,23 mpg
+2472,V6,Naturally Aspirated,RWD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,24 mpg
+2473,V6,Naturally Aspirated,RWD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,24 mpg
+2474,V6,Naturally Aspirated,4WD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,23 mpg
+2475,V6,Naturally Aspirated,RWD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,24 mpg
+2476,V6,Naturally Aspirated,4WD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,23 mpg
+2477,V6,Twin-Turbo,AWD,automatic,600 hp @ 6800 rpm,481 ft-lbs. @ 3600 rpm,
+2478,V6,Twin-Turbo,AWD,automatic,565 hp @ 6800 rpm,467 ft-lbs. @ 3300 rpm,
+2479,V6,Twin-Turbo,AWD,automatic,565 hp @ 6800 rpm,467 ft-lbs. @ 3300 rpm,
+2480,I4,Naturally Aspirated,FWD,automatic,122 hp @ 6300 rpm,114 ft-lbs. @ 4000 rpm,36 mpg
+2481,I4,Naturally Aspirated,FWD,automatic,122 hp @ 6300 rpm,114 ft-lbs. @ 4000 rpm,36 mpg
+2482,I4,Naturally Aspirated,FWD,automatic,122 hp @ 6300 rpm,114 ft-lbs. @ 4000 rpm,36 mpg
+2483,,Electric Motor,FWD,automatic,147 hp @ 3283 rpm,236 ft-lbs. @ 0 rpm,99 mpg
+2484,,Electric Motor,FWD,automatic,214 hp @ 4000 rpm,250 ft-lbs. @ 800 rpm,98 mpg
+2485,V6,Naturally Aspirated,FWD,automatic,260 hp @ 6000 rpm,240 ft-lbs. @ 4400 rpm,28 mpg
+2486,V6,Naturally Aspirated,AWD,automatic,260 hp @ 6000 rpm,240 ft-lbs. @ 4400 rpm,28 mpg
+2487,V6,Naturally Aspirated,AWD,automatic,260 hp @ 6000 rpm,240 ft-lbs. @ 4400 rpm,28 mpg
+2488,V6,Naturally Aspirated,FWD,automatic,260 hp @ 6000 rpm,240 ft-lbs. @ 4400 rpm,28 mpg
+2489,V6,Naturally Aspirated,FWD,automatic,260 hp @ 6000 rpm,240 ft-lbs. @ 4400 rpm,28 mpg
+2490,V6,Naturally Aspirated,AWD,automatic,260 hp @ 6000 rpm,240 ft-lbs. @ 4400 rpm,28 mpg
+2491,V6,Naturally Aspirated,4WD,automatic,284 hp @ 6400 rpm,259 ft-lbs. @ 4800 rpm,25 mpg
+2492,V6,Naturally Aspirated,FWD,automatic,284 hp @ 6400 rpm,259 ft-lbs. @ 4800 rpm,27 mpg
+2493,V6,Naturally Aspirated,4WD,automatic,295 hp @ 6400 rpm,270 ft-lbs. @ 4800 rpm,23 mpg
+2494,V6,Naturally Aspirated,FWD,automatic,284 hp @ 6400 rpm,259 ft-lbs. @ 4800 rpm,27 mpg
+2495,V6,Naturally Aspirated,4WD,automatic,284 hp @ 6400 rpm,259 ft-lbs. @ 4800 rpm,27 mpg
+2496,V6,Naturally Aspirated,4WD,automatic,284 hp @ 6400 rpm,259 ft-lbs. @ 4800 rpm,27 mpg
+2497,V6,Naturally Aspirated,FWD,automatic,284 hp @ 6400 rpm,259 ft-lbs. @ 4800 rpm,27 mpg
+2498,V6,Naturally Aspirated,FWD,automatic,284 hp @ 6400 rpm,259 ft-lbs. @ 4800 rpm,27 mpg
+2499,V6,Naturally Aspirated,4WD,automatic,284 hp @ 6400 rpm,259 ft-lbs. @ 4800 rpm,27 mpg
+2500,I3,Turbocharged,FWD,automatic,201 hp @ 5600 rpm,225 ft-lbs. @ 2800 rpm,36 mpg
+2501,I3,Turbocharged,AWD,automatic,201 hp @ 5600 rpm,225 ft-lbs. @ 2800 rpm,34 mpg
+2502,I3,Turbocharged,FWD,automatic,201 hp @ 5600 rpm,225 ft-lbs. @ 2800 rpm,37 mpg
+2503,I3,Turbocharged,AWD,automatic,201 hp @ 5600 rpm,225 ft-lbs. @ 2800 rpm,35 mpg
+2504,I3,Turbocharged,FWD,automatic,201 hp @ 5600 rpm,225 ft-lbs. @ 2800 rpm,36 mpg
+2505,I3,Turbocharged,AWD,automatic,201 hp @ 5600 rpm,225 ft-lbs. @ 2800 rpm,34 mpg
+2506,I3,Turbocharged,AWD,automatic,201 hp @ 5600 rpm,225 ft-lbs. @ 2800 rpm,35 mpg
+2507,I3,Turbocharged,FWD,automatic,201 hp @ 5600 rpm,225 ft-lbs. @ 2800 rpm,37 mpg
+2508,I4,Naturally Aspirated,FWD,automatic,149 hp @ 6400 rpm,146 ft-lbs. @ 4400 rpm,40 mpg
+2509,I4,Naturally Aspirated,FWD,automatic,149 hp @ 6400 rpm,146 ft-lbs. @ 4400 rpm,38 mpg
+2510,I4,Naturally Aspirated,FWD,automatic,149 hp @ 6400 rpm,146 ft-lbs. @ 4400 rpm,39 mpg
+2511,V8,Naturally Aspirated,4WD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,20 mpg
+2512,V8,Naturally Aspirated,4WD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,21 mpg
+2513,V8,Naturally Aspirated,RWD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,21 mpg
+2514,V8,Naturally Aspirated,4WD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,21 mpg
+2515,V8,Naturally Aspirated,RWD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,21 mpg
+2516,V8,Naturally Aspirated,4WD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,21 mpg
+2517,V8,Naturally Aspirated,4WD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,
+2518,V8,Naturally Aspirated,4WD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,
+2519,V8,Naturally Aspirated,4WD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,
+2520,I4,Naturally Aspirated,FWD,manual,122 hp @ 6300 rpm,114 ft-lbs. @ 4000 rpm,35 mpg
+2521,I4,Naturally Aspirated,FWD,automatic,122 hp @ 6300 rpm,114 ft-lbs. @ 4000 rpm,40 mpg
+2522,I4,Naturally Aspirated,FWD,automatic,122 hp @ 6300 rpm,114 ft-lbs. @ 4000 rpm,40 mpg
+2523,I4,Naturally Aspirated,FWD,automatic,122 hp @ 6300 rpm,114 ft-lbs. @ 4000 rpm,40 mpg
+2524,V6,Twin-Turbo,RWD,automatic,420 hp @ 6400 rpm,384 ft-lbs. @ 2000 rpm,24 mpg
+2525,V6,Twin-Turbo,RWD,automatic,400 hp @ 6400 rpm,350 ft-lbs. @ 1600 rpm,28 mpg
+2526,V6,Twin-Turbo,RWD,manual,400 hp @ 6400 rpm,350 ft-lbs. @ 1600 rpm,24 mpg
+2527,V6,Twin-Turbo,RWD,automatic,400 hp @ 6400 rpm,350 ft-lbs. @ 1600 rpm,28 mpg
+2528,V6,Twin-Turbo,RWD,manual,400 hp @ 6400 rpm,350 ft-lbs. @ 1600 rpm,24 mpg
+2529,V8,Twin-Turbo,RWD,automatic,528 hp @ 6000 rpm,497 ft-lbs. @ 1500 rpm,24 mpg
+2530,V8,Twin-Turbo,RWD,automatic,528 hp @ 6000 rpm,497 ft-lbs. @ 1500 rpm,24 mpg
+2531,V8,Twin-Turbo,AWD,automatic,697 hp @ 6000 rpm,663 ft-lbs. @ 2750 rpm,20 mpg
+2532,V8,Twin-Turbo,RWD,automatic,503 hp @ 6000 rpm,505 ft-lbs. @ 2000 rpm,24 mpg
+2533,V8,Twin-Turbo,RWD,automatic,528 hp @ 6000 rpm,505 ft-lbs. @ 2000 rpm,
+2534,V8,Twin-Turbo,RWD,automatic,503 hp @ 6000 rpm,505 ft-lbs. @ 2000 rpm,24 mpg
+2535,V12,Twin-Turbo,RWD,automatic,690 hp @ 6500 rpm,555 ft-lbs. @ 5000 rpm,22 mpg
+2536,V12,Twin-Turbo,RWD,automatic,690 hp @ 6500 rpm,555 ft-lbs. @ 5000 rpm,22 mpg
+2537,I4,Turbocharged,FWD,automatic,201 hp @ 4800 rpm,221 ft-lbs. @ 4100 rpm,38 mpg
+2538,I4,Turbocharged,AWD,automatic,201 hp @ 5000 rpm,221 ft-lbs. @ 4000 rpm,35 mpg
+2539,I4,Turbocharged,FWD,automatic,201 hp @ 4800 rpm,221 ft-lbs. @ 4100 rpm,38 mpg
+2540,I4,Turbocharged,AWD,automatic,201 hp @ 5000 rpm,221 ft-lbs. @ 4000 rpm,35 mpg
+2541,I4,Turbocharged,AWD,automatic,201 hp @ 0 rpm,236 ft-lbs. @ 0 rpm,33 mpg
+2542,I4,Turbocharged,AWD,automatic,201 hp @ 0 rpm,236 ft-lbs. @ 0 rpm,33 mpg
+2543,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,32 mpg
+2544,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,32 mpg
+2545,I4,Turbocharged,AWD,automatic,201 hp @ 0 rpm,236 ft-lbs. @ 0 rpm,33 mpg
+2546,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,32 mpg
+2547,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,30 mpg
+2548,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,30 mpg
+2549,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,30 mpg
+2550,I4,Turbocharged,AWD,automatic,201 hp @ 0 rpm,236 ft-lbs. @ 0 rpm,33 mpg
+2551,I4,Turbocharged,AWD,automatic,201 hp @ 0 rpm,236 ft-lbs. @ 0 rpm,33 mpg
+2552,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,31 mpg
+2553,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,31 mpg
+2554,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,32 mpg
+2555,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,31 mpg
+2556,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,31 mpg
+2557,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,32 mpg
+2558,I4,Turbocharged,AWD,automatic,201 hp @ 0 rpm,236 ft-lbs. @ 0 rpm,33 mpg
+2559,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,31 mpg
+2560,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,31 mpg
+2561,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,32 mpg
+2562,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,31 mpg
+2563,V6,Turbocharged,AWD,automatic,335 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,30 mpg
+2564,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,31 mpg
+2565,V6,Turbocharged,AWD,automatic,335 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,30 mpg
+2566,V6,Turbocharged,AWD,automatic,335 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,30 mpg
+2567,V6,Turbocharged,AWD,automatic,335 hp @ 6100 rpm,369 ft-lbs. @ 1400 rpm,30 mpg
+2568,V6,Turbocharged,AWD,automatic,335 hp @ 6100 rpm,369 ft-lbs. @ 1400 rpm,30 mpg
+2569,V6,Turbocharged,AWD,automatic,335 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,30 mpg
+2570,V6,Turbocharged,AWD,automatic,335 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,30 mpg
+2571,V6,Turbocharged,AWD,automatic,335 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,30 mpg
+2572,V6,Turbocharged,AWD,automatic,335 hp @ 5000 rpm,369 ft-lbs. @ 1370 rpm,28 mpg
+2573,I4,Turbocharged,AWD,automatic,184 hp @ 4800 rpm,221 ft-lbs. @ 3500 rpm,29 mpg
+2574,I4,Turbocharged,AWD,automatic,184 hp @ 4800 rpm,221 ft-lbs. @ 3500 rpm,29 mpg
+2575,I4,Turbocharged,AWD,automatic,228 hp @ 6000 rpm,251 ft-lbs. @ 4500 rpm,28 mpg
+2576,I4,Turbocharged,AWD,automatic,228 hp @ 6000 rpm,251 ft-lbs. @ 4500 rpm,28 mpg
+2577,,Electric Motor,AWD,automatic,295 hp @ 0 rpm,339 ft-lbs. @ 0 rpm,89 mpg
+2578,,Electric Motor,AWD,automatic,295 hp @ 0 rpm,339 ft-lbs. @ 0 rpm,89 mpg
+2579,,Electric Motor,AWD,automatic,295 hp @ 0 rpm,339 ft-lbs. @ 0 rpm,89 mpg
+2580,,Electric Motor,RWD,automatic,201 hp @ 0 rpm,229 ft-lbs. @ 0 rpm,94 mpg
+2581,,Electric Motor,AWD,automatic,295 hp @ 0 rpm,339 ft-lbs. @ 0 rpm,87 mpg
+2582,,Electric Motor,RWD,automatic,201 hp @ 0 rpm,229 ft-lbs. @ 0 rpm,94 mpg
+2583,,Electric Motor,AWD,automatic,295 hp @ 0 rpm,339 ft-lbs. @ 0 rpm,87 mpg
+2584,,Electric Motor,AWD,automatic,295 hp @ 0 rpm,339 ft-lbs. @ 0 rpm,87 mpg
+2585,I4,Turbocharged,AWD,automatic,201 hp @ 0 rpm,236 ft-lbs. @ 0 rpm,29 mpg
+2586,I4,Turbocharged,AWD,automatic,201 hp @ 0 rpm,236 ft-lbs. @ 0 rpm,29 mpg
+2587,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,29 mpg
+2588,I4,Turbocharged,AWD,automatic,362 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,27 mpg
+2589,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,29 mpg
+2590,I4,Turbocharged,AWD,automatic,362 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,27 mpg
+2591,I4,Turbocharged,AWD,automatic,201 hp @ 0 rpm,236 ft-lbs. @ 0 rpm,29 mpg
+2592,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,29 mpg
+2593,I4,Turbocharged,AWD,automatic,362 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,27 mpg
+2594,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,29 mpg
+2595,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,29 mpg
+2596,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,29 mpg
+2597,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,25 mpg
+2598,V6,Turbocharged,AWD,automatic,335 hp @ 5000 rpm,369 ft-lbs. @ 1370 rpm,22 mpg
+2599,I4,Turbocharged,AWD,automatic,261 hp @ 0 rpm,273 ft-lbs. @ 0 rpm,25 mpg
+3200,V6,Turbocharged,AWD,automatic,335 hp @ 5000 rpm,369 ft-lbs. @ 1370 rpm,22 mpg
+3201,V6,Turbocharged,AWD,automatic,335 hp @ 5000 rpm,369 ft-lbs. @ 1370 rpm,22 mpg
+3202,V6,Turbocharged,AWD,automatic,335 hp @ 5000 rpm,369 ft-lbs. @ 1370 rpm,23 mpg
+3203,V6,Turbocharged,AWD,automatic,335 hp @ 5000 rpm,369 ft-lbs. @ 1370 rpm,23 mpg
+3204,V6,Turbocharged,AWD,automatic,335 hp @ 5000 rpm,369 ft-lbs. @ 1370 rpm,23 mpg
+3205,V10,Naturally Aspirated,RWD,automatic,602 hp @ 8700 rpm,413 ft-lbs. @ 6700 rpm,21 mpg
+3206,V10,Naturally Aspirated,RWD,automatic,562 hp @ 8100 rpm,406 ft-lbs. @ 6400 rpm,23 mpg
+3207,V10,Naturally Aspirated,AWD,automatic,602 hp @ 8100 rpm,413 ft-lbs. @ 6700 rpm,18 mpg
+3208,V10,Naturally Aspirated,RWD,automatic,562 hp @ 8100 rpm,406 ft-lbs. @ 6400 rpm,23 mpg
+3209,V10,Naturally Aspirated,AWD,automatic,602 hp @ 8100 rpm,413 ft-lbs. @ 6700 rpm,18 mpg
+3210,I5,Turbocharged,AWD,automatic,401 hp @ 6500 rpm,369 ft-lbs. @ 3500 rpm,29 mpg
+3211,V6,Twin-Turbo,AWD,automatic,444 hp @ 0 rpm,442 ft-lbs. @ 0 rpm,26 mpg
+3212,V6,Twin-Turbo,AWD,automatic,444 hp @ 0 rpm,442 ft-lbs. @ 0 rpm,25 mpg
+3213,V8,Twin-Turbo,AWD,automatic,591 hp @ 0 rpm,590 ft-lbs. @ 0 rpm,21 mpg
+3214,V8,Twin-Turbo,AWD,automatic,591 hp @ 0 rpm,590 ft-lbs. @ 0 rpm,21 mpg
+3215,V8,Twin-Turbo,AWD,automatic,591 hp @ 0 rpm,590 ft-lbs. @ 0 rpm,20 mpg
+3216,,Electric Motor,AWD,automatic,637 hp @ 0 rpm,612 ft-lbs. @ 0 rpm,82 mpg
+3217,I4,Turbocharged,AWD,automatic,306 hp @ 5450 rpm,295 ft-lbs. @ 3000 rpm,32 mpg
+3218,I4,Turbocharged,AWD,automatic,306 hp @ 5450 rpm,295 ft-lbs. @ 3000 rpm,32 mpg
+3219,I4,Turbocharged,AWD,automatic,306 hp @ 5450 rpm,295 ft-lbs. @ 3000 rpm,32 mpg
+3220,V6,Turbocharged,AWD,automatic,349 hp @ 5400 rpm,369 ft-lbs. @ 1370 rpm,30 mpg
+3221,V6,Turbocharged,AWD,automatic,349 hp @ 5400 rpm,369 ft-lbs. @ 1370 rpm,30 mpg
+3222,V6,Turbocharged,AWD,automatic,349 hp @ 5400 rpm,369 ft-lbs. @ 1370 rpm,30 mpg
+3223,V6,Turbocharged,AWD,automatic,349 hp @ 5400 rpm,369 ft-lbs. @ 1370 rpm,30 mpg
+3224,V6,Turbocharged,AWD,automatic,349 hp @ 5400 rpm,369 ft-lbs. @ 1370 rpm,28 mpg
+3225,V6,Turbocharged,AWD,automatic,349 hp @ 5400 rpm,369 ft-lbs. @ 1370 rpm,30 mpg
+3226,V6,Turbocharged,AWD,automatic,349 hp @ 5400 rpm,369 ft-lbs. @ 1370 rpm,28 mpg
+3227,V6,Turbocharged,AWD,automatic,349 hp @ 5400 rpm,369 ft-lbs. @ 1370 rpm,30 mpg
+3228,V6,Turbocharged,AWD,automatic,349 hp @ 5400 rpm,369 ft-lbs. @ 1370 rpm,30 mpg
+3229,V6,Turbocharged,AWD,automatic,349 hp @ 5400 rpm,369 ft-lbs. @ 1370 rpm,28 mpg
+3230,V6,Turbocharged,AWD,automatic,349 hp @ 5400 rpm,369 ft-lbs. @ 1370 rpm,30 mpg
+3231,V6,Turbocharged,AWD,automatic,349 hp @ 5400 rpm,369 ft-lbs. @ 1370 rpm,30 mpg
+3232,V6,Twincharged,AWD,automatic,444 hp @ 0 rpm,442 ft-lbs. @ 0 rpm,26 mpg
+3233,V6,Twincharged,AWD,automatic,444 hp @ 0 rpm,442 ft-lbs. @ 0 rpm,26 mpg
+3234,V6,Twincharged,AWD,automatic,444 hp @ 0 rpm,442 ft-lbs. @ 0 rpm,26 mpg
+3235,V6,Twincharged,AWD,automatic,444 hp @ 0 rpm,442 ft-lbs. @ 0 rpm,26 mpg
+3236,V6,Twincharged,AWD,automatic,444 hp @ 0 rpm,442 ft-lbs. @ 0 rpm,26 mpg
+3237,V6,Twincharged,AWD,automatic,444 hp @ 0 rpm,442 ft-lbs. @ 0 rpm,26 mpg
+3238,V8,Twin-Turbo,AWD,automatic,563 hp @ 0 rpm,590 ft-lbs. @ 0 rpm,23 mpg
+3239,V6,Turbocharged,AWD,automatic,349 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,24 mpg
+3240,V6,Turbocharged,AWD,automatic,349 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,24 mpg
+3241,V6,Turbocharged,AWD,automatic,349 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,24 mpg
+3242,V6,Turbocharged,AWD,automatic,349 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,24 mpg
+3243,V6,Turbocharged,AWD,automatic,349 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,24 mpg
+3244,V6,Turbocharged,AWD,automatic,349 hp @ 0 rpm,369 ft-lbs. @ 0 rpm,24 mpg
+3245,V8,Twin-Turbo,AWD,automatic,500 hp @ 0 rpm,568 ft-lbs. @ 0 rpm,20 mpg
+3246,V8,Twin-Turbo,AWD,automatic,500 hp @ 0 rpm,568 ft-lbs. @ 0 rpm,20 mpg
+3247,V8,Twin-Turbo,AWD,automatic,500 hp @ 0 rpm,568 ft-lbs. @ 0 rpm,20 mpg
+3248,V8,Twin-Turbo,AWD,automatic,500 hp @ 0 rpm,568 ft-lbs. @ 0 rpm,20 mpg
+3249,I4,Turbocharged,AWD,automatic,228 hp @ 0 rpm,258 ft-lbs. @ 0 rpm,30 mpg
+3250,I4,Turbocharged,AWD,automatic,228 hp @ 0 rpm,258 ft-lbs. @ 0 rpm,30 mpg
+3251,I4,Turbocharged,AWD,automatic,288 hp @ 0 rpm,280 ft-lbs. @ 0 rpm,31 mpg
+3252,,Electric Motor,AWD,automatic,402 hp @ 0 rpm,490 ft-lbs. @ 0 rpm,77 mpg
+3253,,Electric Motor,AWD,automatic,402 hp @ 0 rpm,490 ft-lbs. @ 0 rpm,77 mpg
+3254,,Electric Motor,AWD,automatic,402 hp @ 0 rpm,490 ft-lbs. @ 0 rpm,77 mpg
+3255,,Electric Motor,AWD,automatic,522 hp @ 0 rpm,472 ft-lbs. @ 0 rpm,83 mpg
+3256,,Electric Motor,AWD,automatic,522 hp @ 0 rpm,472 ft-lbs. @ 0 rpm,83 mpg
+3257,,Electric Motor,AWD,automatic,496 hp @ 0 rpm,717 ft-lbs. @ 0 rpm,75 mpg
+3258,,Electric Motor,AWD,automatic,496 hp @ 0 rpm,717 ft-lbs. @ 0 rpm,75 mpg
+3259,,Electric Motor,AWD,automatic,496 hp @ 0 rpm,717 ft-lbs. @ 0 rpm,77 mpg
+3260,,Electric Motor,AWD,automatic,496 hp @ 0 rpm,717 ft-lbs. @ 0 rpm,77 mpg
+3261,,Electric Motor,AWD,automatic,402 hp @ 0 rpm,490 ft-lbs. @ 0 rpm,80 mpg
+3262,,Electric Motor,AWD,automatic,402 hp @ 0 rpm,490 ft-lbs. @ 0 rpm,80 mpg
+3263,,Electric Motor,AWD,automatic,402 hp @ 0 rpm,490 ft-lbs. @ 0 rpm,80 mpg
+3264,I4,Turbocharged,RWD,automatic,255 hp @ 5000 rpm,295 ft-lbs. @ 1550 rpm,35 mpg
+3265,I4,Turbocharged,AWD,automatic,255 hp @ 5000 rpm,295 ft-lbs. @ 1550 rpm,34 mpg
+3266,I6,Turbocharged,RWD,automatic,382 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,32 mpg
+3267,I6,Turbocharged,AWD,automatic,382 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,32 mpg
+3268,I4,Turbocharged,FWD,automatic,228 hp @ 5000 rpm,258 ft-lbs. @ 1450 rpm,34 mpg
+3269,I4,Turbocharged,AWD,automatic,228 hp @ 5000 rpm,258 ft-lbs. @ 1450 rpm,33 mpg
+3270,I4,Turbocharged,AWD,automatic,302 hp @ 5000 rpm,331 ft-lbs. @ 1750 rpm,33 mpg
+3271,I4,Turbocharged,RWD,automatic,288 hp @ 3800 rpm,310 ft-lbs. @ 1450 rpm,32 mpg
+3272,I4,Turbocharged,AWD,automatic,288 hp @ 3800 rpm,310 ft-lbs. @ 1450 rpm,32 mpg
+3273,I4,Turbocharged,RWD,automatic,255 hp @ 5000 rpm,295 ft-lbs. @ 1550 rpm,34 mpg
+3274,I4,Turbocharged,AWD,automatic,255 hp @ 5000 rpm,295 ft-lbs. @ 1550 rpm,33 mpg
+3275,I6,Turbocharged,RWD,automatic,382 hp @ 5800 rpm,368 ft-lbs. @ 1800 rpm,31 mpg
+3276,I6,Turbocharged,AWD,automatic,382 hp @ 5800 rpm,368 ft-lbs. @ 1800 rpm,32 mpg
+3277,I4,Turbocharged,RWD,automatic,255 hp @ 5000 rpm,295 ft-lbs. @ 1550 rpm,34 mpg
+3278,I4,Turbocharged,RWD,automatic,255 hp @ 5000 rpm,295 ft-lbs. @ 1550 rpm,34 mpg
+3279,I4,Turbocharged,AWD,automatic,255 hp @ 5000 rpm,295 ft-lbs. @ 1550 rpm,33 mpg
+3280,I4,Turbocharged,AWD,automatic,255 hp @ 5000 rpm,295 ft-lbs. @ 1550 rpm,33 mpg
+3281,I6,Turbocharged,RWD,automatic,382 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,31 mpg
+3282,I6,Turbocharged,RWD,automatic,382 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,32 mpg
+3283,I6,Turbocharged,AWD,automatic,382 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,31 mpg
+3284,I6,Turbocharged,AWD,automatic,382 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,31 mpg
+3285,I4,Turbocharged,RWD,automatic,255 hp @ 5000 rpm,294 ft-lbs. @ 1550 rpm,34 mpg
+3286,I4,Turbocharged,AWD,automatic,255 hp @ 5000 rpm,294 ft-lbs. @ 1550 rpm,33 mpg
+3287,I6,Turbocharged,RWD,automatic,382 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,32 mpg
+3288,I6,Turbocharged,AWD,automatic,382 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,31 mpg
+3289,I4,Turbocharged,RWD,automatic,288 hp @ 0 rpm,310 ft-lbs. @ 0 rpm,29 mpg
+3290,I4,Turbocharged,AWD,automatic,288 hp @ 0 rpm,310 ft-lbs. @ 0 rpm,28 mpg
+3291,I4,Turbocharged,RWD,automatic,248 hp @ 5200 rpm,257 ft-lbs. @ 1450 rpm,33 mpg
+3292,I4,Turbocharged,AWD,automatic,248 hp @ 5200 rpm,257 ft-lbs. @ 1450 rpm,32 mpg
+3293,I6,Turbocharged,RWD,automatic,335 hp @ 5500 rpm,331 ft-lbs. @ 1500 rpm,32 mpg
+3294,I6,Turbocharged,AWD,automatic,335 hp @ 5500 rpm,331 ft-lbs. @ 1500 rpm,29 mpg
+3295,V8,Twin-Turbo,AWD,automatic,523 hp @ 5500 rpm,553 ft-lbs. @ 1800 rpm,25 mpg
+3296,I6,Turbocharged,RWD,automatic,375 hp @ 5200 rpm,383 ft-lbs. @ 1850 rpm,31 mpg
+3297,V8,Twin-Turbo,AWD,automatic,536 hp @ 5200 rpm,553 ft-lbs. @ 1800 rpm,26 mpg
+3298,I6,Turbocharged,RWD,automatic,335 hp @ 5000 rpm,368 ft-lbs. @ 1600 rpm,29 mpg
+3299,I6,Turbocharged,RWD,automatic,335 hp @ 5000 rpm,368 ft-lbs. @ 1600 rpm,29 mpg
+3300,I6,Turbocharged,AWD,automatic,335 hp @ 5000 rpm,368 ft-lbs. @ 1600 rpm,29 mpg
+3301,I6,Turbocharged,AWD,automatic,335 hp @ 5000 rpm,368 ft-lbs. @ 1600 rpm,29 mpg
+3302,V8,Twin-Turbo,AWD,automatic,523 hp @ 5500 rpm,553 ft-lbs. @ 1800 rpm,24 mpg
+3303,V8,Twin-Turbo,AWD,automatic,523 hp @ 5500 rpm,553 ft-lbs. @ 1800 rpm,24 mpg
+3304,I6,Turbocharged,RWD,automatic,335 hp @ 5000 rpm,368 ft-lbs. @ 1600 rpm,29 mpg
+3305,I6,Turbocharged,AWD,automatic,335 hp @ 5000 rpm,368 ft-lbs. @ 1600 rpm,29 mpg
+3306,V8,Twin-Turbo,AWD,automatic,523 hp @ 5500 rpm,553 ft-lbs. @ 1800 rpm,24 mpg
+3307,V8,Twin-Turbo,AWD,automatic,612 hp @ 5500 rpm,590 ft-lbs. @ 2000 rpm,24 mpg
+3308,V8,Twin-Turbo,AWD,automatic,630 hp @ 5600 rpm,590 ft-lbs. @ 1800 rpm,20 mpg
+3309,I6,Twin-Turbo,RWD,manual,453 hp @ 6250 rpm,406 ft-lbs. @ 2650 rpm,24 mpg
+3310,I6,Twin-Turbo,RWD,manual,473 hp @ 6250 rpm,406 ft-lbs. @ 2650 rpm,23 mpg
+3311,I6,Twin-Turbo,RWD,automatic,503 hp @ 6250 rpm,479 ft-lbs. @ 2750 rpm,23 mpg
+3312,I6,Twin-Turbo,AWD,automatic,503 hp @ 6250 rpm,479 ft-lbs. @ 2750 rpm,22 mpg
+3313,I6,Twin-Turbo,RWD,manual,473 hp @ 6250 rpm,406 ft-lbs. @ 2650 rpm,23 mpg
+3314,I6,Twin-Turbo,RWD,automatic,503 hp @ 6250 rpm,479 ft-lbs. @ 2750 rpm,23 mpg
+3315,I6,Twin-Turbo,AWD,automatic,503 hp @ 6250 rpm,479 ft-lbs. @ 2750 rpm,22 mpg
+3316,I6,Twin-Turbo,AWD,automatic,503 hp @ 6250 rpm,479 ft-lbs. @ 2750 rpm,23 mpg
+3317,I6,Twin-Turbo,RWD,automatic,543 hp @ 6250 rpm,479 ft-lbs. @ 2750 rpm,23 mpg
+3318,V8,Twin-Turbo,AWD,automatic,600 hp @ 6000 rpm,553 ft-lbs. @ 1800 rpm,21 mpg
+3319,V8,Twin-Turbo,AWD,automatic,617 hp @ 6000 rpm,553 ft-lbs. @ 1800 rpm,21 mpg
+3320,V8,Twin-Turbo,AWD,automatic,617 hp @ 6000 rpm,553 ft-lbs. @ 1800 rpm,21 mpg
+3321,V8,Twin-Turbo,AWD,automatic,617 hp @ 6000 rpm,553 ft-lbs. @ 1800 rpm,22 mpg
+3322,I4,Turbocharged,AWD,automatic,241 hp @ 4500 rpm,295 ft-lbs. @ 1500 rpm,34 mpg
+3323,I4,Turbocharged,FWD,automatic,228 hp @ 5000 rpm,258 ft-lbs. @ 1450 rpm,32 mpg
+3324,I4,Turbocharged,AWD,automatic,228 hp @ 5000 rpm,258 ft-lbs. @ 1450 rpm,31 mpg
+3325,I6,Turbocharged,AWD,automatic,382 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,26 mpg
+3326,I4,Turbocharged,RWD,automatic,248 hp @ 5200 rpm,258 ft-lbs. @ 1450 rpm,29 mpg
+3327,I4,Turbocharged,AWD,automatic,248 hp @ 5200 rpm,258 ft-lbs. @ 1450 rpm,28 mpg
+3328,I6,Twin-Turbo,AWD,automatic,473 hp @ 6250 rpm,457 ft-lbs. @ 2750 rpm,20 mpg
+3329,I6,Turbocharged,AWD,automatic,382 hp @ 5800 rpm,369 ft-lbs. @ 1800 rpm,26 mpg
+3330,I4,Turbocharged,AWD,automatic,248 hp @ 5200 rpm,258 ft-lbs. @ 1450 rpm,28 mpg
+3331,I6,Twin-Turbo,AWD,automatic,473 hp @ 6250 rpm,457 ft-lbs. @ 2750 rpm,20 mpg
+3332,V8,Twin-Turbo,AWD,automatic,523 hp @ 5500 rpm,553 ft-lbs. @ 1800 rpm,22 mpg
+3333,I6,Turbocharged,RWD,automatic,335 hp @ 5500 rpm,331 ft-lbs. @ 1500 rpm,26 mpg
+3334,I6,Turbocharged,AWD,automatic,335 hp @ 5500 rpm,331 ft-lbs. @ 1500 rpm,25 mpg
+3335,I6,Turbocharged,AWD,automatic,389 hp @ 0 rpm,443 ft-lbs. @ 0 rpm,22 mpg
+3336,V8,Twin-Turbo,AWD,automatic,600 hp @ 6000 rpm,553 ft-lbs. @ 1800 rpm,18 mpg
+3337,V8,Twin-Turbo,AWD,automatic,523 hp @ 5500 rpm,553 ft-lbs. @ 1800 rpm,22 mpg
+3338,I6,Turbocharged,AWD,automatic,335 hp @ 5500 rpm,331 ft-lbs. @ 1500 rpm,25 mpg
+3339,V8,Twin-Turbo,AWD,automatic,600 hp @ 6000 rpm,553 ft-lbs. @ 1800 rpm,18 mpg
+3340,V8,Twin-Turbo,AWD,automatic,523 hp @ 5500 rpm,553 ft-lbs. @ 1800 rpm,21 mpg
+3341,I6,Turbocharged,AWD,automatic,375 hp @ 5500 rpm,398 ft-lbs. @ 0 rpm,25 mpg
+3342,V8,Twin-Turbo,AWD,automatic,644 hp @ 5400 rpm,590 ft-lbs. @ 1600 rpm,17 mpg
+3343,I6,Turbocharged,RWD,automatic,382 hp @ 5000 rpm,369 ft-lbs. @ 1600 rpm,31 mpg
+3344,I4,Turbocharged,RWD,automatic,255 hp @ 5000 rpm,295 ft-lbs. @ 1500 rpm,33 mpg
+3345,,Electric Motor,AWD,automatic,536 hp @ 0 rpm,586 ft-lbs. @ 0 rpm,98 mpg
+3346,,Electric Motor,RWD,automatic,281 hp @ 0 rpm,295 ft-lbs. @ 0 rpm,111 mpg
+3347,,Electric Motor,RWD,automatic,335 hp @ 0 rpm,317 ft-lbs. @ 0 rpm,108 mpg
+3348,,Electric Motor,AWD,automatic,536 hp @ 0 rpm,549 ft-lbs. @ 0 rpm,85 mpg
+3349,,Electric Motor,AWD,automatic,610 hp @ 0 rpm,811 ft-lbs. @ 0 rpm,80 mpg
+3350,,Electric Motor,AWD,automatic,516 hp @ 0 rpm,564 ft-lbs. @ 0 rpm,87 mpg
+3351,V6,Turbocharged,AWD,automatic,456 hp @ 0 rpm,516 ft-lbs. @ 0 rpm,24 mpg
+3352,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 1960 rpm,21 mpg
+3353,V6,Turbocharged,AWD,automatic,456 hp @ 0 rpm,516 ft-lbs. @ 0 rpm,24 mpg
+3354,V6,Turbocharged,AWD,automatic,456 hp @ 0 rpm,516 ft-lbs. @ 0 rpm,24 mpg
+3355,V6,Turbocharged,AWD,automatic,456 hp @ 0 rpm,516 ft-lbs. @ 0 rpm,24 mpg
+3356,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 1960 rpm,21 mpg
+3357,W12,Twin-Turbo,AWD,automatic,626 hp @ 5000 rpm,664 ft-lbs. @ 1750 rpm,19 mpg
+3358,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 1960 rpm,21 mpg
+3359,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,21 mpg
+3360,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,21 mpg
+3361,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,23 mpg
+3362,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,23 mpg
+3363,W12,Twin-Turbo,AWD,automatic,650 hp @ 5000 rpm,664 ft-lbs. @ 1500 rpm,20 mpg
+3364,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,23 mpg
+3365,W12,Twin-Turbo,AWD,automatic,650 hp @ 5000 rpm,664 ft-lbs. @ 1500 rpm,20 mpg
+3366,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,23 mpg
+3367,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,22 mpg
+3368,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,22 mpg
+3369,W12,Twin-Turbo,AWD,automatic,650 hp @ 5000 rpm,664 ft-lbs. @ 1500 rpm,18 mpg
+3370,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,22 mpg
+3371,W12,Twin-Turbo,AWD,automatic,650 hp @ 5000 rpm,664 ft-lbs. @ 1500 rpm,18 mpg
+3372,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,22 mpg
+3373,V6,Twin-Turbo,AWD,automatic,536 hp @ 0 rpm,553 ft-lbs. @ 0 rpm,22 mpg
+3374,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,22 mpg
+3375,V6,Twin-Turbo,AWD,automatic,536 hp @ 0 rpm,553 ft-lbs. @ 0 rpm,22 mpg
+3376,V6,Twin-Turbo,AWD,automatic,536 hp @ 0 rpm,553 ft-lbs. @ 0 rpm,22 mpg
+3377,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,22 mpg
+3378,W12,Twin-Turbo,AWD,automatic,626 hp @ 6000 rpm,664 ft-lbs. @ 1350 rpm,19 mpg
+3379,V6,Twin-Turbo,AWD,automatic,536 hp @ 0 rpm,553 ft-lbs. @ 0 rpm,22 mpg
+3380,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,22 mpg
+3381,W12,Twin-Turbo,AWD,automatic,626 hp @ 6000 rpm,664 ft-lbs. @ 1350 rpm,19 mpg
+3382,V8,Twin-Turbo,AWD,automatic,542 hp @ 6000 rpm,568 ft-lbs. @ 2000 rpm,22 mpg
+3383,I4,Turbocharged,4WD,manual,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,17 mpg
+3384,I4,Turbocharged,4WD,manual,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,17 mpg
+3385,I4,Turbocharged,4WD,manual,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,21 mpg
+3386,I4,Turbocharged,4WD,manual,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,21 mpg
+3387,I4,Turbocharged,4WD,automatic,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,21 mpg
+3388,I4,Turbocharged,4WD,automatic,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,18 mpg
+3389,I4,Turbocharged,4WD,manual,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,21 mpg
+3390,I4,Turbocharged,4WD,manual,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,21 mpg
+3391,I4,Turbocharged,4WD,manual,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,21 mpg
+3392,I4,Turbocharged,4WD,manual,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,21 mpg
+3393,I4,Turbocharged,4WD,manual,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,18 mpg
+3394,I4,Turbocharged,4WD,manual,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,18 mpg
+3395,I4,Turbocharged,4WD,manual,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,18 mpg
+3396,I4,Turbocharged,4WD,manual,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,18 mpg
+3397,I4,Turbocharged,4WD,automatic,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,17 mpg
+3398,I4,Turbocharged,4WD,manual,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,18 mpg
+3399,I4,Turbocharged,4WD,manual,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,18 mpg
+4000,V6,Twin-Turbo,4WD,automatic,330 hp @ 5250 rpm,415 ft-lbs. @ 3100 rpm,17 mpg
+4001,V6,Twin-Turbo,4WD,automatic,330 hp @ 5250 rpm,415 ft-lbs. @ 3100 rpm,17 mpg
+4002,I4,Turbocharged,4WD,automatic,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,21 mpg
+4003,I4,Turbocharged,4WD,automatic,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,21 mpg
+4004,I4,Turbocharged,4WD,automatic,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,21 mpg
+4005,I4,Turbocharged,4WD,automatic,300 hp @ 5700 rpm,325 ft-lbs. @ 3400 rpm,21 mpg
+4006,V6,Twin-Turbo,4WD,automatic,418 hp @ 0 rpm,440 ft-lbs. @ 0 rpm,16 mpg
+4007,V6,Twin-Turbo,4WD,automatic,330 hp @ 5250 rpm,415 ft-lbs. @ 3100 rpm,17 mpg
+4008,V6,Twin-Turbo,4WD,automatic,330 hp @ 5250 rpm,415 ft-lbs. @ 3100 rpm,17 mpg
+4009,I4,Turbocharged,AWD,automatic,250 hp @ 5500 rpm,277 ft-lbs. @ 3000 rpm,26 mpg
+4010,I3,Turbocharged,AWD,automatic,181 hp @ 6000 rpm,190 ft-lbs. @ 3000 rpm,28 mpg
+4011,I3,Turbocharged,AWD,automatic,181 hp @ 6000 rpm,190 ft-lbs. @ 3000 rpm,28 mpg
+4012,I3,Turbocharged,AWD,automatic,181 hp @ 6000 rpm,190 ft-lbs. @ 3000 rpm,28 mpg
+4013,I4,Turbocharged,AWD,automatic,250 hp @ 5500 rpm,277 ft-lbs. @ 3000 rpm,26 mpg
+4014,I3,Turbocharged,AWD,automatic,181 hp @ 6000 rpm,190 ft-lbs. @ 3000 rpm,28 mpg
+4015,,Electric Motor,RWD,automatic,266 hp @ 0 rpm,317 ft-lbs. @ 0 rpm,
+4016,,Electric Motor,RWD,automatic,266 hp @ 0 rpm,317 ft-lbs. @ 0 rpm,
+4017,,Electric Motor,RWD,automatic,266 hp @ 0 rpm,317 ft-lbs. @ 0 rpm,
+4018,,Electric Motor,RWD,automatic,266 hp @ 0 rpm,317 ft-lbs. @ 0 rpm,
+4019,,Electric Motor,RWD,automatic,266 hp @ 0 rpm,317 ft-lbs. @ 0 rpm,
+4020,,Electric Motor,RWD,automatic,266 hp @ 0 rpm,317 ft-lbs. @ 0 rpm,
+4021,I4,Turbocharged,AWD,automatic,250 hp @ 5500 rpm,280 ft-lbs. @ 3000 rpm,28 mpg
+4022,I4,Turbocharged,AWD,automatic,250 hp @ 5500 rpm,280 ft-lbs. @ 3000 rpm,28 mpg
+4023,V6,Twin-Turbo,AWD,automatic,335 hp @ 5550 rpm,380 ft-lbs. @ 3250 rpm,25 mpg
+4024,I4,Turbocharged,AWD,automatic,250 hp @ 5500 rpm,280 ft-lbs. @ 3000 rpm,28 mpg
+4025,I4,Turbocharged,AWD,automatic,250 hp @ 5500 rpm,280 ft-lbs. @ 3000 rpm,28 mpg
+4026,I3,Turbocharged,AWD,automatic,180 hp @ 6000 rpm,199 ft-lbs. @ 3000 rpm,32 mpg
+4027,I3,Turbocharged,FWD,automatic,180 hp @ 6000 rpm,199 ft-lbs. @ 3000 rpm,34 mpg
+4028,I4,Naturally Aspirated,AWD,automatic,192 hp @ 6250 rpm,155 ft-lbs. @ 4500 rpm,36 mpg
+4029,I4,Naturally Aspirated,FWD,automatic,192 hp @ 6250 rpm,155 ft-lbs. @ 4500 rpm,36 mpg
+4030,I3,Turbocharged,FWD,automatic,180 hp @ 6000 rpm,199 ft-lbs. @ 3000 rpm,34 mpg
+4031,I3,Turbocharged,AWD,automatic,180 hp @ 6000 rpm,199 ft-lbs. @ 3000 rpm,32 mpg
+4032,I4,Naturally Aspirated,FWD,automatic,192 hp @ 6250 rpm,155 ft-lbs. @ 4500 rpm,36 mpg
+4033,I4,Naturally Aspirated,AWD,automatic,192 hp @ 6250 rpm,155 ft-lbs. @ 4500 rpm,36 mpg
+4034,I4,Turbocharged,AWD,automatic,250 hp @ 5500 rpm,280 ft-lbs. @ 3000 rpm,31 mpg
+4035,I4,Naturally Aspirated,FWD,automatic,210 hp @ 6250 rpm,155 ft-lbs. @ 4500 rpm,37 mpg
+4036,I4,Naturally Aspirated,FWD,automatic,192 hp @ 6250 rpm,155 ft-lbs. @ 4500 rpm,36 mpg
+4037,I3,Turbocharged,FWD,automatic,180 hp @ 6000 rpm,199 ft-lbs. @ 3000 rpm,34 mpg
+4038,I3,Turbocharged,AWD,automatic,180 hp @ 6000 rpm,199 ft-lbs. @ 3000 rpm,32 mpg
+4039,I4,Naturally Aspirated,AWD,automatic,192 hp @ 6250 rpm,155 ft-lbs. @ 4500 rpm,36 mpg
+4040,I4,Turbocharged,AWD,automatic,250 hp @ 5500 rpm,280 ft-lbs. @ 3000 rpm,31 mpg
+4041,I4,Turbocharged,AWD,automatic,250 hp @ 5500 rpm,280 ft-lbs. @ 3000 rpm,31 mpg
+4042,I4,Naturally Aspirated,AWD,automatic,192 hp @ 6250 rpm,155 ft-lbs. @ 4500 rpm,36 mpg
+4043,V6,Twin-Turbo,RWD,automatic,400 hp @ 5000 rpm,480 ft-lbs. @ 5000 rpm,23 mpg
+4044,V6,Twin-Turbo,4WD,automatic,400 hp @ 5000 rpm,480 ft-lbs. @ 5000 rpm,21 mpg
+4045,V6,Twin-Turbo,RWD,automatic,400 hp @ 5000 rpm,480 ft-lbs. @ 5000 rpm,23 mpg
+4046,V6,Twin-Turbo,4WD,automatic,400 hp @ 5000 rpm,480 ft-lbs. @ 5000 rpm,21 mpg
+4047,V6,Twin-Turbo,RWD,automatic,400 hp @ 5000 rpm,480 ft-lbs. @ 5000 rpm,23 mpg
+4048,V6,Twin-Turbo,4WD,automatic,400 hp @ 5000 rpm,480 ft-lbs. @ 5000 rpm,21 mpg
+4049,V6,Twin-Turbo,4WD,automatic,400 hp @ 5000 rpm,480 ft-lbs. @ 5000 rpm,21 mpg
+4050,V6,Twin-Turbo,RWD,automatic,400 hp @ 5000 rpm,480 ft-lbs. @ 5000 rpm,23 mpg
+4051,V6,Twin-Turbo,RWD,automatic,400 hp @ 5000 rpm,480 ft-lbs. @ 5000 rpm,23 mpg
+4052,V6,Twin-Turbo,4WD,automatic,400 hp @ 5000 rpm,480 ft-lbs. @ 5000 rpm,22 mpg
+4053,V6,Twin-Turbo,RWD,automatic,380 hp @ 5000 rpm,470 ft-lbs. @ 2250 rpm,23 mpg
+4054,V6,Twin-Turbo,4WD,automatic,380 hp @ 5000 rpm,470 ft-lbs. @ 2250 rpm,21 mpg
+4055,V6,Twin-Turbo,RWD,automatic,380 hp @ 5000 rpm,470 ft-lbs. @ 2250 rpm,23 mpg
+4056,V6,Twin-Turbo,4WD,automatic,380 hp @ 5000 rpm,470 ft-lbs. @ 2250 rpm,21 mpg
+4057,V6,Twin-Turbo,RWD,automatic,400 hp @ 5000 rpm,480 ft-lbs. @ 5000 rpm,23 mpg
+4058,V6,Twin-Turbo,4WD,automatic,400 hp @ 5000 rpm,480 ft-lbs. @ 5000 rpm,22 mpg
+4059,V6,Twin-Turbo,4WD,automatic,440 hp @ 5000 rpm,510 ft-lbs. @ 2250 rpm,19 mpg
+4060,V6,Twin-Turbo,RWD,automatic,380 hp @ 5000 rpm,470 ft-lbs. @ 2250 rpm,23 mpg
+4061,V6,Twin-Turbo,4WD,automatic,380 hp @ 5000 rpm,470 ft-lbs. @ 2250 rpm,21 mpg
+4062,V6,Twin-Turbo,RWD,automatic,380 hp @ 5000 rpm,470 ft-lbs. @ 2250 rpm,23 mpg
+4063,V6,Twin-Turbo,4WD,automatic,380 hp @ 5000 rpm,470 ft-lbs. @ 2250 rpm,21 mpg
+4064,V6,Twin-Turbo,RWD,automatic,380 hp @ 5000 rpm,470 ft-lbs. @ 2250 rpm,23 mpg
+4065,V6,Twin-Turbo,4WD,automatic,380 hp @ 5000 rpm,470 ft-lbs. @ 2250 rpm,21 mpg
+4066,I4,Turbocharged,RWD,automatic,300 hp @ 5500 rpm,310 ft-lbs. @ 3500 rpm,28 mpg
+4067,I4,Turbocharged,AWD,automatic,300 hp @ 5500 rpm,310 ft-lbs. @ 3500 rpm,27 mpg
+4068,V6,Twin-Turbo,AWD,automatic,400 hp @ 5500 rpm,415 ft-lbs. @ 3500 rpm,24 mpg
+4069,V6,Twin-Turbo,RWD,automatic,400 hp @ 5500 rpm,415 ft-lbs. @ 3500 rpm,26 mpg
+4070,I4,Turbocharged,AWD,automatic,300 hp @ 5500 rpm,310 ft-lbs. @ 3500 rpm,27 mpg
+4071,I4,Turbocharged,RWD,automatic,300 hp @ 5500 rpm,310 ft-lbs. @ 3500 rpm,28 mpg
+4072,V6,Naturally Aspirated,RWD,automatic,318 hp @ 6500 rpm,322 ft-lbs. @ 2500 rpm,28 mpg
+4073,V6,Naturally Aspirated,AWD,automatic,318 hp @ 6500 rpm,322 ft-lbs. @ 2500 rpm,26 mpg
+4074,V6,Twin-Turbo,AWD,automatic,400 hp @ 5500 rpm,415 ft-lbs. @ 3500 rpm,24 mpg
+4075,V6,Twin-Turbo,RWD,automatic,400 hp @ 5500 rpm,415 ft-lbs. @ 3500 rpm,26 mpg
+4076,V6,Naturally Aspirated,RWD,automatic,318 hp @ 6500 rpm,322 ft-lbs. @ 2500 rpm,26 mpg
+4077,V6,Naturally Aspirated,AWD,automatic,318 hp @ 6500 rpm,322 ft-lbs. @ 2500 rpm,24 mpg
+4078,V6,Twin-Turbo,AWD,automatic,400 hp @ 5500 rpm,415 ft-lbs. @ 3500 rpm,24 mpg
+4079,V6,Twin-Turbo,RWD,automatic,400 hp @ 5500 rpm,415 ft-lbs. @ 3500 rpm,26 mpg
+4080,I4,Turbocharged,RWD,automatic,300 hp @ 5500 rpm,310 ft-lbs. @ 3500 rpm,28 mpg
+4081,I4,Turbocharged,AWD,automatic,300 hp @ 5500 rpm,310 ft-lbs. @ 3500 rpm,27 mpg
+4082,I4,Turbocharged,AWD,automatic,300 hp @ 5500 rpm,310 ft-lbs. @ 3500 rpm,22 mpg
+4083,I4,Turbocharged,RWD,automatic,300 hp @ 5500 rpm,310 ft-lbs. @ 3500 rpm,28 mpg
+4084,I4,Turbocharged,AWD,automatic,300 hp @ 5500 rpm,310 ft-lbs. @ 3500 rpm,27 mpg
+4085,V8,Naturally Aspirated,4WD,automatic,400 hp @ 6000 rpm,410 ft-lbs. @ 4250 rpm,22 mpg
+4086,V8,Naturally Aspirated,RWD,automatic,400 hp @ 6000 rpm,410 ft-lbs. @ 4250 rpm,25 mpg
+4087,V8,Naturally Aspirated,4WD,automatic,400 hp @ 6000 rpm,410 ft-lbs. @ 4250 rpm,22 mpg
+4088,V8,Naturally Aspirated,RWD,automatic,400 hp @ 6000 rpm,410 ft-lbs. @ 4250 rpm,25 mpg
+4089,V6,Twin-Turbo,4WD,automatic,325 hp @ 5000 rpm,400 ft-lbs. @ 3000 rpm,24 mpg
+4090,V6,Twin-Turbo,RWD,automatic,325 hp @ 5000 rpm,400 ft-lbs. @ 3000 rpm,26 mpg
+4091,V8,Naturally Aspirated,4WD,automatic,400 hp @ 6000 rpm,410 ft-lbs. @ 4250 rpm,22 mpg
+4092,V6,Twin-Turbo,RWD,automatic,325 hp @ 5000 rpm,400 ft-lbs. @ 3000 rpm,26 mpg
+4093,V6,Twin-Turbo,4WD,automatic,430 hp @ 6000 rpm,570 ft-lbs. @ 3000 rpm,23 mpg
+4094,V8,Naturally Aspirated,4WD,automatic,400 hp @ 6000 rpm,410 ft-lbs. @ 4250 rpm,22 mpg
+4095,V8,Naturally Aspirated,RWD,automatic,400 hp @ 6000 rpm,410 ft-lbs. @ 4250 rpm,25 mpg
+4096,V8,Naturally Aspirated,RWD,automatic,400 hp @ 6000 rpm,410 ft-lbs. @ 4250 rpm,25 mpg
+4097,V8,Naturally Aspirated,4WD,automatic,400 hp @ 6000 rpm,410 ft-lbs. @ 4250 rpm,22 mpg
+4098,V6,Twin-Turbo,4WD,automatic,450 hp @ 5850 rpm,510 ft-lbs. @ 3000 rpm,18 mpg
+4099,V8,Supercharged,4WD,automatic,700 hp @ 6650 rpm,640 ft-lbs. @ 4250 rpm,15 mpg
+4100,V8,Naturally Aspirated,4WD,automatic,400 hp @ 6000 rpm,410 ft-lbs. @ 4250 rpm,20 mpg
+4101,V6,Naturally Aspirated,4WD,automatic,290 hp @ 6500 rpm,265 ft-lbs. @ 4000 rpm,22 mpg
+4102,V6,Naturally Aspirated,4WD,automatic,290 hp @ 6500 rpm,265 ft-lbs. @ 4000 rpm,22 mpg
+4103,V6,Naturally Aspirated,RWD,automatic,290 hp @ 6500 rpm,265 ft-lbs. @ 4000 rpm,24 mpg
+4104,V8,Naturally Aspirated,4WD,automatic,400 hp @ 6000 rpm,410 ft-lbs. @ 4250 rpm,22 mpg
+4105,V6,Twin-Turbo,RWD,automatic,325 hp @ 5000 rpm,400 ft-lbs. @ 3000 rpm,26 mpg
+4106,V6,Naturally Aspirated,4WD,automatic,290 hp @ 6500 rpm,265 ft-lbs. @ 4000 rpm,22 mpg
+4107,V6,Naturally Aspirated,RWD,automatic,290 hp @ 6500 rpm,265 ft-lbs. @ 4000 rpm,24 mpg
+4108,V6,Naturally Aspirated,RWD,automatic,290 hp @ 6500 rpm,265 ft-lbs. @ 4000 rpm,24 mpg
+4109,V6,Twin-Turbo,RWD,automatic,325 hp @ 5000 rpm,400 ft-lbs. @ 3000 rpm,26 mpg
+4110,V8,Naturally Aspirated,4WD,automatic,400 hp @ 6000 rpm,410 ft-lbs. @ 4250 rpm,22 mpg
+4111,V6,Naturally Aspirated,4WD,automatic,290 hp @ 6500 rpm,265 ft-lbs. @ 4000 rpm,22 mpg
+4112,V6,Naturally Aspirated,RWD,automatic,290 hp @ 6500 rpm,265 ft-lbs. @ 4000 rpm,24 mpg
+4113,V8,Naturally Aspirated,4WD,automatic,400 hp @ 6000 rpm,410 ft-lbs. @ 4250 rpm,22 mpg
+4114,V6,Naturally Aspirated,4WD,automatic,290 hp @ 6500 rpm,265 ft-lbs. @ 4000 rpm,22 mpg
+4115,V6,Naturally Aspirated,4WD,automatic,290 hp @ 6500 rpm,265 ft-lbs. @ 4000 rpm,22 mpg
+4116,V6,Naturally Aspirated,RWD,automatic,290 hp @ 6500 rpm,265 ft-lbs. @ 4000 rpm,24 mpg
+4117,V6,Twin-Turbo,RWD,automatic,325 hp @ 5000 rpm,400 ft-lbs. @ 3000 rpm,26 mpg
+4118,V6,Naturally Aspirated,4WD,automatic,290 hp @ 6500 rpm,265 ft-lbs. @ 4000 rpm,22 mpg
+4119,V8,Naturally Aspirated,4WD,automatic,400 hp @ 6000 rpm,410 ft-lbs. @ 4250 rpm,22 mpg
+4120,V6,Naturally Aspirated,4WD,automatic,290 hp @ 6500 rpm,265 ft-lbs. @ 4000 rpm,22 mpg
+4121,V6,Naturally Aspirated,RWD,automatic,290 hp @ 6500 rpm,265 ft-lbs. @ 4000 rpm,24 mpg
+4122,V6,Naturally Aspirated,RWD,automatic,290 hp @ 6500 rpm,265 ft-lbs. @ 4000 rpm,24 mpg
+4123,V6,Twin-Turbo,RWD,automatic,325 hp @ 5000 rpm,400 ft-lbs. @ 3000 rpm,26 mpg
+4124,V6,Naturally Aspirated,RWD,automatic,290 hp @ 6500 rpm,265 ft-lbs. @ 4000 rpm,24 mpg
+4125,,Electric Motor,4WD,automatic,426 hp @ 0 rpm,775 ft-lbs. @ 0 rpm,61 mpg
+4126,,Electric Motor,4WD,automatic,563 hp @ 0 rpm,775 ft-lbs. @ 0 rpm,60 mpg
+4127,,Electric Motor,4WD,automatic,426 hp @ 0 rpm,775 ft-lbs. @ 0 rpm,61 mpg
+4128,,Electric Motor,4WD,automatic,426 hp @ 0 rpm,775 ft-lbs. @ 0 rpm,61 mpg
+4129,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4130,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4131,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4132,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4133,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4134,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4135,V8,Turbocharged,4WD,automatic,500 hp @ 2600 rpm,1200 ft-lbs. @ 1600 rpm,
+4136,V8,Turbocharged,4WD,automatic,500 hp @ 2600 rpm,1200 ft-lbs. @ 1600 rpm,
+4137,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4138,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4139,V8,Naturally Aspirated,4WD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+4140,V8,Naturally Aspirated,RWD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+4141,V8,Naturally Aspirated,4WD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+4142,V8,Naturally Aspirated,RWD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+4143,V8,Naturally Aspirated,RWD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+4144,V8,Naturally Aspirated,RWD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+4145,V8,Naturally Aspirated,4WD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+4146,V8,Naturally Aspirated,RWD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+4147,V8,Naturally Aspirated,4WD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+4148,V8,Naturally Aspirated,4WD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+4149,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4150,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4151,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4152,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4153,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4154,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4155,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4156,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4157,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4158,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4159,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4160,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4161,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4163,V8,Turbocharged,4WD,automatic,500 hp @ 2600 rpm,1200 ft-lbs. @ 1600 rpm,
+4164,V8,Turbocharged,4WD,automatic,500 hp @ 2600 rpm,1200 ft-lbs. @ 1600 rpm,
+4165,V8,Turbocharged,4WD,automatic,500 hp @ 2600 rpm,1200 ft-lbs. @ 1600 rpm,
+4166,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4167,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4168,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4169,V8,Naturally Aspirated,4WD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+4170,V8,Naturally Aspirated,RWD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+4171,V8,Naturally Aspirated,4WD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+4172,V8,Naturally Aspirated,RWD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+4173,V8,Naturally Aspirated,RWD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+4178,V8,Naturally Aspirated,RWD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+4179,V8,Naturally Aspirated,4WD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+4180,V8,Naturally Aspirated,RWD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+4181,V8,Naturally Aspirated,4WD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+4182,V8,Naturally Aspirated,RWD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+4183,V8,Naturally Aspirated,4WD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+4184,V8,Naturally Aspirated,RWD,automatic,405 hp @ 5000 rpm,445 ft-lbs. @ 4000 rpm,
+4185,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4186,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4187,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4188,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4189,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4190,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4191,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4192,V8,Naturally Aspirated,4WD,automatic,430 hp @ 5500 rpm,485 ft-lbs. @ 4000 rpm,
+4193,V8,Turbocharged,4WD,automatic,475 hp @ 2600 rpm,1050 ft-lbs. @ 1600 rpm,
+4194,V8,Turbocharged,4WD,automatic,475 hp @ 2600 rpm,1050 ft-lbs. @ 1600 rpm,
+4195,V8,Turbocharged,4WD,automatic,500 hp @ 2600 rpm,1200 ft-lbs. @ 1600 rpm,
+4196,V8,Turbocharged,4WD,automatic,475 hp @ 2600 rpm,1050 ft-lbs. @ 1600 rpm,
+4197,V8,Turbocharged,4WD,automatic,475 hp @ 2600 rpm,1050 ft-lbs. @ 1600 rpm,
+4198,V8,Turbocharged,RWD,automatic,475 hp @ 2600 rpm,1050 ft-lbs. @ 1600 rpm,
+4199,V8,Turbocharged,RWD,automatic,475 hp @ 2600 rpm,1050 ft-lbs. @ 1600 rpm,
+4800,V8,Turbocharged,4WD,automatic,475 hp @ 2600 rpm,1050 ft-lbs. @ 1600 rpm,
+4801,V8,Turbocharged,4WD,automatic,475 hp @ 2600 rpm,1050 ft-lbs. @ 1600 rpm,
+4802,V8,Turbocharged,4WD,automatic,475 hp @ 2600 rpm,1050 ft-lbs. @ 1600 rpm,
+4803,I4,Naturally Aspirated,FWD,automatic,191 hp @ 5600 rpm,,33 mpg
+4804,I4,Naturally Aspirated,FWD,automatic,191 hp @ 5600 rpm,,33 mpg
+4805,I4,Naturally Aspirated,FWD,automatic,191 hp @ 5600 rpm,,33 mpg
+4806,I4,Turbocharged,RWD,manual,310 hp @ 5500 rpm,350 ft-lbs. @ 3000 rpm,29 mpg
+4807,I4,Turbocharged,RWD,manual,310 hp @ 5500 rpm,350 ft-lbs. @ 3000 rpm,27 mpg
+4808,I4,Turbocharged,RWD,manual,310 hp @ 5500 rpm,350 ft-lbs. @ 3000 rpm,27 mpg
+4809,I4,Turbocharged,RWD,manual,310 hp @ 5500 rpm,350 ft-lbs. @ 3000 rpm,29 mpg
+4810,V8,Naturally Aspirated,RWD,manual,460 hp @ 7000 rpm,420 ft-lbs. @ 4600 rpm,24 mpg
+4811,V8,Naturally Aspirated,RWD,manual,460 hp @ 7000 rpm,420 ft-lbs. @ 4600 rpm,24 mpg
+4812,V8,Naturally Aspirated,RWD,manual,460 hp @ 7000 rpm,420 ft-lbs. @ 4600 rpm,24 mpg
+4813,V8,Naturally Aspirated,RWD,manual,480 hp @ 7000 rpm,420 ft-lbs. @ 4600 rpm,22 mpg
+4814,,Electric Motor,AWD,automatic,346 hp @ 0 rpm,428 ft-lbs. @ 0 rpm,91 mpg
+4816,,Electric Motor,AWD,automatic,480 hp @ 0 rpm,600 ft-lbs. @ 0 rpm,77 mpg
+4818,,Electric Motor,RWD,automatic,266 hp @ 0 rpm,317 ft-lbs. @ 0 rpm,96 mpg
+4819,,Electric Motor,AWD,automatic,266 hp @ 0 rpm,428 ft-lbs. @ 0 rpm,86 mpg
+4820,,Electric Motor,RWD,automatic,266 hp @ 0 rpm,317 ft-lbs. @ 0 rpm,95 mpg
+4821,,Electric Motor,AWD,automatic,311 hp @ 0 rpm,427 ft-lbs. @ 0 rpm,85 mpg
+4822,,Electric Motor,RWD,automatic,266 hp @ 0 rpm,317 ft-lbs. @ 0 rpm,96 mpg
+4823,,Electric Motor,AWD,automatic,266 hp @ 0 rpm,428 ft-lbs. @ 0 rpm,86 mpg
+4824,,Electric Motor,RWD,automatic,266 hp @ 0 rpm,317 ft-lbs. @ 0 rpm,95 mpg
+4825,,Electric Motor,AWD,automatic,311 hp @ 0 rpm,427 ft-lbs. @ 0 rpm,86 mpg
+4826,I4,Turbocharged,RWD,automatic,270 hp @ 5500 rpm,310 ft-lbs. @ 3000 rpm,26 mpg
+4827,I4,Turbocharged,4WD,automatic,270 hp @ 5500 rpm,310 ft-lbs. @ 3000 rpm,24 mpg
+4828,I4,Turbocharged,RWD,automatic,270 hp @ 5500 rpm,310 ft-lbs. @ 3000 rpm,26 mpg
+4829,I4,Turbocharged,4WD,automatic,270 hp @ 5500 rpm,310 ft-lbs. @ 3000 rpm,24 mpg
+4830,I4,Turbocharged,RWD,automatic,270 hp @ 5500 rpm,310 ft-lbs. @ 3000 rpm,26 mpg
+4831,I4,Turbocharged,4WD,automatic,270 hp @ 5500 rpm,310 ft-lbs. @ 3000 rpm,24 mpg
+4832,I4,Turbocharged,RWD,automatic,270 hp @ 5500 rpm,310 ft-lbs. @ 3000 rpm,26 mpg
+4833,I4,Turbocharged,4WD,automatic,270 hp @ 5500 rpm,310 ft-lbs. @ 3000 rpm,24 mpg
+4834,I4,Turbocharged,RWD,automatic,270 hp @ 5500 rpm,310 ft-lbs. @ 3000 rpm,26 mpg
+4835,I4,Turbocharged,4WD,automatic,270 hp @ 5500 rpm,310 ft-lbs. @ 3000 rpm,24 mpg
+4836,I4,Turbocharged,RWD,automatic,270 hp @ 5500 rpm,310 ft-lbs. @ 3000 rpm,26 mpg
+4837,I4,Turbocharged,4WD,automatic,270 hp @ 5500 rpm,310 ft-lbs. @ 3000 rpm,24 mpg
+4838,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4839,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4840,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4841,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4842,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4843,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4844,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4845,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4846,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4847,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4848,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4849,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4850,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4851,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4852,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4853,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4854,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4855,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4856,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4857,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4858,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4859,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4860,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4861,V6,Twin-Turbo,AWD,automatic,310 hp @ 5000 rpm,400 ft-lbs. @ 2500 rpm,
+4862,V6,Twin-Turbo,RWD,automatic,310 hp @ 5000 rpm,400 ft-lbs. @ 2500 rpm,
+4863,V6,Twin-Turbo,AWD,automatic,310 hp @ 5000 rpm,400 ft-lbs. @ 2500 rpm,
+4864,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4865,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4866,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4867,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4868,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4869,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4870,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4871,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4872,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4873,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4874,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4875,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4876,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4877,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4878,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4879,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4880,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4881,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4882,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4883,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4884,I4,Naturally Aspirated,FWD,automatic,162 hp @ 6500 rpm,144 ft-lbs. @ 4500 rpm,26 mpg
+4885,I4,Naturally Aspirated,FWD,automatic,162 hp @ 6500 rpm,144 ft-lbs. @ 4500 rpm,26 mpg
+4886,I4,Naturally Aspirated,FWD,automatic,162 hp @ 6500 rpm,144 ft-lbs. @ 4500 rpm,26 mpg
+4887,I4,Naturally Aspirated,FWD,automatic,162 hp @ 6500 rpm,144 ft-lbs. @ 4500 rpm,26 mpg
+4888,I4,Naturally Aspirated,FWD,automatic,162 hp @ 6500 rpm,144 ft-lbs. @ 4500 rpm,26 mpg
+4889,I4,Naturally Aspirated,FWD,automatic,162 hp @ 6500 rpm,144 ft-lbs. @ 4500 rpm,26 mpg
+4890,I4,Naturally Aspirated,FWD,automatic,162 hp @ 6500 rpm,144 ft-lbs. @ 4500 rpm,26 mpg
+4891,I4,Naturally Aspirated,FWD,automatic,162 hp @ 6500 rpm,144 ft-lbs. @ 4500 rpm,26 mpg
+4892,I4,Naturally Aspirated,FWD,automatic,162 hp @ 6500 rpm,144 ft-lbs. @ 4500 rpm,28 mpg
+4893,I4,Naturally Aspirated,FWD,automatic,162 hp @ 6500 rpm,144 ft-lbs. @ 4500 rpm,28 mpg
+4894,I4,Naturally Aspirated,FWD,automatic,162 hp @ 6500 rpm,144 ft-lbs. @ 4500 rpm,28 mpg
+4895,I4,Naturally Aspirated,FWD,automatic,162 hp @ 6500 rpm,144 ft-lbs. @ 4500 rpm,28 mpg
+4896,I4,Naturally Aspirated,FWD,automatic,162 hp @ 6500 rpm,144 ft-lbs. @ 4500 rpm,28 mpg
+4897,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4898,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4899,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4900,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4901,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4902,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4903,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4904,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4905,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4906,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4907,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4908,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4909,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4910,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4911,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4912,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4913,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4914,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4915,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4916,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4917,V6,Twin-Turbo,AWD,automatic,310 hp @ 5000 rpm,400 ft-lbs. @ 2500 rpm,
+4918,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4919,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4920,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4921,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4922,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4923,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4924,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4925,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4926,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4927,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4928,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4929,V6,Twin-Turbo,AWD,automatic,310 hp @ 5000 rpm,400 ft-lbs. @ 2500 rpm,
+4930,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4931,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4932,V6,Twin-Turbo,AWD,automatic,310 hp @ 5000 rpm,400 ft-lbs. @ 2500 rpm,
+4933,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4934,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4935,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4936,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4937,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4938,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4939,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4940,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4941,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4942,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4943,V6,Naturally Aspirated,RWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4944,V6,Naturally Aspirated,AWD,automatic,275 hp @ 6250 rpm,260 ft-lbs. @ 4000 rpm,
+4945,I6,Turbocharged,AWD,automatic,362 hp @ 5500 rpm,369 ft-lbs. @ 1800 rpm,24 mpg
+4946,I6,Twincharged,AWD,automatic,429 hp @ 6100 rpm,384 ft-lbs. @ 1800 rpm,24 mpg
+4947,V8,Twin-Turbo,AWD,automatic,577 hp @ 5500 rpm,590 ft-lbs. @ 2350 rpm,21 mpg
+4948,V8,Twin-Turbo,AWD,automatic,630 hp @ 5500 rpm,664 ft-lbs. @ 2500 rpm,21 mpg
+4949,V6,Twin-Turbo,AWD,automatic,385 hp @ 6100 rpm,384 ft-lbs. @ 2500 rpm,27 mpg
+4950,V6,Twin-Turbo,AWD,automatic,385 hp @ 6100 rpm,384 ft-lbs. @ 2500 rpm,28 mpg
+4951,I4,Turbocharged,AWD,automatic,402 hp @ 6750 rpm,369 ft-lbs. @ 5000 rpm,26 mpg
+4952,V8,Twin-Turbo,RWD,automatic,503 hp @ 5500 rpm,516 ft-lbs. @ 2000 rpm,26 mpg
+4953,V8,Twin-Turbo,RWD,automatic,503 hp @ 5500 rpm,516 ft-lbs. @ 2000 rpm,24 mpg
+4954,I4,Turbocharged,RWD,automatic,255 hp @ 5800 rpm,295 ft-lbs. @ 2000 rpm,35 mpg
+4955,I4,Turbocharged,RWD,automatic,255 hp @ 5800 rpm,273 ft-lbs. @ 1800 rpm,31 mpg
+4956,I4,Turbocharged,RWD,automatic,255 hp @ 5800 rpm,273 ft-lbs. @ 1800 rpm,28 mpg
+4957,I4,Turbocharged,AWD,automatic,255 hp @ 5800 rpm,295 ft-lbs. @ 2000 rpm,33 mpg
+4958,I4,Turbocharged,AWD,automatic,255 hp @ 5800 rpm,273 ft-lbs. @ 1800 rpm,31 mpg
+4959,I4,Turbocharged,AWD,automatic,255 hp @ 5800 rpm,273 ft-lbs. @ 1800 rpm,30 mpg
+4960,I4,Turbocharged,AWD,automatic,302 hp @ 5800 rpm,295 ft-lbs. @ 3000 rpm,29 mpg
+4961,I4,Turbocharged,AWD,automatic,382 hp @ 6500 rpm,354 ft-lbs. @ 3000 rpm,28 mpg
+4962,I4,Turbocharged,FWD,automatic,221 hp @ 5500 rpm,258 ft-lbs. @ 1800 rpm,36 mpg
+4963,I4,Turbocharged,AWD,automatic,221 hp @ 5500 rpm,258 ft-lbs. @ 1800 rpm,33 mpg
+4964,I6,Turbocharged,AWD,automatic,362 hp @ 5500 rpm,369 ft-lbs. @ 1600 rpm,30 mpg
+4965,I6,Twincharged,AWD,automatic,429 hp @ 6100 rpm,384 ft-lbs. @ 1800 rpm,27 mpg
+4966,I6,Twincharged,AWD,automatic,429 hp @ 6100 rpm,384 ft-lbs. @ 1800 rpm,29 mpg
+4967,I6,Twincharged,AWD,automatic,429 hp @ 6100 rpm,384 ft-lbs. @ 1800 rpm,28 mpg
+4968,V8,Twin-Turbo,AWD,automatic,603 hp @ 5750 rpm,627 ft-lbs. @ 2500 rpm,24 mpg
+4969,V8,Twin-Turbo,AWD,automatic,603 hp @ 5750 rpm,627 ft-lbs. @ 2500 rpm,24 mpg
+4970,I4,Turbocharged,RWD,automatic,255 hp @ 5800 rpm,273 ft-lbs. @ 1800 rpm,31 mpg
+4971,I4,Turbocharged,AWD,automatic,255 hp @ 5800 rpm,273 ft-lbs. @ 1800 rpm,30 mpg
+4972,I6,Turbocharged,RWD,automatic,362 hp @ 5500 rpm,369 ft-lbs. @ 1600 rpm,30 mpg
+4973,I6,Turbocharged,RWD,automatic,362 hp @ 5500 rpm,369 ft-lbs. @ 1600 rpm,29 mpg
+4974,I6,Turbocharged,AWD,automatic,362 hp @ 5500 rpm,369 ft-lbs. @ 1600 rpm,31 mpg
+4975,I6,Turbocharged,AWD,automatic,362 hp @ 5500 rpm,369 ft-lbs. @ 1600 rpm,30 mpg
+4976,I6,Turbocharged,AWD,automatic,362 hp @ 5500 rpm,369 ft-lbs. @ 1600 rpm,29 mpg
+4977,I6,Turbocharged,AWD,automatic,362 hp @ 5500 rpm,369 ft-lbs. @ 1600 rpm,28 mpg
+4978,,Electric Motor,FWD,automatic,188 hp @ 0 rpm,284 ft-lbs. @ 0 rpm,97 mpg
+4979,,Electric Motor,AWD,automatic,225 hp @ 0 rpm,288 ft-lbs. @ 0 rpm,98 mpg
+4980,,Electric Motor,AWD,automatic,288 hp @ 0 rpm,384 ft-lbs. @ 0 rpm,93 mpg
+4981,,Electric Motor,AWD,automatic,617 hp @ 0 rpm,701 ft-lbs. @ 0 rpm,73 mpg
+4982,,Electric Motor,AWD,automatic,288 hp @ 0 rpm,564 ft-lbs. @ 0 rpm,79 mpg
+4983,,Electric Motor,RWD,automatic,288 hp @ 0 rpm,417 ft-lbs. @ 0 rpm,94 mpg
+4984,,Electric Motor,AWD,automatic,402 hp @ 0 rpm,633 ft-lbs. @ 0 rpm,82 mpg
+4985,,Electric Motor,AWD,automatic,288 hp @ 0 rpm,564 ft-lbs. @ 0 rpm,79 mpg
+4986,,Electric Motor,RWD,automatic,288 hp @ 0 rpm,417 ft-lbs. @ 0 rpm,87 mpg
+4987,,Electric Motor,AWD,automatic,402 hp @ 0 rpm,633 ft-lbs. @ 0 rpm,86 mpg
+4988,,Electric Motor,AWD,automatic,649 hp @ 0 rpm,700 ft-lbs. @ 0 rpm,78 mpg
+4989,,Electric Motor,AWD,automatic,355 hp @ 0 rpm,590 ft-lbs. @ 0 rpm,105 mpg
+4990,,Electric Motor,RWD,automatic,329 hp @ 0 rpm,417 ft-lbs. @ 0 rpm,97 mpg
+4991,,Electric Motor,AWD,automatic,516 hp @ 0 rpm,631 ft-lbs. @ 0 rpm,99 mpg
+4992,,Electric Motor,AWD,automatic,355 hp @ 0 rpm,590 ft-lbs. @ 0 rpm,77 mpg
+4993,,Electric Motor,RWD,automatic,355 hp @ 0 rpm,419 ft-lbs. @ 0 rpm,83 mpg
+4994,,Electric Motor,AWD,automatic,536 hp @ 0 rpm,633 ft-lbs. @ 0 rpm,74 mpg
+4995,V8,Twin-Turbo,4WD,automatic,577 hp @ 6000 rpm,627 ft-lbs. @ 2500 rpm,16 mpg
+4996,V8,Twin-Turbo,4WD,automatic,577 hp @ 6000 rpm,627 ft-lbs. @ 2500 rpm,12 mpg
+4997,V8,Twin-Turbo,4WD,automatic,416 hp @ 5250 rpm,450 ft-lbs. @ 2000 rpm,16 mpg
+4998,I4,Turbocharged,AWD,automatic,302 hp @ 5800 rpm,295 ft-lbs. @ 3000 rpm,29 mpg
+4999,I4,Turbocharged,AWD,automatic,382 hp @ 6500 rpm,354 ft-lbs. @ 4750 rpm,25 mpg
+5600,I4,Turbocharged,FWD,automatic,221 hp @ 5500 rpm,258 ft-lbs. @ 1800 rpm,34 mpg
+5601,I4,Turbocharged,AWD,automatic,221 hp @ 5500 rpm,258 ft-lbs. @ 1800 rpm,33 mpg
+5602,I4,Turbocharged,AWD,automatic,302 hp @ 5800 rpm,295 ft-lbs. @ 3000 rpm,27 mpg
+5603,I4,Turbocharged,FWD,automatic,221 hp @ 5500 rpm,258 ft-lbs. @ 1800 rpm,32 mpg
+5604,I4,Turbocharged,AWD,automatic,221 hp @ 5500 rpm,258 ft-lbs. @ 1800 rpm,30 mpg
+5605,I4,Turbocharged,RWD,automatic,255 hp @ 5800 rpm,295 ft-lbs. @ 2000 rpm,31 mpg
+5606,I4,Turbocharged,AWD,automatic,255 hp @ 5800 rpm,295 ft-lbs. @ 2000 rpm,26 mpg
+5607,V6,Twin-Turbo,AWD,automatic,385 hp @ 6100 rpm,384 ft-lbs. @ 2500 rpm,24 mpg
+5608,I4,Turbocharged,AWD,automatic,255 hp @ 5800 rpm,273 ft-lbs. @ 1800 rpm,26 mpg
+5609,I6,Twincharged,AWD,automatic,429 hp @ 6100 rpm,384 ft-lbs. @ 1800 rpm,22 mpg
+5610,V8,Twin-Turbo,AWD,automatic,603 hp @ 5750 rpm,627 ft-lbs. @ 2500 rpm,20 mpg
+5611,I4,Turbocharged,RWD,automatic,255 hp @ 5800 rpm,273 ft-lbs. @ 1800 rpm,25 mpg
+5612,I4,Turbocharged,AWD,automatic,255 hp @ 5800 rpm,273 ft-lbs. @ 1800 rpm,24 mpg
+5613,I6,Turbocharged,AWD,automatic,362 hp @ 5500 rpm,369 ft-lbs. @ 1600 rpm,25 mpg
+5614,V8,Twin-Turbo,AWD,automatic,483 hp @ 5500 rpm,516 ft-lbs. @ 2000 rpm,21 mpg
+5615,I6,Twincharged,AWD,automatic,429 hp @ 6100 rpm,384 ft-lbs. @ 1800 rpm,21 mpg
+5616,V8,Twin-Turbo,AWD,automatic,603 hp @ 5750 rpm,627 ft-lbs. @ 2500 rpm,19 mpg
+5617,V8,Twincharged,AWD,automatic,603 hp @ 5750 rpm,627 ft-lbs. @ 2500 rpm,19 mpg
+5618,I6,Turbocharged,AWD,automatic,362 hp @ 5500 rpm,369 ft-lbs. @ 1600 rpm,24 mpg
+5619,V8,Twin-Turbo,AWD,automatic,483 hp @ 5500 rpm,516 ft-lbs. @ 2000 rpm,21 mpg
+5620,V8,Twin-Turbo,AWD,automatic,496 hp @ 5500 rpm,516 ft-lbs. @ 2000 rpm,25 mpg
+5621,V12,Twin-Turbo,AWD,automatic,621 hp @ 5250 rpm,664 ft-lbs. @ 2000 rpm,20 mpg
+5622,V8,Twin-Turbo,AWD,automatic,550 hp @ 6500 rpm,538 ft-lbs. @ 5000 rpm,20 mpg
+5623,I4,Turbocharged,RWD,automatic,208 hp @ 5500 rpm,258 ft-lbs. @ 4000 rpm,23 mpg
+5624,I4,Turbocharged,RWD,automatic,208 hp @ 5500 rpm,258 ft-lbs. @ 4000 rpm,23 mpg
+5625,I4,Turbocharged,RWD,automatic,208 hp @ 5500 rpm,258 ft-lbs. @ 4000 rpm,22 mpg
+5626,I6,Twincharged,AWD,automatic,429 hp @ 5500 rpm,384 ft-lbs. @ 1800 rpm,28 mpg
+5627,V8,Twin-Turbo,AWD,automatic,496 hp @ 5500 rpm,516 ft-lbs. @ 2000 rpm,25 mpg
+5628,I6,Turbocharged,AWD,automatic,510 hp @ 0 rpm,553 ft-lbs. @ 0 rpm,29 mpg
+5629,I4,Turbocharged,RWD,automatic,375 hp @ 6750 rpm,354 ft-lbs. @ 3250 rpm,27 mpg
+5630,V8,Twin-Turbo,AWD,automatic,469 hp @ 5500 rpm,516 ft-lbs. @ 2250 rpm,21 mpg
+5631,V8,Twin-Turbo,AWD,automatic,577 hp @ 5500 rpm,590 ft-lbs. @ 2500 rpm,22 mpg
+5632,I4,Turbocharged,RWD,automatic,188 hp @ 5000 rpm,258 ft-lbs. @ 2500 rpm,
+5633,I4,Turbocharged,RWD,automatic,188 hp @ 5000 rpm,258 ft-lbs. @ 2500 rpm,
+5634,I4,Turbocharged,RWD,automatic,188 hp @ 5000 rpm,258 ft-lbs. @ 2500 rpm,
+5635,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+5636,I4,Turbocharged,AWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5637,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5638,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5639,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+5640,I4,Turbocharged,RWD,automatic,188 hp @ 5000 rpm,258 ft-lbs. @ 2500 rpm,
+5641,I4,Turbocharged,AWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5642,I4,Turbocharged,AWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5643,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5644,I4,Turbocharged,RWD,automatic,188 hp @ 5000 rpm,258 ft-lbs. @ 2500 rpm,
+5645,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+5646,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+5647,I4,Turbocharged,AWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5648,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5649,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+5650,I4,Turbocharged,AWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5651,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5652,I4,Turbocharged,RWD,automatic,188 hp @ 5000 rpm,258 ft-lbs. @ 2500 rpm,
+5653,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+5654,I4,Turbocharged,RWD,automatic,188 hp @ 5000 rpm,258 ft-lbs. @ 2500 rpm,
+5655,I4,Turbocharged,AWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5656,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5657,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+5658,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5659,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5660,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+5661,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5662,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+5663,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5664,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5665,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+5666,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+5667,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+5668,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5669,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5670,I4,Turbocharged,AWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5671,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+5672,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5673,I4,Turbocharged,AWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5674,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+5675,I4,Turbocharged,AWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5676,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+5677,I4,Turbocharged,AWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5678,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5679,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+5680,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5681,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5682,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+5683,I4,Turbocharged,AWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5684,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5685,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+5686,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5687,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+5688,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+5689,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+5690,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5691,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5692,I4,Turbocharged,RWD,automatic,211 hp @ 3800 rpm,332 ft-lbs. @ 1400 rpm,
+5693,I4,Turbocharged,RWD,automatic,170 hp @ 3800 rpm,295 ft-lbs. @ 1400 rpm,
+5694,,Electric Motor,FWD,automatic,238 hp @ 0 rpm,221 ft-lbs. @ 0 rpm,91 mpg
+5695,,Electric Motor,FWD,automatic,214 hp @ 0 rpm,221 ft-lbs. @ 0 rpm,94 mpg
+5696,,Electric Motor,AWD,automatic,335 hp @ 0 rpm,413 ft-lbs. @ 0 rpm,89 mpg
+5697,,Electric Motor,AWD,automatic,389 hp @ 0 rpm,442 ft-lbs. @ 0 rpm,86 mpg
+5698,,Electric Motor,FWD,automatic,238 hp @ 0 rpm,221 ft-lbs. @ 0 rpm,91 mpg
+5699,,Electric Motor,AWD,automatic,389 hp @ 0 rpm,442 ft-lbs. @ 0 rpm,86 mpg
+5700,,Electric Motor,AWD,automatic,389 hp @ 0 rpm,442 ft-lbs. @ 0 rpm,87 mpg
+5701,,Electric Motor,AWD,automatic,389 hp @ 0 rpm,442 ft-lbs. @ 0 rpm,84 mpg
+5702,,Electric Motor,FWD,automatic,238 hp @ 0 rpm,221 ft-lbs. @ 0 rpm,91 mpg
+5703,,Electric Motor,FWD,automatic,238 hp @ 0 rpm,221 ft-lbs. @ 0 rpm,95 mpg
+5704,I4,Naturally Aspirated,FWD,automatic,188 hp @ 6000 rpm,180 ft-lbs. @ 3600 rpm,39 mpg
+5705,I4,Naturally Aspirated,AWD,automatic,182 hp @ 6000 rpm,178 ft-lbs. @ 3600 rpm,36 mpg
+5706,I4,Naturally Aspirated,FWD,automatic,188 hp @ 6000 rpm,180 ft-lbs. @ 3600 rpm,37 mpg
+5707,I4,Naturally Aspirated,FWD,automatic,188 hp @ 6000 rpm,180 ft-lbs. @ 3600 rpm,37 mpg
+5708,I4,Naturally Aspirated,AWD,automatic,182 hp @ 6000 rpm,178 ft-lbs. @ 3600 rpm,35 mpg
+5709,I4,Naturally Aspirated,AWD,automatic,182 hp @ 6000 rpm,178 ft-lbs. @ 3600 rpm,36 mpg
+5710,I4,Naturally Aspirated,FWD,automatic,188 hp @ 6000 rpm,180 ft-lbs. @ 3600 rpm,37 mpg
+5711,I4,Turbocharged,FWD,automatic,248 hp @ 5600 rpm,273 ft-lbs. @ 4000 rpm,34 mpg
+5712,V8,Naturally Aspirated,4WD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,18 mpg
+5713,V8,Naturally Aspirated,RWD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,19 mpg
+5714,V8,Naturally Aspirated,RWD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,19 mpg
+5715,V8,Naturally Aspirated,4WD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,18 mpg
+5716,V8,Naturally Aspirated,RWD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,19 mpg
+5717,V8,Naturally Aspirated,4WD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,18 mpg
+5718,V8,Naturally Aspirated,RWD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,19 mpg
+5719,V8,Naturally Aspirated,4WD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,18 mpg
+5720,V6,Naturally Aspirated,4WD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,23 mpg
+5721,V6,Naturally Aspirated,4WD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,23 mpg
+5722,V6,Naturally Aspirated,RWD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,24 mpg
+5723,V6,Naturally Aspirated,RWD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,24 mpg
+5724,V6,Naturally Aspirated,RWD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,24 mpg
+5725,V6,Naturally Aspirated,4WD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,23 mpg
+5726,V6,Naturally Aspirated,RWD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,24 mpg
+5727,V6,Naturally Aspirated,4WD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,23 mpg
+5728,V6,Naturally Aspirated,4WD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,23 mpg
+5729,V6,Naturally Aspirated,RWD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,24 mpg
+5730,V6,Naturally Aspirated,4WD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,23 mpg
+5731,V6,Naturally Aspirated,RWD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,24 mpg
+5732,V6,Naturally Aspirated,4WD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,23 mpg
+5733,V6,Naturally Aspirated,RWD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,24 mpg
+5734,V6,Naturally Aspirated,RWD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,24 mpg
+5735,V6,Naturally Aspirated,4WD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,23 mpg
+5736,V6,Naturally Aspirated,4WD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,23 mpg
+5737,V6,Naturally Aspirated,RWD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,24 mpg
+5738,V6,Naturally Aspirated,RWD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,24 mpg
+5739,V6,Naturally Aspirated,4WD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,23 mpg
+5740,V6,Naturally Aspirated,4WD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,23 mpg
+5741,V6,Naturally Aspirated,RWD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,24 mpg
+5742,V6,Naturally Aspirated,RWD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,24 mpg
+5743,V6,Naturally Aspirated,4WD,automatic,310 hp @ 6400 rpm,281 ft-lbs. @ 4400 rpm,23 mpg
+5744,V6,Twin-Turbo,AWD,automatic,600 hp @ 6800 rpm,481 ft-lbs. @ 3600 rpm,22 mpg
+5745,V6,Twin-Turbo,AWD,automatic,565 hp @ 6800 rpm,467 ft-lbs. @ 3300 rpm,22 mpg
+5746,I4,Naturally Aspirated,FWD,automatic,122 hp @ 6300 rpm,114 ft-lbs. @ 4000 rpm,36 mpg
+5747,I4,Naturally Aspirated,FWD,automatic,122 hp @ 6300 rpm,114 ft-lbs. @ 4000 rpm,36 mpg
+5748,I4,Naturally Aspirated,FWD,automatic,122 hp @ 6300 rpm,114 ft-lbs. @ 4000 rpm,36 mpg
+5749,,Electric Motor,FWD,automatic,147 hp @ 3283 rpm,236 ft-lbs. @ 0 rpm,99 mpg
+5750,,Electric Motor,FWD,automatic,214 hp @ 4000 rpm,250 ft-lbs. @ 800 rpm,98 mpg
+5751,V6,Naturally Aspirated,FWD,automatic,300 hp @ 6400 rpm,261 ft-lbs. @ 4400 rpm,30 mpg
+5752,V6,Naturally Aspirated,FWD,automatic,300 hp @ 6400 rpm,261 ft-lbs. @ 4400 rpm,30 mpg
+5753,V6,Naturally Aspirated,FWD,automatic,300 hp @ 6400 rpm,261 ft-lbs. @ 4400 rpm,30 mpg
+5754,V6,Naturally Aspirated,FWD,automatic,260 hp @ 6000 rpm,240 ft-lbs. @ 4400 rpm,28 mpg
+5755,V6,Naturally Aspirated,AWD,automatic,260 hp @ 6000 rpm,240 ft-lbs. @ 4400 rpm,28 mpg
+5756,V6,Naturally Aspirated,FWD,automatic,260 hp @ 6000 rpm,240 ft-lbs. @ 4400 rpm,28 mpg
+5757,V6,Naturally Aspirated,AWD,automatic,260 hp @ 6000 rpm,240 ft-lbs. @ 4400 rpm,28 mpg
+5758,V6,Naturally Aspirated,FWD,automatic,260 hp @ 6000 rpm,240 ft-lbs. @ 4400 rpm,28 mpg
+5759,V6,Naturally Aspirated,AWD,automatic,260 hp @ 6000 rpm,240 ft-lbs. @ 4400 rpm,28 mpg
+5760,V6,Naturally Aspirated,FWD,automatic,260 hp @ 6000 rpm,240 ft-lbs. @ 4400 rpm,28 mpg
+5761,V6,Naturally Aspirated,AWD,automatic,260 hp @ 6000 rpm,240 ft-lbs. @ 4400 rpm,28 mpg
+5762,V6,Naturally Aspirated,4WD,automatic,284 hp @ 6400 rpm,259 ft-lbs. @ 4800 rpm,25 mpg
+5763,V6,Naturally Aspirated,FWD,automatic,284 hp @ 6400 rpm,259 ft-lbs. @ 4800 rpm,27 mpg
+5764,V6,Naturally Aspirated,4WD,automatic,295 hp @ 6400 rpm,270 ft-lbs. @ 4800 rpm,23 mpg
+5765,V6,Naturally Aspirated,FWD,automatic,284 hp @ 6400 rpm,259 ft-lbs. @ 4800 rpm,27 mpg
+5766,V6,Naturally Aspirated,4WD,automatic,284 hp @ 6400 rpm,259 ft-lbs. @ 4800 rpm,27 mpg
+5767,V6,Naturally Aspirated,4WD,automatic,284 hp @ 6400 rpm,259 ft-lbs. @ 4800 rpm,25 mpg
+5768,V6,Naturally Aspirated,FWD,automatic,284 hp @ 6400 rpm,259 ft-lbs. @ 4800 rpm,27 mpg
+5769,V6,Naturally Aspirated,FWD,automatic,284 hp @ 6400 rpm,259 ft-lbs. @ 4800 rpm,27 mpg
+5770,V6,Naturally Aspirated,4WD,automatic,284 hp @ 6400 rpm,259 ft-lbs. @ 4800 rpm,27 mpg
+5771,I3,Turbocharged,FWD,automatic,201 hp @ 5600 rpm,225 ft-lbs. @ 2800 rpm,36 mpg
+5772,I3,Turbocharged,AWD,automatic,201 hp @ 5600 rpm,225 ft-lbs. @ 2800 rpm,34 mpg
+5773,I3,Turbocharged,AWD,automatic,201 hp @ 5600 rpm,225 ft-lbs. @ 2800 rpm,34 mpg
+5774,I3,Turbocharged,FWD,automatic,201 hp @ 5600 rpm,225 ft-lbs. @ 2800 rpm,36 mpg
+5775,I3,Turbocharged,FWD,automatic,201 hp @ 5600 rpm,225 ft-lbs. @ 2800 rpm,37 mpg
+5776,I3,Turbocharged,AWD,automatic,201 hp @ 5600 rpm,225 ft-lbs. @ 2800 rpm,35 mpg
+5777,I3,Turbocharged,AWD,automatic,201 hp @ 5600 rpm,225 ft-lbs. @ 2800 rpm,35 mpg
+5778,I3,Turbocharged,FWD,automatic,201 hp @ 5600 rpm,225 ft-lbs. @ 2800 rpm,37 mpg
+5779,I3,Turbocharged,FWD,automatic,201 hp @ 5600 rpm,225 ft-lbs. @ 2800 rpm,36 mpg
+5780,I3,Turbocharged,AWD,automatic,201 hp @ 5600 rpm,225 ft-lbs. @ 2800 rpm,34 mpg
+5781,I3,Turbocharged,AWD,automatic,201 hp @ 5600 rpm,225 ft-lbs. @ 2800 rpm,34 mpg
+5782,I3,Turbocharged,FWD,automatic,201 hp @ 5600 rpm,225 ft-lbs. @ 2800 rpm,36 mpg
+5783,I3,Turbocharged,AWD,automatic,201 hp @ 5600 rpm,225 ft-lbs. @ 2800 rpm,35 mpg
+5784,I3,Turbocharged,FWD,automatic,201 hp @ 5600 rpm,225 ft-lbs. @ 2800 rpm,37 mpg
+5785,I3,Turbocharged,AWD,automatic,201 hp @ 5600 rpm,225 ft-lbs. @ 2800 rpm,35 mpg
+5786,I3,Turbocharged,FWD,automatic,201 hp @ 5600 rpm,225 ft-lbs. @ 2800 rpm,37 mpg
+5787,I4,Naturally Aspirated,FWD,automatic,149 hp @ 6400 rpm,146 ft-lbs. @ 4400 rpm,39 mpg
+5788,I4,Naturally Aspirated,FWD,automatic,149 hp @ 6400 rpm,146 ft-lbs. @ 4400 rpm,37 mpg
+5789,I4,Naturally Aspirated,FWD,automatic,149 hp @ 6400 rpm,146 ft-lbs. @ 4400 rpm,39 mpg
+5790,V8,Naturally Aspirated,4WD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,20 mpg
+5791,V8,Naturally Aspirated,4WD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,21 mpg
+5792,V8,Naturally Aspirated,RWD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,21 mpg
+5793,V8,Naturally Aspirated,RWD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,21 mpg
+5794,V8,Naturally Aspirated,4WD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,21 mpg
+5795,V8,Naturally Aspirated,4WD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,21 mpg
+5796,V8,Naturally Aspirated,RWD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,21 mpg
+5797,V8,Naturally Aspirated,4WD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,21 mpg
+5798,V8,Naturally Aspirated,RWD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,21 mpg
+5799,V8,Naturally Aspirated,4WD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,21 mpg
+6400,V8,Naturally Aspirated,RWD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,21 mpg
+6401,V8,Naturally Aspirated,4WD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,20 mpg
+6402,V8,Naturally Aspirated,4WD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,21 mpg
+6403,V8,Naturally Aspirated,4WD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,21 mpg
+6404,V8,Naturally Aspirated,4WD,automatic,400 hp @ 5800 rpm,413 ft-lbs. @ 4000 rpm,21 mpg
+6405,I4,Naturally Aspirated,FWD,manual,122 hp @ 6300 rpm,114 ft-lbs. @ 4000 rpm,35 mpg
+6406,I4,Naturally Aspirated,FWD,automatic,122 hp @ 6300 rpm,114 ft-lbs. @ 4000 rpm,40 mpg
+6407,I4,Naturally Aspirated,FWD,automatic,122 hp @ 6300 rpm,114 ft-lbs. @ 4000 rpm,40 mpg
+6408,I4,Naturally Aspirated,FWD,automatic,122 hp @ 6300 rpm,114 ft-lbs. @ 4000 rpm,40 mpg
+6409,V6,Twin-Turbo,RWD,manual,400 hp @ 6400 rpm,350 ft-lbs. @ 1600 rpm,24 mpg
+6410,V6,Twin-Turbo,RWD,automatic,400 hp @ 6400 rpm,350 ft-lbs. @ 1600 rpm,28 mpg
+6411,V6,Twin-Turbo,RWD,automatic,400 hp @ 6400 rpm,350 ft-lbs. @ 1600 rpm,28 mpg
+6412,V6,Twin-Turbo,RWD,manual,400 hp @ 6400 rpm,350 ft-lbs. @ 1600 rpm,24 mpg
+6413,V6,Twin-Turbo,RWD,manual,400 hp @ 6400 rpm,350 ft-lbs. @ 1600 rpm,24 mpg
+6414,V6,Twin-Turbo,RWD,automatic,400 hp @ 6400 rpm,350 ft-lbs. @ 1600 rpm,28 mpg

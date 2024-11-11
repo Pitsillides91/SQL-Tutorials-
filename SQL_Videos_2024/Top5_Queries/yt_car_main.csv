@@ -1,0 +1,1560 @@
+index,Make,Model,Year,Trim,MSRP,Invoice Price,Body Size,Body Style
+0,Aston Martin,DBX707,2024,Base,"$242,000",,Large,SUV
+1,Audi,A3,2024,Premium w/40 TFSI,"$35,800","$33,653",Compact,Sedan
+2,Audi,A3,2024,Premium w/40 TFSI,"$37,800","$35,533",Compact,Sedan
+3,Audi,A3,2024,Premium Plus w/40 TFSI,"$41,400","$38,917",Compact,Sedan
+4,Audi,A3,2024,Premium Plus w/40 TFSI,"$39,400","$37,037",Compact,Sedan
+5,Audi,A4,2024,Premium w/40 TFSI,"$41,900","$39,386",Midsize,Sedan
+6,Audi,A4,2024,Premium Plus w/40 TFSI,"$46,100","$43,335",Midsize,Sedan
+7,Audi,A4,2024,Premium Plus S line w/45 TFSI,"$47,700","$44,839",Midsize,Sedan
+8,Audi,A4,2024,Premium S line w/45 TFSI,"$44,100","$41,455",Midsize,Sedan
+9,Audi,A4,2024,Prestige w/40 TFSI,"$51,300","$48,223",Midsize,Sedan
+10,Audi,A4,2024,Prestige S line w/45 TFSI,"$52,000","$48,881",Midsize,Sedan
+11,Audi,A4 allroad,2024,Premium w/45 TFSI,"$47,600","$44,744",Midsize,Wagon
+17,Audi,A5,2024,Premium Plus S line w/45 TFSI,"$52,500","$49,351",Midsize,Coupe
+18,Audi,A5,2024,Premium Plus S line w/45 TFSI,"$59,700","$56,119",Midsize,Convertible
+19,Audi,A5,2024,Premium S line w/45 TFSI,"$48,400","$45,496",Midsize,Hatchback
+20,Audi,A5,2024,Premium S line w/45 TFSI,"$48,400","$45,496",Midsize,Coupe
+21,Audi,A5,2024,Premium S line w/45 TFSI,"$55,600","$52,264",Midsize,Convertible
+22,Audi,A5,2024,Prestige w/40 TFSI,"$55,700","$52,359",Midsize,Hatchback
+23,Audi,A5,2024,Prestige S line w/45 TFSI,"$56,950","$53,533",Midsize,Hatchback
+24,Audi,A5,2024,Prestige S line w/45 TFSI,"$56,650","$53,251",Midsize,Coupe
+25,Audi,A5,2024,Prestige S line w/45 TFSI,"$64,700","$60,818",Midsize,Convertible
+26,Audi,A6,2024,Premium w/45 TFSI,"$58,100","$54,615",Large,Sedan
+27,Audi,A6,2024,Premium w/55 TFSI,"$62,600","$58,845",Large,Sedan
+28,Audi,A6,2024,Premium Plus w/45 TFSI,"$61,600","$57,905",Large,Sedan
+29,Audi,A6,2024,Premium Plus w/55 TFSI,"$66,100","$62,135",Large,Sedan
+30,Audi,A6,2024,Prestige w/55 TFSI,"$71,700","$67,399",Large,Sedan
+31,Audi,A6 allroad,2024,Premium Plus w/55 TFSI,"$69,300","$65,143",Midsize,Wagon
+32,Audi,A6 allroad,2024,Prestige w/55 TFSI,"$74,600","$70,126",Midsize,Wagon
+33,Audi,A7,2024,Premium w/55 TFSI,"$72,000","$67,680",Large,Sedan
+34,Audi,A7,2024,Premium Plus w/55 TFSI,"$76,750","$72,145",Large,Sedan
+35,Audi,A7,2024,Prestige w/55 TFSI,"$80,550","$75,717",Large,Sedan
+36,Audi,A8,2024,L w/55 TFSI,"$90,900","$85,447",Large,Sedan
+37,Audi,Q3,2024,Premium w/40 TFSI,"$37,400","$35,157",Compact,SUV
+38,Audi,Q3,2024,Premium Plus w/40 TFSI,"$40,200","$37,789",Compact,SUV
+39,Audi,Q3,2024,Premium Plus S line w/45 TFSI,"$42,600","$40,045",Compact,SUV
+40,Audi,Q3,2024,Premium S line w/45 TFSI,"$39,800","$37,413",Compact,SUV
+41,Audi,Q4 Sportback e-tron,2024,"Premium w/50, Prod. End 11/23","$58,200","$54,709",Midsize,SUV
+42,Audi,Q4 Sportback e-tron,2024,Premium w/55,"$58,200","$54,709",Midsize,SUV
+43,Audi,Q4 Sportback e-tron,2024,"Premium Plus w/50, Prod. End 11/23","$62,900","$59,127",Midsize,SUV
+44,Audi,Q4 Sportback e-tron,2024,Premium Plus w/55,"$62,900","$59,127",Midsize,SUV
+45,Audi,Q4 Sportback e-tron,2024,"Prestige w/50, Prod. End 11/23","$65,200","$61,290",Midsize,SUV
+46,Audi,Q4 Sportback e-tron,2024,Prestige w/55,"$65,200","$61,290",Midsize,SUV
+47,Audi,Q4 e-tron,2024,Premium w/40,"$49,800","$46,813",Midsize,SUV
+48,Audi,Q4 e-tron,2024,"Premium w/50, Prod. End 11/23","$55,200","$51,888",Midsize,SUV
+49,Audi,Q4 e-tron,2024,Premium w/55,"$55,200","$51,888",Midsize,SUV
+50,Audi,Q4 e-tron,2024,Premium Plus w/40,"$54,500","$51,231",Midsize,SUV
+51,Audi,Q4 e-tron,2024,"Premium Plus w/50, Prod. End 11/23","$59,900","$56,306",Midsize,SUV
+52,Audi,Q4 e-tron,2024,Premium Plus w/55,"$59,900","$56,306",Midsize,SUV
+53,Audi,Q4 e-tron,2024,"Prestige w/50, Prod. End 11/23","$62,200","$58,469",Midsize,SUV
+54,Audi,Q4 e-tron,2024,Prestige w/55,"$62,200","$58,469",Midsize,SUV
+55,Audi,Q5,2024,Premium w/40 TFSI,"$45,300","$42,583",Midsize,SUV
+56,Audi,Q5,2024,Premium Plus w/40 TFSI,"$50,100","$47,095",Midsize,SUV
+57,Audi,Q5,2024,Premium Plus S line w/45 TFSI,"$53,000","$49,821",Midsize,SUV
+58,Audi,Q5,2024,Premium Plus S line w/55 TFSI e,"$62,400","$58,657",Midsize,SUV
+59,Audi,Q5,2024,Premium S line w/45 TFSI,"$48,200","$45,309",Midsize,SUV
+60,Audi,Q5,2024,Premium S line w/55 TFSI e,"$58,500","$54,991",Midsize,SUV
+61,Audi,Q5,2024,Prestige w/40 TFSI,"$55,600","$52,265",Midsize,SUV
+62,Audi,Q5,2024,Prestige S line w/45 TFSI,"$58,100","$54,615",Midsize,SUV
+63,Audi,Q5,2024,Prestige S line w/55 TFSI e,"$67,700","$63,639",Midsize,SUV
+64,Audi,Q5 Sportback,2024,Premium Plus S line w/45 TFSI,"$55,400","$52,077",Midsize,SUV
+65,Audi,Q5 Sportback,2024,Premium S line w/45 TFSI,"$52,200","$49,069",Midsize,SUV
+66,Audi,Q5 Sportback,2024,Prestige S line w/45 TFSI,"$60,400","$56,778",Midsize,SUV
+67,Audi,Q7,2024,Premium w/45 TFSI,"$59,500","$55,930",Large,SUV
+68,Audi,Q7,2024,Premium w/55 TFSI,"$65,300","$61,383",Large,SUV
+69,Audi,Q7,2024,Premium Plus w/45 TFSI,"$63,300","$59,503",Large,SUV
+70,Audi,Q7,2024,Premium Plus w/55 TFSI,"$69,100","$64,956",Large,SUV
+71,Audi,Q7,2024,Prestige w/55 TFSI,"$75,100","$70,596",Large,SUV
+72,Audi,Q8,2024,Premium w/55 TFSI,"$73,700","$69,279",Large,SUV
+73,Audi,Q8,2024,Premium Plus w/55 TFSI,"$77,800","$73,134",Large,SUV
+74,Audi,Q8,2024,Prestige w/55 TFSI,"$81,800","$76,894",Large,SUV
+75,Audi,Q8 Sportback e-tron,2024,Premium Plus S line,"$82,200","$77,269",Midsize,SUV
+76,Audi,Q8 Sportback e-tron,2024,Premium S line,"$77,800","$73,133",Midsize,SUV
+77,Audi,Q8 Sportback e-tron,2024,Prestige S line,"$88,200","$82,909",Midsize,SUV
+78,Audi,Q8 e-tron,2024,Premium,"$74,400","$69,936",Midsize,SUV
+79,Audi,Q8 e-tron,2024,Premium Plus,"$78,800","$74,072",Midsize,SUV
+80,Audi,Q8 e-tron,2024,Prestige,"$84,800","$79,712",Midsize,SUV
+81,Audi,RS 3,2024,Base,"$62,300","$58,562",Compact,Sedan
+82,Audi,RS 5,2024,Base,"$79,600","$74,824",Midsize,Coupe
+83,Audi,RS 5,2024,Base,"$79,900","$75,106",Midsize,Hatchback
+84,Audi,RS 6,2024,performance,"$125,800","$118,253",Large,Wagon
+85,Audi,RS 7,2024,performance,"$127,800","$120,133",Large,Sedan
+86,Audi,RS Q8,2024,Base,"$125,800","$118,253",Large,SUV
+87,Audi,RS e-tron GT,2024,Base,"$147,100","$138,274",Large,Sedan
+88,Audi,S3,2024,Premium,"$47,400","$44,557",Compact,Sedan
+89,Audi,S3,2024,Premium Plus,"$50,300","$47,284",Compact,Sedan
+90,Audi,S3,2024,Prestige,"$54,300","$51,044",Compact,Sedan
+91,Audi,S4,2024,Premium,"$54,500","$51,231",Midsize,Sedan
+92,Audi,S4,2024,Premium Plus,"$57,500","$54,052",Midsize,Sedan
+93,Audi,S4,2024,Prestige,"$61,800","$58,094",Midsize,Sedan
+94,Audi,S5,2024,Premium,"$66,100","$62,135",Midsize,Convertible
+95,Audi,S5,2024,Premium,"$57,500","$54,050",Midsize,Coupe
+96,Audi,S5,2024,Premium,"$57,500","$54,050",Midsize,Hatchback
+97,Audi,S5,2024,Premium Plus,"$69,100","$64,956",Midsize,Convertible
+98,Audi,S5,2024,Premium Plus,"$60,500","$56,871",Midsize,Coupe
+99,Audi,S5,2024,Premium Plus,"$60,500","$56,871",Midsize,Hatchback
+100,Audi,S5,2024,Prestige,"$73,200","$68,809",Midsize,Convertible
+101,Audi,S5,2024,Prestige,"$64,600","$60,724",Midsize,Coupe
+102,Audi,S5,2024,Prestige,"$64,900","$61,007",Midsize,Hatchback
+103,Audi,S6,2024,Premium,"$75,500","$70,970",Large,Sedan
+104,Audi,S6,2024,Premium Plus,"$79,800","$75,012",Large,Sedan
+105,Audi,S6,2024,Prestige,"$83,700","$78,679",Large,Sedan
+106,Audi,S7,2024,Premium,"$85,300","$80,183",Large,Sedan
+107,Audi,S7,2024,Premium Plus,"$89,100","$83,756",Large,Sedan
+108,Audi,S7,2024,Prestige,"$92,700","$87,140",Large,Sedan
+109,Audi,S8,2024,Base,"$123,400","$115,997",Large,Sedan
+110,Audi,SQ5,2024,Premium,"$57,700","$54,239",Midsize,SUV
+111,Audi,SQ5,2024,Premium Plus,"$61,700","$57,999",Midsize,SUV
+112,Audi,SQ5,2024,Prestige,"$66,800","$62,793",Midsize,SUV
+113,Audi,SQ5 Sportback,2024,Premium,"$61,100","$57,434",Midsize,SUV
+114,Audi,SQ5 Sportback,2024,Premium Plus,"$64,100","$60,255",Midsize,SUV
+115,Audi,SQ5 Sportback,2024,Prestige,"$69,200","$65,049",Midsize,SUV
+116,Audi,SQ7,2024,Premium Plus,"$90,400","$84,976",Large,SUV
+117,Audi,SQ7,2024,Prestige,"$94,900","$89,207",Large,SUV
+118,Audi,SQ8,2024,Premium Plus,"$96,600","$90,805",Large,SUV
+119,Audi,SQ8,2024,Prestige,"$103,600","$97,386",Large,SUV
+120,Audi,SQ8 Sportback e-tron,2024,Premium Plus,"$92,600","$87,045",Midsize,SUV
+121,Audi,SQ8 Sportback e-tron,2024,Prestige,"$98,600","$92,685",Midsize,SUV
+122,Audi,SQ8 e-tron,2024,Premium Plus,"$89,800","$84,413",Midsize,SUV
+123,Audi,SQ8 e-tron,2024,Prestige,"$95,800","$90,053",Midsize,SUV
+124,Audi,e-tron GT,2024,Premium Plus,"$106,500","$100,111",Large,Sedan
+125,Audi,e-tron GT,2024,Prestige,"$114,500","$107,631",Large,Sedan
+126,BMW,2 Series,2024,230i,"$38,800","$36,585",Compact,Coupe
+127,BMW,2 Series,2024,230i xDrive,"$40,800","$38,445",Compact,Coupe
+128,BMW,2 Series,2024,M240i,"$49,700","$46,720",Compact,Coupe
+129,BMW,2 Series,2024,M240i xDrive,"$51,700","$48,580",Compact,Coupe
+130,BMW,2 Series Gran Coupe,2024,228i,"$38,400","$36,210",Compact,Sedan
+131,BMW,2 Series Gran Coupe,2024,228i xDrive,"$40,400","$38,070",Compact,Sedan
+132,BMW,2 Series Gran Coupe,2024,M235i xDrive,"$48,300","$45,420",Compact,Sedan
+133,BMW,3 Series,2024,330e,"$45,600","$42,910",Midsize,Sedan
+134,BMW,3 Series,2024,330e xDrive,"$47,600","$44,770",Midsize,Sedan
+135,BMW,3 Series,2024,330i,"$44,500","$41,885",Midsize,Sedan
+136,BMW,3 Series,2024,330i xDrive,"$46,500","$43,745",Midsize,Sedan
+137,BMW,3 Series,2024,M340i,"$57,600","$54,070",Midsize,Sedan
+138,BMW,3 Series,2024,M340i xDrive,"$59,600","$55,930",Midsize,Sedan
+139,BMW,4 Series,2024,430i,"$49,900","$46,905",Midsize,Coupe
+140,BMW,4 Series,2024,430i,"$58,100","$54,535",Midsize,Convertible
+141,BMW,4 Series,2024,430i xDrive,"$51,900","$48,765",Midsize,Coupe
+142,BMW,4 Series,2024,430i xDrive,"$60,100","$56,395",Midsize,Convertible
+143,BMW,4 Series,2024,M440i,"$61,450","$57,650",Midsize,Coupe
+144,BMW,4 Series,2024,M440i,"$69,550","$65,180",Midsize,Convertible
+145,BMW,4 Series,2024,M440i xDrive,"$63,450","$59,510",Midsize,Coupe
+146,BMW,4 Series,2024,M440i xDrive,"$71,550","$67,040",Midsize,Convertible
+147,BMW,4 Series Gran Coupe,2024,430i,"$48,300","$45,420",Midsize,Sedan
+148,BMW,4 Series Gran Coupe,2024,430i xDrive,"$50,300","$47,280",Midsize,Sedan
+149,BMW,4 Series Gran Coupe,2024,M440i,"$61,050","$57,275",Midsize,Sedan
+150,BMW,4 Series Gran Coupe,2024,M440i xDrive,"$63,050","$59,135",Midsize,Sedan
+151,BMW,5 Series,2024,530i,"$57,900","$54,345",Large,Sedan
+152,BMW,5 Series,2024,530i xDrive,"$60,200","$56,485",Large,Sedan
+153,BMW,5 Series,2024,540i xDrive,"$64,900","$60,855",Large,Sedan
+154,BMW,7 Series,2024,740i,"$96,400","$90,150",Large,Sedan
+155,BMW,7 Series,2024,740i xDrive,"$99,400","$92,940",Large,Sedan
+156,BMW,7 Series,2024,750e xDrive,"$107,000","$100,010",Large,Sedan
+157,BMW,7 Series,2024,760i xDrive,"$121,300","$113,310",Large,Sedan
+158,BMW,8 Series,2024,840i,"$90,800","$84,945",Midsize,Coupe
+159,BMW,8 Series,2024,840i,"$100,500","$93,965",Midsize,Convertible
+160,BMW,8 Series,2024,840i xDrive,"$103,500","$96,755",Midsize,Convertible
+161,BMW,8 Series,2024,840i xDrive,"$93,800","$87,735",Midsize,Coupe
+162,BMW,8 Series,2024,M850i xDrive,"$116,000","$108,380",Midsize,Convertible
+163,BMW,8 Series,2024,M850i xDrive,"$106,300","$99,360",Midsize,Coupe
+164,BMW,8 Series Gran Coupe,2024,840i,"$90,800","$84,945",Large,Sedan
+165,BMW,8 Series Gran Coupe,2024,840i xDrive,"$93,800","$87,735",Large,Sedan
+166,BMW,8 Series Gran Coupe,2024,M850i xDrive,"$106,300","$99,360",Large,Sedan
+167,BMW,ALPINA B8 Gran Coupe,2024,Base,"$149,300","$139,350",Large,Sedan
+168,BMW,ALPINA XB7,2024,Base,"$149,400","$139,440",Large,SUV
+169,BMW,M2,2024,Base,"$63,200","$59,275",Compact,Coupe
+170,BMW,M3,2024,Base,"$76,000","$71,180",Midsize,Sedan
+171,BMW,M3,2024,Competition,"$80,200","$75,085",Midsize,Sedan
+172,BMW,M3,2024,Competition xDrive,"$84,300","$78,900",Midsize,Sedan
+173,BMW,M3 CS,2024,Base,"$118,700","$110,890",Midsize,Sedan
+174,BMW,M4,2024,Base,"$78,100","$73,135",Midsize,Coupe
+175,BMW,M4,2024,Competition,"$82,200","$76,945",Midsize,Coupe
+176,BMW,M4,2024,Competition xDrive,"$86,300","$80,760",Midsize,Coupe
+177,BMW,M4,2024,Competition xDrive,"$93,300","$87,270",Midsize,Convertible
+178,BMW,M8,2024,Competition,"$138,800","$129,585",Midsize,Coupe
+179,BMW,M8,2024,Competition,"$148,800","$138,885",Midsize,Convertible
+180,BMW,M8 Gran Coupe,2024,Competition,"$138,800","$129,585",Large,Sedan
+181,BMW,X1,2024,M35i,"$49,900","$46,905",Compact,SUV
+182,BMW,X1,2024,xDrive28i,"$40,500","$38,165",Compact,SUV
+183,BMW,X2,2024,M35i,"$51,400","$48,300",Compact,SUV
+184,BMW,X2,2024,xDrive28i,"$42,000","$39,560",Compact,SUV
+185,BMW,X3,2024,M40i,"$61,900","$58,065",Midsize,SUV
+186,BMW,X3,2024,sDrive30i,"$46,900","$44,115",Midsize,SUV
+187,BMW,X3,2024,xDrive30i,"$48,900","$45,975",Midsize,SUV
+188,BMW,X3 M,2024,Base,"$75,500","$70,715",Midsize,SUV
+189,BMW,X4,2024,M40i,"$66,400","$62,250",Midsize,SUV
+190,BMW,X4,2024,xDrive30i,"$55,000","$51,650",Midsize,SUV
+191,BMW,X4 M,2024,Base,"$79,100","$74,065",Midsize,SUV
+192,BMW,X5,2024,M60i,"$89,300","$83,550",Large,SUV
+193,BMW,X5,2024,sDrive40i,"$65,200","$61,135",Large,SUV
+194,BMW,X5,2024,xDrive40i,"$67,500","$63,275",Large,SUV
+195,BMW,X5,2024,xDrive50e,"$72,500","$67,925",Large,SUV
+196,BMW,X5 M,2024,Competition,"$122,300","$114,240",Large,SUV
+197,BMW,X6,2024,M60i,"$93,600","$87,550",Large,SUV
+198,BMW,X6,2024,xDrive40i,"$73,900","$69,225",Large,SUV
+199,BMW,X6 M,2024,Competition,"$127,200","$118,795",Large,SUV
+800,BMW,X7,2024,M60i,"$108,700","$101,590",Large,SUV
+801,BMW,X7,2024,xDrive40i,"$81,900","$76,665",Large,SUV
+802,BMW,XM,2024,Base,"$159,000","$148,370",Large,SUV
+803,BMW,XM,2024,Label Red,"$185,000","$172,550",Large,SUV
+804,BMW,Z4,2024,M40i,"$66,300","$62,160",Compact,Convertible
+805,BMW,Z4,2024,sDrive30i,"$53,600","$50,350",Compact,Convertible
+806,BMW,i4,2024,M50,"$69,700","$65,320",Midsize,Sedan
+807,BMW,i4,2024,eDrive35,"$52,200","$49,045",Midsize,Sedan
+808,BMW,i4,2024,eDrive40,"$57,300","$53,790",Midsize,Sedan
+809,BMW,i4,2024,xDrive40,"$61,600","$57,790",Midsize,Sedan
+810,BMW,i5,2024,M60,"$84,100","$78,715",Large,Sedan
+811,BMW,i5,2024,eDrive40,"$66,800","$62,625",Large,Sedan
+812,BMW,i7,2024,M70,"$168,500","$157,205",Large,Sedan
+813,BMW,i7,2024,eDrive50,"$105,700","$98,800",Large,Sedan
+814,BMW,i7,2024,xDrive60,"$124,200","$116,005",Large,Sedan
+815,BMW,iX,2024,M60,"$111,500","$104,195",Large,SUV
+816,BMW,iX,2024,xDrive50,"$87,100","$81,505",Large,SUV
+817,Bentley,Bentayga,2024,A Hybrid,"$215,300",,Large,SUV
+818,Bentley,Bentayga,2024,A V8,"$215,300",,Large,SUV
+819,Bentley,Bentayga,2024,Azure Hybrid,"$238,200",,Large,SUV
+820,Bentley,Bentayga,2024,Azure V8,"$246,400",,Large,SUV
+821,Bentley,Bentayga,2024,Hybrid,"$203,200",,Large,SUV
+822,Bentley,Bentayga,2024,S Hybrid,"$232,300",,Large,SUV
+823,Bentley,Bentayga,2024,S V8,"$240,300",,Large,SUV
+824,Bentley,Bentayga,2024,V8,"$203,200",,Large,SUV
+825,Bentley,Bentayga EWB,2024,A V8,"$242,100",,Large,SUV
+826,Bentley,Bentayga EWB,2024,Azure V8,"$271,400",,Large,SUV
+827,Bentley,Bentayga EWB,2024,Mulliner V8,"$336,000",,Large,SUV
+828,Bentley,Bentayga EWB,2024,V8,"$233,700",,Large,SUV
+829,Bentley,Continental,2024,GT A V8,"$259,300",,Midsize,Coupe
+830,Bentley,Continental,2024,GT Azure V8,"$291,300",,Midsize,Coupe
+831,Bentley,Continental,2024,GT Mulliner V8,"$315,800",,Midsize,Coupe
+832,Bentley,Continental,2024,GT Mulliner W12,"$355,600",,Midsize,Coupe
+833,Bentley,Continental,2024,GT S V8,"$274,000",,Midsize,Coupe
+834,Bentley,Continental,2024,GT Speed,"$300,000",,Midsize,Coupe
+835,Bentley,Continental,2024,GT Speed Edition 12,"$336,000",,Midsize,Coupe
+836,Bentley,Continental,2024,GT V8,"$242,700",,Midsize,Coupe
+837,Bentley,Continental,2024,GTC A V8,"$281,600",,Midsize,Convertible
+838,Bentley,Continental,2024,GTC Azure V8,"$320,300",,Midsize,Convertible
+839,Bentley,Continental,2024,GTC Mulliner V8,"$336,000",,Midsize,Convertible
+840,Bentley,Continental,2024,GTC Mulliner W12,"$391,100",,Midsize,Convertible
+841,Bentley,Continental,2024,GTC S V8,"$301,300",,Midsize,Convertible
+842,Bentley,Continental,2024,GTC Speed,"$330,000",,Midsize,Convertible
+843,Bentley,Continental,2024,GTC Speed Edition 12,"$367,200",,Midsize,Convertible
+844,Bentley,Continental,2024,GTC V8,"$267,000",,Midsize,Convertible
+845,Bentley,Flying Spur,2024,A Hybrid,"$235,800",,Large,Sedan
+846,Bentley,Flying Spur,2024,A V8,"$229,100",,Large,Sedan
+847,Bentley,Flying Spur,2024,Azure Hybrid,"$256,600",,Large,Sedan
+848,Bentley,Flying Spur,2024,Azure V8,"$257,800",,Large,Sedan
+849,Bentley,Flying Spur,2024,Hybrid,"$221,200",,Large,Sedan
+850,Bentley,Flying Spur,2024,Mulliner Hybrid,"$306,300",,Large,Sedan
+851,Bentley,Flying Spur,2024,Mulliner V8,"$308,200",,Large,Sedan
+852,Bentley,Flying Spur,2024,Mulliner W12,"$324,700",,Large,Sedan
+853,Bentley,Flying Spur,2024,S Hybrid,"$247,700",,Large,Sedan
+854,Bentley,Flying Spur,2024,S V8,"$248,400",,Large,Sedan
+855,Bentley,Flying Spur,2024,Speed,"$266,500",,Large,Sedan
+856,Bentley,Flying Spur,2024,Speed Edition 12,"$300,200",,Large,Sedan
+857,Bentley,Flying Spur,2024,V8,"$214,900",,Large,Sedan
+858,Ford,Bronco,2024,Badlands,"$50,095","$48,342",Compact,Convertible SUV
+859,Ford,Bronco,2024,Badlands,"$51,385","$49,587",Midsize,Convertible SUV
+860,Ford,Bronco,2024,Big Bend,"$39,630","$38,640",Compact,Convertible SUV
+861,Ford,Bronco,2024,Big Bend,"$40,370","$39,360",Midsize,Convertible SUV
+862,Ford,Bronco,2024,Black Diamond,"$43,330","$41,814",Compact,Convertible SUV
+863,Ford,Bronco,2024,Black Diamond,"$44,070","$42,527",Midsize,Convertible SUV
+864,Ford,Bronco,2024,Everglades,"$55,520","$53,576",Midsize,Convertible SUV
+865,Ford,Bronco,2024,Heritage Edition,"$48,555","$47,341",Compact,Convertible SUV
+866,Ford,Bronco,2024,Heritage Edition,"$49,475","$48,239",Midsize,Convertible SUV
+867,Ford,Bronco,2024,Heritage Limited Edition,"$69,685","$67,246",Compact,Convertible SUV
+868,Ford,Bronco,2024,Heritage Limited Edition,"$71,105","$68,616",Midsize,Convertible SUV
+869,Ford,Bronco,2024,Outer Banks,"$47,940","$46,262",Midsize,Convertible SUV
+870,Ford,Bronco,2024,Raptor,"$90,035","$86,884",Midsize,Convertible SUV
+871,Ford,Bronco,2024,Wildtrak,"$60,765","$58,638",Midsize,Convertible SUV
+872,Ford,Bronco,2024,Wildtrak,"$60,225","$58,118",Compact,Convertible SUV
+873,Ford,Bronco Sport,2024,Badlands,"$38,390","$37,047",Compact,SUV
+874,Ford,Bronco Sport,2024,Big Bend,"$29,795","$29,050",Compact,SUV
+875,Ford,Bronco Sport,2024,Free Wheeling,"$32,395","$31,585",Compact,SUV
+876,Ford,Bronco Sport,2024,Heritage,"$32,365","$31,556",Compact,SUV
+877,Ford,Bronco Sport,2024,Outer Banks,"$33,935","$32,748",Compact,SUV
+878,Ford,E-Transit Cargo Van,2024,"350 High Roof w/148"" WB, 68 kWh Battery, Prod. End 4/24","$54,835","$52,642",Large,Cargo Van
+879,Ford,E-Transit Cargo Van,2024,"350 High Roof w/148"" WB, 68 kWh Battery, Prod. End 4/24","$56,055","$53,813",Large,Cargo Van
+880,Ford,E-Transit Cargo Van,2024,"350 High Roof w/148"" WB, 89 kWh Battery","$59,935","$57,538",Large,Cargo Van
+881,Ford,E-Transit Cargo Van,2024,"350 High Roof w/148"" WB, 89 kWh Battery","$61,155","$58,709",Large,Cargo Van
+882,Ford,E-Transit Cargo Van,2024,"350 Low Roof w/148"" WB, 68 kWh Battery, Prod. End 4/24","$52,835","$50,722",Midsize,Cargo Van
+883,Ford,E-Transit Cargo Van,2024,"350 Low Roof w/148"" WB, 89 kWh Battery","$57,935","$55,618",Midsize,Cargo Van
+884,Ford,E-Transit Cargo Van,2024,"350 Low Roof Fleet w/130"" WB","$51,490","$49,431",Midsize,Cargo Van
+885,Ford,E-Transit Cargo Van,2024,"350 Medium Roof w/148"" WB, 68 kWh Battery, Prod. End 4/24","$53,835","$51,682",Large,Cargo Van
+886,Ford,E-Transit Cargo Van,2024,"350 Medium Roof w/148"" WB, 89 kWh Battery","$58,935","$56,578",Large,Cargo Van
+887,Ford,Edge,2024,SE,"$38,365","$37,214",Midsize,SUV
+888,Ford,Edge,2024,SEL,"$39,565","$37,982",Midsize,SUV
+889,Ford,Edge,2024,ST,"$47,205","$45,317",Midsize,SUV
+890,Ford,Edge,2024,ST-Line,"$43,620","$41,875",Midsize,SUV
+891,Ford,Edge,2024,Titanium,"$43,720","$41,971",Midsize,SUV
+892,Ford,Escape,2024,Active,"$29,345","$28,171",Midsize,SUV
+893,Ford,Escape,2024,Active,"$31,515","$30,254",Midsize,SUV
+894,Ford,Escape,2024,Base Fleet,"$28,000","$27,160",Midsize,SUV
+895,Ford,Escape,2024,Base Fleet,"$29,500","$28,615",Midsize,SUV
+896,Ford,Escape,2024,Platinum,"$38,465","$36,926",Midsize,SUV
+897,Ford,Escape,2024,Platinum,"$36,965","$35,486",Midsize,SUV
+898,Ford,Escape,2024,Platinum,"$37,465","$35,966",Midsize,SUV
+899,Ford,Escape,2024,Plug-In Hybrid,"$40,500","$38,880",Midsize,SUV
+900,Ford,Escape,2024,ST-Line,"$33,340","$32,007",Midsize,SUV
+901,Ford,Escape,2024,ST-Line,"$32,510","$31,209",Midsize,SUV
+902,Ford,Escape,2024,ST-Line,"$30,340","$29,127",Midsize,SUV
+903,Ford,Escape,2024,ST-Line Elite,"$38,460","$36,921",Midsize,SUV
+904,Ford,Escape,2024,ST-Line Elite,"$39,460","$37,881",Midsize,SUV
+905,Ford,Escape,2024,ST-Line Select,"$35,040","$33,639",Midsize,SUV
+906,Ford,Escape,2024,ST-Line Select,"$34,040","$32,679",Midsize,SUV
+907,Ford,Expedition,2024,King Ranch,"$79,015","$75,854",Large,SUV
+908,Ford,Expedition,2024,King Ranch,"$82,315","$79,022",Large,SUV
+909,Ford,Expedition,2024,Limited,"$72,260","$69,369",Large,SUV
+910,Ford,Expedition,2024,Limited,"$68,960","$66,201",Large,SUV
+911,Ford,Expedition,2024,MAX King Ranch,"$82,015","$78,734",Large,SUV
+912,Ford,Expedition,2024,MAX King Ranch,"$85,315","$81,902",Large,SUV
+913,Ford,Expedition,2024,MAX Limited,"$71,960","$69,081",Large,SUV
+914,Ford,Expedition,2024,MAX Limited,"$75,260","$72,249",Large,SUV
+915,Ford,Expedition,2024,MAX Platinum,"$84,245","$80,875",Large,SUV
+916,Ford,Expedition,2024,MAX Platinum,"$87,545","$84,043",Large,SUV
+917,Ford,Expedition,2024,MAX XL Fleet,"$62,405","$59,909",Large,SUV
+918,Ford,Expedition,2024,MAX XL Fleet,"$59,105","$56,741",Large,SUV
+919,Ford,Expedition,2024,MAX XLT,"$63,140","$60,615",Large,SUV
+920,Ford,Expedition,2024,MAX XLT,"$66,440","$63,783",Large,SUV
+921,Ford,Expedition,2024,Platinum,"$84,545","$81,163",Large,SUV
+922,Ford,Expedition,2024,Platinum,"$81,245","$77,995",Large,SUV
+923,Ford,Expedition,2024,Timberline,"$72,550","$69,648",Large,SUV
+924,Ford,Expedition,2024,XL Fleet,"$55,105","$52,901",Large,SUV
+925,Ford,Expedition,2024,XL Fleet,"$58,405","$56,069",Large,SUV
+926,Ford,Expedition,2024,XL STX,"$59,375","$56,980",Large,SUV
+927,Ford,Expedition,2024,XL STX,"$56,075","$53,812",Large,SUV
+928,Ford,Expedition,2024,XLT,"$63,440","$60,903",Large,SUV
+929,Ford,Expedition,2024,XLT,"$60,140","$57,735",Large,SUV
+930,Ford,Explorer,2024,Base,"$36,860","$35,754",Large,SUV
+931,Ford,Explorer,2024,Base,"$38,860","$37,694",Large,SUV
+932,Ford,Explorer,2024,King Ranch,"$54,625","$52,441",Large,SUV
+933,Ford,Explorer,2024,King Ranch,"$56,625","$54,361",Large,SUV
+934,Ford,Explorer,2024,Limited,"$49,520","$47,539",Large,SUV
+935,Ford,Explorer,2024,Limited,"$47,520","$45,619",Large,SUV
+936,Ford,Explorer,2024,Platinum,"$54,770","$52,579",Large,SUV
+937,Ford,Explorer,2024,Platinum,"$56,770","$54,499",Large,SUV
+938,Ford,Explorer,2024,ST,"$52,105","$50,021",Large,SUV
+939,Ford,Explorer,2024,ST,"$50,105","$48,101",Large,SUV
+940,Ford,Explorer,2024,ST-Line,"$48,455","$46,517",Large,SUV
+941,Ford,Explorer,2024,ST-Line,"$46,455","$44,597",Large,SUV
+942,Ford,Explorer,2024,Timberline,"$49,330","$47,357",Large,SUV
+943,Ford,Explorer,2024,XLT,"$38,670","$37,123",Large,SUV
+944,Ford,Explorer,2024,XLT,"$40,670","$39,043",Large,SUV
+945,Ford,F-150,2024,King Ranch,"$73,845","$69,045",Large,Pickup Truck
+946,Ford,F-150,2024,King Ranch,"$74,150","$69,330",Large,Pickup Truck
+947,Ford,F-150,2024,Lariat,"$65,395","$61,144",Large,Pickup Truck
+948,Ford,F-150,2024,Lariat,"$66,000","$61,710",Large,Pickup Truck
+949,Ford,F-150,2024,Platinum,"$74,150","$69,330",Large,Pickup Truck
+950,Ford,F-150,2024,Platinum,"$73,845","$69,045",Large,Pickup Truck
+951,Ford,F-150,2024,Raptor,"$78,440","$73,342",Large,Pickup Truck
+952,Ford,F-150,2024,STX,"$48,335","$46,160",Large,Pickup Truck
+953,Ford,F-150,2024,STX,"$52,215","$49,865",Large,Pickup Truck
+954,Ford,F-150,2024,STX,"$46,000","$43,930",Large,Pickup Truck
+955,Ford,F-150,2024,STX,"$49,800","$47,559",Large,Pickup Truck
+956,Ford,F-150,2024,Tremor,"$64,350","$60,167",Large,Pickup Truck
+957,Ford,F-150,2024,XL,"$41,980","$40,091",Large,Pickup Truck
+958,Ford,F-150,2024,XL,"$41,285","$39,427",Large,Pickup Truck
+959,Ford,F-150,2024,XL,"$41,990","$40,101",Large,Pickup Truck
+960,Ford,F-150,2024,XL,"$36,965","$35,301",Large,Pickup Truck
+961,Ford,F-150,2024,XL,"$47,500","$45,363",Large,Pickup Truck
+962,Ford,F-150,2024,XL,"$43,620","$41,657",Large,Pickup Truck
+963,Ford,F-150,2024,XL,"$49,600","$47,368",Large,Pickup Truck
+964,Ford,F-150,2024,XL,"$45,085","$43,056",Large,Pickup Truck
+965,Ford,F-150,2024,XL,"$36,975","$35,312",Large,Pickup Truck
+966,Ford,F-150,2024,XLT,"$53,950","$50,443",Large,Pickup Truck
+967,Ford,F-150,2024,XLT,"$51,530","$48,181",Large,Pickup Truck
+968,Ford,F-150,2024,XLT,"$56,030","$52,388",Large,Pickup Truck
+969,Ford,F-150,2024,XLT,"$50,090","$46,834",Large,Pickup Truck
+970,Ford,F-150,2024,XLT,"$47,730","$44,628",Large,Pickup Truck
+971,Ford,F-150 Lightning,2024,Flash,"$67,995","$65,275",Large,Pickup Truck
+972,Ford,F-150 Lightning,2024,Lariat,"$76,995","$73,915",Large,Pickup Truck
+973,Ford,F-150 Lightning,2024,Platinum,"$84,995","$81,595",Large,Pickup Truck
+974,Ford,F-150 Lightning,2024,Pro,"$54,995","$52,795",Large,Pickup Truck
+975,Ford,F-150 Lightning,2024,XLT,"$62,995","$60,475",Large,Pickup Truck
+976,Ford,F-250 Super Duty,2024,King Ranch,"$77,175","$73,317",Large,Pickup Truck
+977,Ford,F-250 Super Duty,2024,King Ranch,"$76,975","$73,127",Large,Pickup Truck
+978,Ford,F-250 Super Duty,2024,Lariat,"$64,940","$61,693",Large,Pickup Truck
+979,Ford,F-250 Super Duty,2024,Lariat,"$62,410","$59,289",Large,Pickup Truck
+980,Ford,F-250 Super Duty,2024,Lariat,"$62,610","$59,479",Large,Pickup Truck
+981,Ford,F-250 Super Duty,2024,Lariat,"$64,740","$61,503",Large,Pickup Truck
+982,Ford,F-250 Super Duty,2024,Limited,"$97,295","$92,430",Large,Pickup Truck
+983,Ford,F-250 Super Duty,2024,Limited,"$97,095","$92,240",Large,Pickup Truck
+984,Ford,F-250 Super Duty,2024,Platinum,"$78,065","$74,161",Large,Pickup Truck
+985,Ford,F-250 Super Duty,2024,Platinum,"$77,865","$73,971",Large,Pickup Truck
+986,Ford,F-250 Super Duty,2024,XL,"$47,305","$44,940",Large,Pickup Truck
+987,Ford,F-250 Super Duty,2024,XL,"$47,505","$45,130",Large,Pickup Truck
+988,Ford,F-250 Super Duty,2024,XL,"$50,095","$47,590",Large,Pickup Truck
+989,Ford,F-250 Super Duty,2024,XL,"$50,305","$47,790",Large,Pickup Truck
+990,Ford,F-250 Super Duty,2024,XL,"$47,760","$45,372",Large,Pickup Truck
+991,Ford,F-250 Super Duty,2024,XL,"$48,960","$46,512",Large,Pickup Truck
+992,Ford,F-250 Super Duty,2024,XL,"$51,560","$48,982",Large,Pickup Truck
+993,Ford,F-250 Super Duty,2024,XL,"$48,760","$46,322",Large,Pickup Truck
+994,Ford,F-250 Super Duty,2024,XL,"$51,770","$49,181",Large,Pickup Truck
+995,Ford,F-250 Super Duty,2024,XL,"$44,970","$42,721",Large,Pickup Truck
+996,Ford,F-250 Super Duty,2024,XLT,"$53,955","$51,257",Large,Pickup Truck
+997,Ford,F-250 Super Duty,2024,XLT,"$53,755","$51,067",Large,Pickup Truck
+998,Ford,F-250 Super Duty,2024,XLT,"$51,105","$48,550",Large,Pickup Truck
+999,Ford,F-250 Super Duty,2024,XLT,"$55,510","$52,734",Large,Pickup Truck
+1600,Ford,F-250 Super Duty,2024,XLT,"$55,715","$52,929",Large,Pickup Truck
+1601,Ford,F-350 Super Duty,2024,King Ranch,"$78,220","$74,309",Large,Pickup Truck
+1602,Ford,F-350 Super Duty,2024,King Ranch,"$79,160","$75,202",Large,Pickup Truck
+1603,Ford,F-350 Super Duty,2024,King Ranch,"$78,025","$74,124",Large,Pickup Truck
+1604,Ford,F-350 Super Duty,2024,Lariat,"$63,660","$60,477",Large,Pickup Truck
+1605,Ford,F-350 Super Duty,2024,Lariat,"$67,480","$64,106",Large,Pickup Truck
+1606,Ford,F-350 Super Duty,2024,Lariat,"$63,460","$60,287",Large,Pickup Truck
+1607,Ford,F-350 Super Duty,2024,Lariat,"$65,145","$61,888",Large,Pickup Truck
+1608,Ford,F-350 Super Duty,2024,Lariat,"$65,790","$62,501",Large,Pickup Truck
+1609,Ford,F-350 Super Duty,2024,Lariat,"$65,990","$62,691",Large,Pickup Truck
+1610,Ford,F-350 Super Duty,2024,Limited,"$100,280","$95,266",Large,Pickup Truck
+1611,Ford,F-350 Super Duty,2024,Limited,"$98,270","$93,356",Large,Pickup Truck
+1612,Ford,F-350 Super Duty,2024,Limited,"$98,470","$93,546",Large,Pickup Truck
+1613,Ford,F-350 Super Duty,2024,Platinum,"$79,115","$75,159",Large,Pickup Truck
+1614,Ford,F-350 Super Duty,2024,Platinum,"$81,145","$77,088",Large,Pickup Truck
+1615,Ford,F-350 Super Duty,2024,Platinum,"$78,915","$74,969",Large,Pickup Truck
+1616,Ford,F-350 Super Duty,2024,XL,"$61,495","$58,420",Large,Pickup Truck
+1617,Ford,F-350 Super Duty,2024,XL,"$54,300","$51,585",Large,Pickup Truck
+1618,Ford,F-350 Super Duty,2024,XL,"$60,040","$57,038",Large,Pickup Truck
+1619,Ford,F-350 Super Duty,2024,XL,"$48,815","$46,374",Large,Pickup Truck
+1620,Ford,F-350 Super Duty,2024,XL,"$50,015","$47,514",Large,Pickup Truck
+1621,Ford,F-350 Super Duty,2024,XL,"$52,830","$50,189",Large,Pickup Truck
+1622,Ford,F-350 Super Duty,2024,XL,"$50,305","$47,790",Large,Pickup Truck
+1623,Ford,F-350 Super Duty,2024,XL,"$49,815","$47,324",Large,Pickup Truck
+1624,Ford,F-350 Super Duty,2024,XL,"$52,620","$49,989",Large,Pickup Truck
+1625,Ford,F-350 Super Duty,2024,XL,"$48,345","$45,928",Large,Pickup Truck
+1626,Ford,F-350 Super Duty,2024,XL,"$48,555","$46,127",Large,Pickup Truck
+1627,Ford,F-350 Super Duty,2024,XL,"$51,155","$48,597",Large,Pickup Truck
+1628,Ford,F-350 Super Duty,2024,XL,"$51,345","$48,778",Large,Pickup Truck
+1629,Ford,F-350 Super Duty,2024,XL,"$52,815","$50,174",Large,Pickup Truck
+1630,Ford,F-350 Super Duty,2024,XL,"$46,015","$43,714",Large,Pickup Truck
+1631,Ford,F-350 Super Duty,2024,XL,"$47,505","$45,130",Large,Pickup Truck
+1632,Ford,F-350 Super Duty,2024,XLT,"$53,115","$50,459",Large,Pickup Truck
+1633,Ford,F-350 Super Duty,2024,XLT,"$54,800","$52,060",Large,Pickup Truck
+1634,Ford,F-350 Super Duty,2024,XLT,"$55,010","$52,259",Large,Pickup Truck
+1635,Ford,F-350 Super Duty,2024,XLT,"$52,160","$49,552",Large,Pickup Truck
+1636,Ford,F-350 Super Duty,2024,XLT,"$57,610","$54,729",Large,Pickup Truck
+1637,Ford,F-350 Super Duty,2024,XLT,"$55,840","$53,048",Large,Pickup Truck
+1638,Ford,F-350 Super Duty,2024,XLT,"$56,560","$53,732",Large,Pickup Truck
+1639,Ford,F-350 Super Duty,2024,XLT,"$56,760","$53,922",Large,Pickup Truck
+1640,Ford,F-450 Super Duty,2024,King Ranch,"$92,090","$87,486",Large,Pickup Truck
+1641,Ford,F-450 Super Duty,2024,Lariat,"$79,665","$75,681",Large,Pickup Truck
+1642,Ford,F-450 Super Duty,2024,Limited,"$104,030","$98,829",Large,Pickup Truck
+1643,Ford,F-450 Super Duty,2024,Platinum,"$93,535","$88,859",Large,Pickup Truck
+1644,Ford,F-450 Super Duty,2024,XL,"$62,765","$59,626",Large,Pickup Truck
+1645,Ford,F-450 Super Duty,2024,XL,"$64,455","$61,232",Large,Pickup Truck
+1646,Ford,F-450 Super Duty,2024,XL,"$67,925","$64,529",Large,Pickup Truck
+1647,Ford,F-450 Super Duty,2024,XL,"$59,455","$56,482",Large,Pickup Truck
+1648,Ford,F-450 Super Duty,2024,XLT,"$66,695","$63,360",Large,Pickup Truck
+1649,Ford,F-450 Super Duty,2024,XLT,"$70,035","$66,534",Large,Pickup Truck
+1650,Ford,Maverick,2024,Lariat,"$34,960","$34,261",Compact,Pickup Truck
+1651,Ford,Maverick,2024,XL,"$23,920","$23,441",Compact,Pickup Truck
+1652,Ford,Maverick,2024,XLT,"$26,420","$25,891",Compact,Pickup Truck
+1653,Ford,Mustang,2024,Dark Horse,"$58,185","$55,276",Midsize,Coupe
+1654,Ford,Mustang,2024,EcoBoost,"$30,920","$29,683",Midsize,Coupe
+1655,Ford,Mustang,2024,EcoBoost,"$39,020","$37,459",Midsize,Convertible
+1656,Ford,Mustang,2024,EcoBoost Premium,"$41,945","$39,848",Midsize,Convertible
+1657,Ford,Mustang,2024,EcoBoost Premium,"$36,445","$34,623",Midsize,Coupe
+1658,Ford,Mustang,2024,GT,"$41,960","$39,862",Midsize,Coupe
+1660,Ford,Mustang,2024,GT Premium,"$46,480","$44,156",Midsize,Coupe
+1661,Ford,Mustang,2024,GT Premium,"$51,980","$49,381",Midsize,Convertible
+1664,Ford,Mustang Mach-E,2024,GT,"$53,995","$52,915",Midsize,Hatchback
+1665,Ford,Mustang Mach-E,2024,Premium,"$46,995","$46,055",Midsize,Hatchback
+1666,Ford,Mustang Mach-E,2024,Premium,"$43,995","$43,115",Midsize,Hatchback
+1667,Ford,Mustang Mach-E,2024,Select,"$39,995","$39,195",Midsize,Hatchback
+1668,Ford,Mustang Mach-E,2024,Select,"$43,495","$42,625",Midsize,Hatchback
+1669,Ford,Ranger,2024,Lariat,"$47,115","$45,230",Compact,Pickup Truck
+1670,Ford,Ranger,2024,Lariat,"$43,630","$41,885",Compact,Pickup Truck
+1671,Ford,Ranger,2024,Raptor,"$55,470","$53,251",Compact,Pickup Truck
+1672,Ford,Ranger,2024,XL,"$36,315","$35,225",Compact,Pickup Truck
+1673,Ford,Ranger,2024,XL,"$32,670","$31,690",Compact,Pickup Truck
+1674,Ford,Ranger,2024,XLT,"$36,110","$34,665",Compact,Pickup Truck
+1675,Ford,Ranger,2024,XLT,"$39,595","$38,011",Compact,Pickup Truck
+1676,Ford,Transit Cargo Van,2024,"150 Low Roof w/148"" WB","$48,235","$45,824",Large,Cargo Van
+1677,Ford,Transit Cargo Van,2024,"150 Low Roof w/148"" WB","$52,430","$49,809",Large,Cargo Van
+1678,Ford,Transit Cargo Van,2024,"150 Low Roof w/130"" WB","$46,890","$44,546",Midsize,Cargo Van
+1679,Ford,Transit Cargo Van,2024,"150 Low Roof w/130"" WB","$51,085","$48,531",Midsize,Cargo Van
+1680,Ford,Transit Cargo Van,2024,"150 Medium Roof w/148"" WB","$49,235","$46,774",Large,Cargo Van
+1681,Ford,Transit Cargo Van,2024,"150 Medium Roof w/148"" WB","$53,425","$50,754",Large,Cargo Van
+1682,Ford,Transit Cargo Van,2024,"250 High Roof w/148"" WB","$55,375","$52,607",Large,Cargo Van
+1683,Ford,Transit Cargo Van,2024,"250 High Roof w/148"" WB","$56,600","$53,770",Large,Cargo Van
+1684,Ford,Transit Cargo Van,2024,"250 High Roof w/148"" WB","$51,185","$48,626",Large,Cargo Van
+1685,Ford,Transit Cargo Van,2024,"250 High Roof w/148"" WB","$52,405","$49,785",Large,Cargo Van
+1686,Ford,Transit Cargo Van,2024,"250 Low Roof w/148"" WB","$49,180","$46,721",Large,Cargo Van
+1687,Ford,Transit Cargo Van,2024,"250 Low Roof w/130"" WB","$47,835","$45,444",Midsize,Cargo Van
+1688,Ford,Transit Cargo Van,2024,"250 Low Roof w/130"" WB","$52,035","$49,434",Midsize,Cargo Van
+1689,Ford,Transit Cargo Van,2024,"250 Low Roof w/148"" WB","$53,380","$50,711",Large,Cargo Van
+1690,Ford,Transit Cargo Van,2024,"250 Medium Roof w/148"" WB","$50,185","$47,676",Large,Cargo Van
+1691,Ford,Transit Cargo Van,2024,"250 Medium Roof w/148"" WB","$54,380","$51,661",Large,Cargo Van
+1692,Ford,Transit Cargo Van,2024,"350 HD High Roof w/148"" WB, 9,950 lbs. GVWR","$54,250","$51,538",Large,Cargo Van
+1693,Ford,Transit Cargo Van,2024,"350 HD High Roof w/148"" WB, 11,000 lbs. GVWR","$61,690","$58,606",Large,Cargo Van
+1694,Ford,Transit Cargo Van,2024,"350 HD High Roof w/148"" WB, 11,000 lbs. GVWR","$56,605","$53,775",Large,Cargo Van
+1695,Ford,Transit Cargo Van,2024,"350 HD High Roof w/148"" WB, 9,950 lbs. GVWR","$58,835","$55,894",Large,Cargo Van
+1696,Ford,Transit Cargo Van,2024,"350 High Roof w/148"" WB","$57,850","$54,958",Large,Cargo Van
+1697,Ford,Transit Cargo Van,2024,"350 High Roof w/148"" WB","$53,655","$50,972",Large,Cargo Van
+1698,Ford,Transit Cargo Van,2024,"350 High Roof w/148"" WB","$56,630","$53,799",Large,Cargo Van
+1699,Ford,Transit Cargo Van,2024,"350 High Roof w/148"" WB","$52,435","$49,814",Large,Cargo Van
+1700,Ford,Transit Cargo Van,2024,"350 High Roof w/148"" WB, 9,950 lbs. GVWR","$53,655","$50,972",Large,Cargo Van
+1701,Ford,Transit Cargo Van,2024,"350 High Roof w/148"" WB, 9,950 lbs. GVWR","$57,850","$54,958",Large,Cargo Van
+1702,Ford,Transit Cargo Van,2024,"350 High Roof w/148"" WB, 9,950 lbs. GVWR","$52,435","$49,814",Large,Cargo Van
+1703,Ford,Transit Cargo Van,2024,"350 High Roof w/148"" WB, 9,950 lbs. GVWR","$56,630","$53,799",Large,Cargo Van
+1704,Ford,Transit Cargo Van,2024,"350 Low Roof w/130"" WB","$53,280","$50,616",Midsize,Cargo Van
+1705,Ford,Transit Cargo Van,2024,"350 Low Roof w/148"" WB","$54,630","$51,899",Large,Cargo Van
+1706,Ford,Transit Cargo Van,2024,"350 Low Roof w/130"" WB","$49,090","$46,636",Midsize,Cargo Van
+1707,Ford,Transit Cargo Van,2024,"350 Low Roof w/148"" WB","$50,435","$47,914",Large,Cargo Van
+1708,Ford,Transit Cargo Van,2024,"350 Low Roof w/148"" WB, 9,950 lbs. GVWR","$54,630","$51,899",Large,Cargo Van
+1709,Ford,Transit Cargo Van,2024,"350 Low Roof w/148"" WB, 9,950 lbs. GVWR","$50,435","$47,914",Large,Cargo Van
+1710,Ford,Transit Cargo Van,2024,"350 Medium Roof w/148"" WB","$55,625","$52,844",Large,Cargo Van
+1711,Ford,Transit Cargo Van,2024,"350 Medium Roof w/148"" WB, 9,950 lbs. GVWR","$51,435","$48,864",Large,Cargo Van
+1712,Ford,Transit Cargo Van,2024,"350 Medium Roof w/148"" WB, 9,950 lbs. GVWR","$55,625","$52,844",Large,Cargo Van
+1713,Ford,Transit Cargo Van,2024,"350 Medium Roof w/148"" WB","$51,435","$48,864",Large,Cargo Van
+1714,Ford,Transit Passenger Van,2024,"350 HD XL High Roof w/148"" WB","$62,415","$59,294",Large,Passenger Van
+1715,Ford,Transit Passenger Van,2024,"350 HD XLT High Roof w/148"" WB","$64,175","$60,967",Large,Passenger Van
+1716,Ford,Transit Passenger Van,2024,"350 HD XLT High Roof w/148"" WB","$58,035","$55,134",Large,Passenger Van
+1717,Ford,Transit Passenger Van,2024,"350 XL High Roof w/148"" WB","$55,220","$52,459",Large,Passenger Van
+1718,Ford,Transit Passenger Van,2024,"350 XL High Roof w/148"" WB","$59,415","$56,444",Large,Passenger Van
+1719,Ford,Transit Passenger Van,2024,"350 XL Low Roof w/148"" WB","$53,620","$50,939",Midsize,Passenger Van
+1720,Ford,Transit Passenger Van,2024,"350 XL Medium Roof w/148"" WB","$54,500","$51,775",Large,Passenger Van
+1721,Ford,Transit Passenger Van,2024,"350 XL Medium Roof w/148"" WB","$58,695","$55,760",Large,Passenger Van
+1722,Ford,Transit Passenger Van,2024,"350 XLT High Roof w/148"" WB","$61,175","$58,117",Large,Passenger Van
+1723,Ford,Transit Passenger Van,2024,"350 XLT High Roof w/148"" WB","$56,985","$54,136",Large,Passenger Van
+1724,Ford,Transit Passenger Van,2024,"350 XLT Low Roof w/148"" WB","$59,580","$56,601",Midsize,Passenger Van
+1725,Ford,Transit Passenger Van,2024,"350 XLT Medium Roof w/148"" WB","$56,260","$53,447",Large,Passenger Van
+1726,Ford,Transit Passenger Van,2024,"350 XLT Medium Roof w/148"" WB","$60,450","$57,428",Large,Passenger Van
+1727,Mercedes-Benz,AMG GT,2024,43,"$98,950",,Large,Sedan
+1728,Mercedes-Benz,AMG GT,2024,53,"$109,450",,Large,Sedan
+1729,Mercedes-Benz,AMG GT,2024,55,"$134,900",,Midsize,Coupe
+1730,Mercedes-Benz,AMG GT,2024,63,"$153,350",,Large,Sedan
+1731,Mercedes-Benz,AMG GT,2024,63,"$175,900",,Midsize,Coupe
+1732,Mercedes-Benz,AMG GT,2024,63 S E PERFORMANCE,"$194,900",,Large,Sedan
+1733,Mercedes-Benz,C-Class,2024,AMG C 43,"$60,700",,Midsize,Sedan
+1734,Mercedes-Benz,C-Class,2024,AMG C 63 S E PERFORMANCE,"$83,900",,Midsize,Sedan
+1735,Mercedes-Benz,C-Class,2024,C 300,"$46,950",,Midsize,Sedan
+1736,Mercedes-Benz,C-Class,2024,C 300 4MATIC,"$48,950",,Midsize,Sedan
+1737,Mercedes-Benz,CLA-Class,2024,AMG CLA 35,"$54,950",,Midsize,Sedan
+1738,Mercedes-Benz,CLA-Class,2024,AMG CLA 45 S,"$65,400",,Midsize,Sedan
+1739,Mercedes-Benz,CLA-Class,2024,CLA 250,"$43,200",,Midsize,Sedan
+1740,Mercedes-Benz,CLA-Class,2024,CLA 250 4MATIC,"$45,200",,Midsize,Sedan
+1741,Mercedes-Benz,CLE,2024,AMG CLE 53,"$72,800",,Midsize,Coupe
+1742,Mercedes-Benz,CLE,2024,CLE 300 4MATIC,"$56,500",,Midsize,Coupe
+1743,Mercedes-Benz,CLE,2024,CLE 300 4MATIC,"$64,350",,Midsize,Convertible
+1744,Mercedes-Benz,CLE,2024,CLE 450 4MATIC,"$65,650",,Midsize,Coupe
+1745,Mercedes-Benz,CLE,2024,CLE 450 4MATIC,"$73,850",,Midsize,Convertible
+1746,Mercedes-Benz,E-Class,2024,E 350 4MATIC,"$62,300",,Large,Sedan
+1747,Mercedes-Benz,E-Class,2024,E 450 4MATIC,"$68,100",,Large,Sedan
+1748,Mercedes-Benz,E-Class,2024,E 450 4MATIC All-Terrain,"$74,700",,Large,Wagon
+1749,Mercedes-Benz,EQB,2024,EQB 250+,"$52,750",,Midsize,SUV
+1750,Mercedes-Benz,EQB,2024,EQB 300,"$56,900",,Midsize,SUV
+1751,Mercedes-Benz,EQB,2024,EQB 350,"$60,550",,Midsize,SUV
+1752,Mercedes-Benz,EQE,2024,AMG EQE,"$106,900",,Large,Sedan
+1753,Mercedes-Benz,EQE,2024,EQE 350 4MATIC,"$77,900",,Large,Sedan
+1754,Mercedes-Benz,EQE,2024,EQE 350+,"$74,900",,Large,Sedan
+1755,Mercedes-Benz,EQE,2024,EQE 500 4MATIC,"$85,900",,Large,Sedan
+1756,Mercedes-Benz,EQE SUV,2024,AMG EQE,"$109,300",,Large,SUV
+1757,Mercedes-Benz,EQE SUV,2024,EQE 350 4MATIC,"$77,900",,Large,SUV
+1758,Mercedes-Benz,EQE SUV,2024,EQE 350+,"$77,900",,Large,SUV
+1759,Mercedes-Benz,EQE SUV,2024,EQE 500 4MATIC,"$89,500",,Large,SUV
+1760,Mercedes-Benz,EQS,2024,AMG EQS,"$147,550",,Large,Sedan
+1761,Mercedes-Benz,EQS,2024,EQS 450 4MATIC,"$107,400",,Large,Sedan
+1762,Mercedes-Benz,EQS,2024,EQS 450+,"$104,400",,Large,Sedan
+1763,Mercedes-Benz,EQS,2024,EQS 580 4MATIC,"$127,350",,Large,Sedan
+1764,Mercedes-Benz,EQS SUV,2024,EQS 450 4MATIC,"$107,400",,Large,SUV
+1765,Mercedes-Benz,EQS SUV,2024,EQS 450+,"$104,400",,Large,SUV
+1766,Mercedes-Benz,EQS SUV,2024,EQS 580 4MATIC,"$127,350",,Large,SUV
+1767,Mercedes-Benz,G-Class,2024,AMG G 63,"$183,000",,Midsize,SUV
+1768,Mercedes-Benz,G-Class,2024,AMG G 63 4x4 Squared,"$357,000",,Midsize,SUV
+1769,Mercedes-Benz,G-Class,2024,G 550,"$143,000",,Midsize,SUV
+1770,Mercedes-Benz,GLA-Class,2024,AMG GLA 35,"$56,450",,Compact,SUV
+1771,Mercedes-Benz,GLA-Class,2024,GLA 250,"$41,850",,Compact,SUV
+1772,Mercedes-Benz,GLA-Class,2024,GLA 250 4MATIC,"$43,850",,Compact,SUV
+1773,Mercedes-Benz,GLB-Class,2024,AMG GLB 35,"$59,050",,Midsize,SUV
+1774,Mercedes-Benz,GLB-Class,2024,GLB 250,"$44,450",,Midsize,SUV
+1775,Mercedes-Benz,GLB-Class,2024,GLB 250 4MATIC,"$46,450",,Midsize,SUV
+1776,Mercedes-Benz,GLC-Class,2024,AMG GLC 43,"$64,950",,Midsize,SUV
+1777,Mercedes-Benz,GLC-Class,2024,GLC 300,"$47,450",,Midsize,SUV
+1778,Mercedes-Benz,GLC-Class,2024,GLC 300 4MATIC,"$49,450",,Midsize,SUV
+1779,Mercedes-Benz,GLC-Class Coupe,2024,AMG GLC 43,"$70,600",,Midsize,SUV
+1780,Mercedes-Benz,GLC-Class Coupe,2024,GLC 300 4MATIC,"$57,000",,Midsize,SUV
+1781,Mercedes-Benz,GLE-Class,2024,AMG GLE 53,"$86,750",,Large,SUV
+1782,Mercedes-Benz,GLE-Class,2024,AMG GLE 63 S,"$127,700",,Large,SUV
+1783,Mercedes-Benz,GLE-Class,2024,GLE 350 4MATIC,"$62,650",,Large,SUV
+1784,Mercedes-Benz,GLE-Class,2024,GLE 450 4MATIC,"$69,500",,Large,SUV
+1785,Mercedes-Benz,GLE-Class,2024,GLE 450e,"$69,500",,Large,SUV
+1786,Mercedes-Benz,GLE-Class,2024,GLE 580 4MATIC,"$86,700",,Large,SUV
+1787,Mercedes-Benz,GLE-Class Coupe,2024,AMG GLE 53,"$89,800",,Large,SUV
+1788,Mercedes-Benz,GLE-Class Coupe,2024,AMG GLE 63 S,"$129,050",,Large,SUV
+1789,Mercedes-Benz,GLS-Class,2024,AMG GLS 63,"$145,850",,Large,SUV
+1790,Mercedes-Benz,GLS-Class,2024,GLS 450 4MATIC,"$87,000",,Large,SUV
+1791,Mercedes-Benz,GLS-Class,2024,GLS 580 4MATIC,"$112,000",,Large,SUV
+1792,Mercedes-Benz,Maybach,2024,S 580 4MATIC,"$198,300",,Large,Sedan
+1793,Mercedes-Benz,Maybach,2024,S 680 4MATIC,"$234,300",,Large,Sedan
+1794,Mercedes-Benz,Maybach EQS SUV,2024,EQS 680,"$179,900",,Large,SUV
+1795,Mercedes-Benz,Maybach GLS,2024,GLS 600,"$174,350",,Large,SUV
+1796,Mercedes-Benz,S-Class,2024,AMG S 63 E PERFORMANCE,"$182,250",,Large,Sedan
+1797,Mercedes-Benz,S-Class,2024,S 500 4MATIC,"$117,300",,Large,Sedan
+1798,Mercedes-Benz,S-Class,2024,S 580 4MATIC,"$128,150",,Large,Sedan
+1799,Mercedes-Benz,S-Class,2024,S 580e 4MATIC,"$127,750",,Large,Sedan
+2400,Mercedes-Benz,SL-Class,2024,AMG SL 43,"$109,900",,Midsize,Convertible
+2401,Mercedes-Benz,SL-Class,2024,AMG SL 55,"$141,300",,Midsize,Convertible
+2402,Mercedes-Benz,SL-Class,2024,AMG SL 63,"$183,000",,Midsize,Convertible
+2403,Mercedes-Benz,Sprinter,2024,"2500 144"" WB Cargo","$59,400",,Large,Cargo Van
+2404,Mercedes-Benz,Sprinter,2024,"2500 144"" WB Cargo w/High Output Engine","$52,700",,Large,Cargo Van
+2405,Mercedes-Benz,Sprinter,2024,"2500 144"" WB Cargo","$49,900",,Large,Cargo Van
+2406,Mercedes-Benz,Sprinter,2024,"2500 144"" WB Crew w/High Output Engine","$54,920",,Midsize,Passenger Van
+2407,Mercedes-Benz,Sprinter,2024,"2500 144"" WB Crew","$52,120",,Midsize,Passenger Van
+2408,Mercedes-Benz,Sprinter,2024,"2500 144"" WB Crew","$61,620",,Midsize,Passenger Van
+2409,Mercedes-Benz,Sprinter,2024,"2500 144"" WB Passenger","$55,800",,Compact,Passenger Van
+2410,Mercedes-Benz,Sprinter,2024,"2500 144"" WB Passenger w/High Output Engine","$58,600",,Compact,Passenger Van
+2411,Mercedes-Benz,Sprinter,2024,"2500 144"" WB Passenger","$65,300",,Compact,Passenger Van
+2412,Mercedes-Benz,Sprinter,2024,"2500 170"" WB Cargo w/High Roof","$66,000",,Large,Cargo Van
+2413,Mercedes-Benz,Sprinter,2024,"2500 170"" WB Cargo w/High Roof","$58,900",,Large,Cargo Van
+2414,Mercedes-Benz,Sprinter,2024,"2500 170"" WB Cargo w/High Roof, High Output Engine","$59,300",,Large,Cargo Van
+2415,Mercedes-Benz,Sprinter,2024,"2500 170"" WB Cargo w/High Roof","$56,500",,Large,Cargo Van
+2416,Mercedes-Benz,Sprinter,2024,"2500 170"" WB Cargo w/High Roof, High Output Engine","$61,700",,Large,Cargo Van
+2417,Mercedes-Benz,Sprinter,2024,"2500 170"" WB Cargo w/High Roof","$68,400",,Large,Cargo Van
+2418,Mercedes-Benz,Sprinter,2024,"2500 170"" WB Crew w/High Roof","$68,920",,Large,Passenger Van
+2419,Mercedes-Benz,Sprinter,2024,"2500 170"" WB Crew w/High Roof, High Output Engine","$62,220",,Large,Passenger Van
+2420,Mercedes-Benz,Sprinter,2024,"2500 170"" WB Crew w/High Roof","$59,420",,Large,Passenger Van
+2421,Mercedes-Benz,Sprinter,2024,"2500 170"" WB Passenger w/High Roof","$65,200",,Compact,Passenger Van
+2422,Mercedes-Benz,Sprinter,2024,"2500 170"" WB Passenger w/High Roof, High Output Engine","$68,000",,Compact,Passenger Van
+2423,Mercedes-Benz,Sprinter,2024,"3500 144"" WB Cargo","$52,800",,Large,Cargo Van
+2424,Mercedes-Benz,Sprinter,2024,"3500 144"" WB Cargo w/High Output Engine","$55,600",,Large,Cargo Van
+2425,Mercedes-Benz,Sprinter,2024,"3500 170"" WB Cargo w/High Roof","$59,400",,Large,Cargo Van
+2426,Mercedes-Benz,Sprinter,2024,"3500 170"" WB Cargo w/High Roof, High Output Engine","$64,600",,Large,Cargo Van
+2427,Mercedes-Benz,Sprinter,2024,"3500 170"" WB Cargo w/High Roof","$61,800",,Large,Cargo Van
+2428,Mercedes-Benz,Sprinter,2024,"3500 170"" WB Cargo w/High Roof, High Output Engine","$62,200",,Large,Cargo Van
+2429,Mercedes-Benz,Sprinter,2024,"3500XD 144"" WB Cargo","$65,200",,Midsize,Cargo Van
+2430,Mercedes-Benz,Sprinter,2024,"3500XD 144"" WB Cargo","$58,500",,Midsize,Cargo Van
+2431,Mercedes-Benz,Sprinter,2024,"3500XD 170"" WB Cargo w/High Roof","$74,200",,Large,Cargo Van
+2432,Mercedes-Benz,Sprinter,2024,"3500XD 170"" WB Cargo w/High Roof","$67,500",,Large,Cargo Van
+2433,Mercedes-Benz,Sprinter,2024,"3500XD 170"" WB Cargo w/High Roof","$71,700",,Large,Cargo Van
+2434,Mercedes-Benz,Sprinter,2024,"3500XD 170"" WB Cargo w/High Roof","$65,100",,Large,Cargo Van
+2435,Mercedes-Benz,Sprinter,2024,"4500 144"" WB Cargo","$61,000",,Midsize,Cargo Van
+2436,Mercedes-Benz,Sprinter,2024,"4500 170"" WB Cargo w/High Roof","$70,000",,Large,Cargo Van
+2437,Mercedes-Benz,Sprinter,2024,"4500 170"" WB Cargo w/High Roof","$67,600",,Large,Cargo Van
+2438,Mercedes-Benz,eSprinter,2024,"2500 170"" WB Cargo w/High Roof","$71,886",,Large,Cargo Van
+2439,Mercedes-Benz,eSprinter,2024,"2500 170"" WB Cargo w/High Roof, High Output Motor","$75,316",,Large,Cargo Van
+2440,Nissan,ARIYA,2024,Empower+,"$47,690",,Midsize,SUV
+2441,Nissan,ARIYA,2024,Engage,"$39,590",,Midsize,SUV
+2442,Nissan,ARIYA,2024,Engage e-4ORCE,"$43,590",,Midsize,SUV
+2443,Nissan,ARIYA,2024,Engage+ e-4ORCE,"$45,190",,Midsize,SUV
+2444,Nissan,ARIYA,2024,Evolve+,"$44,190",,Midsize,SUV
+2445,Nissan,ARIYA,2024,Evolve+ e-4ORCE,"$48,190",,Midsize,SUV
+2446,Nissan,ARIYA,2024,"Platinum+ e-4ORCE w/19"" Wheels","$54,190",,Midsize,SUV
+2447,Nissan,ARIYA,2024,"Platinum+ e-4ORCE w/20"" Wheels","$54,190",,Midsize,SUV
+2448,Nissan,ARIYA,2024,Venture+,"$41,190",,Midsize,SUV
+2449,Nissan,Altima,2024,2.5 S,"$26,000",,Midsize,Sedan
+2450,Nissan,Altima,2024,2.5 SL,"$32,700",,Midsize,Sedan
+2451,Nissan,Altima,2024,2.5 SL,"$34,200",,Midsize,Sedan
+2452,Nissan,Altima,2024,2.5 SR,"$28,200",,Midsize,Sedan
+2453,Nissan,Altima,2024,2.5 SR,"$29,700",,Midsize,Sedan
+2454,Nissan,Altima,2024,2.5 SV,"$28,300",,Midsize,Sedan
+2455,Nissan,Altima,2024,2.5 SV,"$26,800",,Midsize,Sedan
+2456,Nissan,Altima,2024,VC-T SR,"$35,700",,Midsize,Sedan
+2457,Nissan,Armada,2024,Platinum,"$67,790",,Large,SUV
+2458,Nissan,Armada,2024,Platinum,"$70,790",,Large,SUV
+2459,Nissan,Armada,2024,SL,"$62,540",,Large,SUV
+2460,Nissan,Armada,2024,SL,"$59,540",,Large,SUV
+2461,Nissan,Armada,2024,SV,"$55,720",,Large,SUV
+2462,Nissan,Armada,2024,SV,"$58,720",,Large,SUV
+2463,Nissan,Frontier,2024,PRO-4X,"$39,560",,Compact,Pickup Truck
+2464,Nissan,Frontier,2024,PRO-X,"$36,560",,Compact,Pickup Truck
+2465,Nissan,Frontier,2024,S,"$30,030",,Compact,Pickup Truck
+2466,Nissan,Frontier,2024,S,"$33,230",,Compact,Pickup Truck
+2467,Nissan,Frontier,2024,S,"$31,330",,Compact,Pickup Truck
+2468,Nissan,Frontier,2024,S,"$34,330",,Compact,Pickup Truck
+2469,Nissan,Frontier,2024,SL,"$42,900",,Compact,Pickup Truck
+2470,Nissan,Frontier,2024,SL,"$39,900",,Compact,Pickup Truck
+2471,Nissan,Frontier,2024,SV,"$35,930",,Compact,Pickup Truck
+2472,Nissan,Frontier,2024,SV,"$32,730",,Compact,Pickup Truck
+2473,Nissan,Frontier,2024,SV,"$36,960",,Compact,Pickup Truck
+2474,Nissan,Frontier,2024,SV,"$39,960",,Compact,Pickup Truck
+2475,Nissan,Frontier,2024,SV,"$34,130",,Compact,Pickup Truck
+2476,Nissan,Frontier,2024,SV,"$37,130",,Compact,Pickup Truck
+2477,Nissan,GT-R,2024,NISMO,"$221,090",,Midsize,Coupe
+2478,Nissan,GT-R,2024,Premium,"$121,090",,Midsize,Coupe
+2479,Nissan,GT-R,2024,T-spec,"$141,090",,Midsize,Coupe
+2480,Nissan,Kicks,2024,S,"$21,050",,Compact,Hatchback
+2481,Nissan,Kicks,2024,SR,"$23,610",,Compact,Hatchback
+2482,Nissan,Kicks,2024,SV,"$22,910",,Compact,Hatchback
+2483,Nissan,LEAF,2024,S,"$28,140",,Compact,Hatchback
+2484,Nissan,LEAF,2024,SV PLUS,"$36,190",,Compact,Hatchback
+2485,Nissan,Murano,2024,Platinum,"$46,200",,Midsize,SUV
+2486,Nissan,Murano,2024,Platinum,"$47,900",,Midsize,SUV
+2487,Nissan,Murano,2024,SL,"$43,850",,Midsize,SUV
+2488,Nissan,Murano,2024,SL,"$42,150",,Midsize,SUV
+2489,Nissan,Murano,2024,SV,"$38,190",,Midsize,SUV
+2490,Nissan,Murano,2024,SV,"$39,890",,Midsize,SUV
+2491,Nissan,Pathfinder,2024,Platinum,"$50,950",,Large,SUV
+2492,Nissan,Pathfinder,2024,Platinum,"$49,050",,Large,SUV
+2493,Nissan,Pathfinder,2024,Rock Creek,"$43,900",,Large,SUV
+2494,Nissan,Pathfinder,2024,S,"$36,080",,Large,SUV
+2495,Nissan,Pathfinder,2024,S,"$37,980",,Large,SUV
+2496,Nissan,Pathfinder,2024,SL,"$44,400",,Large,SUV
+2497,Nissan,Pathfinder,2024,SL,"$42,500",,Large,SUV
+2498,Nissan,Pathfinder,2024,SV,"$38,900",,Large,SUV
+2499,Nissan,Pathfinder,2024,SV,"$40,800",,Large,SUV
+2500,Nissan,Rogue,2024,Platinum,"$38,700",,Midsize,SUV
+2501,Nissan,Rogue,2024,Platinum,"$40,200",,Midsize,SUV
+2502,Nissan,Rogue,2024,S,"$28,420",,Midsize,SUV
+2503,Nissan,Rogue,2024,S,"$29,920",,Midsize,SUV
+2504,Nissan,Rogue,2024,SL,"$35,270",,Midsize,SUV
+2505,Nissan,Rogue,2024,SL,"$36,770",,Midsize,SUV
+2506,Nissan,Rogue,2024,SV,"$31,610",,Midsize,SUV
+2507,Nissan,Rogue,2024,SV,"$30,110",,Midsize,SUV
+2508,Nissan,Sentra,2024,S,"$20,890",,Midsize,Sedan
+2509,Nissan,Sentra,2024,SR,"$23,980",,Midsize,Sedan
+2510,Nissan,Sentra,2024,SV,"$21,820",,Midsize,Sedan
+2511,Nissan,Titan,2024,PRO-4X,"$53,850",,Large,Pickup Truck
+2512,Nissan,Titan,2024,Platinum Reserve,"$63,020",,Large,Pickup Truck
+2513,Nissan,Titan,2024,Platinum Reserve,"$59,710",,Large,Pickup Truck
+2514,Nissan,Titan,2024,SV,"$49,410",,Large,Pickup Truck
+2515,Nissan,Titan,2024,SV,"$46,040",,Large,Pickup Truck
+2516,Nissan,Titan,2024,SV,"$49,230",,Large,Pickup Truck
+2517,Nissan,Titan XD,2024,PRO-4X,"$58,160",,Large,Pickup Truck
+2518,Nissan,Titan XD,2024,Platinum Reserve,"$66,110",,Large,Pickup Truck
+2519,Nissan,Titan XD,2024,SV,"$52,200",,Large,Pickup Truck
+2520,Nissan,Versa,2024,S,"$16,680",,Compact,Sedan
+2521,Nissan,Versa,2024,S,"$18,350",,Compact,Sedan
+2522,Nissan,Versa,2024,SR,"$20,690",,Compact,Sedan
+2523,Nissan,Versa,2024,SV,"$19,970",,Compact,Sedan
+2524,Nissan,Z,2024,NISMO,"$65,090",,Compact,Coupe
+2525,Nissan,Z,2024,Performance,"$52,310",,Compact,Coupe
+2526,Nissan,Z,2024,Performance,"$52,310",,Compact,Coupe
+2527,Nissan,Z,2024,Sport,"$42,310",,Compact,Coupe
+2528,Nissan,Z,2024,Sport,"$42,310",,Compact,Coupe
+2529,Aston Martin,DB11,2023,V8,"$217,000","$190,960",Midsize,Coupe
+2530,Aston Martin,DB11,2023,V8 Volante,"$233,200","$205,216",Midsize,Convertible
+2531,Aston Martin,DBX707,2023,Base,"$236,000",,Large,SUV
+2532,Aston Martin,Vantage,2023,Base,"$148,200",,Compact,Coupe
+2533,Aston Martin,Vantage,2023,F1 Edition Roadster,"$187,000",,Compact,Convertible
+2534,Aston Martin,Vantage,2023,Roadster,"$159,800",,Compact,Convertible
+2535,Aston Martin,Vantage,2023,V12,"$298,200",,Compact,Coupe
+2536,Aston Martin,Vantage,2023,V12 Roadster,"$348,700",,Compact,Convertible
+2537,Audi,A3,2023,Premium w/40 TFSI,"$35,400","$33,276",Compact,Sedan
+2538,Audi,A3,2023,Premium w/40 TFSI,"$37,400","$35,156",Compact,Sedan
+2539,Audi,A3,2023,Premium Plus w/40 TFSI,"$38,800","$36,472",Compact,Sedan
+2540,Audi,A3,2023,Premium Plus w/40 TFSI,"$40,800","$38,352",Compact,Sedan
+2541,Audi,A4,2023,Premium w/40 TFSI,"$40,300","$37,883",Midsize,Sedan
+2542,Audi,A4,2023,Premium Plus w/40 TFSI,"$45,400","$42,678",Midsize,Sedan
+2543,Audi,A4,2023,Premium Plus S line w/45 TFSI,"$47,000","$44,180",Midsize,Sedan
+2544,Audi,A4,2023,Premium S line w/45 TFSI,"$42,400","$39,856",Midsize,Sedan
+2545,Audi,A4,2023,Prestige w/40 TFSI,"$50,600","$47,566",Midsize,Sedan
+2546,Audi,A4,2023,Prestige S line w/45 TFSI,"$51,300","$48,223",Midsize,Sedan
+2547,Audi,A4 allroad,2023,Premium w/45 TFSI,"$45,900","$43,147",Midsize,Wagon
+2548,Audi,A4 allroad,2023,Premium Plus w/45 TFSI,"$50,500","$47,471",Midsize,Wagon
+2549,Audi,A4 allroad,2023,Prestige w/45 TFSI,"$55,800","$52,454",Midsize,Wagon
+2550,Audi,A5,2023,Premium w/40 TFSI,"$44,600","$41,924",Midsize,Hatchback
+2551,Audi,A5,2023,Premium Plus w/40 TFSI,"$49,700","$46,719",Midsize,Hatchback
+2552,Audi,A5,2023,Premium Plus S line w/45 TFSI,"$51,800","$48,694",Midsize,Coupe
+2553,Audi,A5,2023,Premium Plus S line w/45 TFSI,"$59,000","$55,462",Midsize,Convertible
+2554,Audi,A5,2023,Premium Plus S line w/45 TFSI,"$51,800","$48,694",Midsize,Hatchback
+2555,Audi,A5,2023,Premium S line w/45 TFSI,"$46,700","$43,899",Midsize,Coupe
+2556,Audi,A5,2023,Premium S line w/45 TFSI,"$53,900","$50,667",Midsize,Convertible
+2557,Audi,A5,2023,Premium S line w/45 TFSI,"$46,700","$43,899",Midsize,Hatchback
+2558,Audi,A5,2023,Prestige w/40 TFSI,"$55,000","$51,700",Midsize,Hatchback
+2559,Audi,A5,2023,Prestige S line w/45 TFSI,"$55,950","$52,595",Midsize,Coupe
+2560,Audi,A5,2023,Prestige S line w/45 TFSI,"$64,000","$60,162",Midsize,Convertible
+2561,Audi,A5,2023,Prestige S line w/45 TFSI,"$56,250","$52,876",Midsize,Hatchback
+2562,Audi,A6,2023,Premium w/45 TFSI,"$56,900","$53,487",Large,Sedan
+2563,Audi,A6,2023,Premium w/55 TFSI,"$60,800","$57,152",Large,Sedan
+2564,Audi,A6,2023,Premium Plus w/45 TFSI,"$60,800","$57,154",Large,Sedan
+2565,Audi,A6,2023,Premium Plus w/55 TFSI,"$64,700","$60,819",Large,Sedan
+2566,Audi,A6,2023,Prestige w/55 TFSI,"$70,500","$66,271",Large,Sedan
+2567,Audi,A6 allroad,2023,Premium Plus w/55 TFSI,"$67,900","$63,827",Midsize,Wagon
+2568,Audi,A6 allroad,2023,Prestige w/55 TFSI,"$73,400","$68,998",Midsize,Wagon
+2569,Audi,A7,2023,Premium w/55 TFSI,"$70,200","$65,988",Large,Sedan
+2570,Audi,A7,2023,Premium Plus w/55 TFSI,"$75,350","$70,829",Large,Sedan
+2571,Audi,A7,2023,Prestige w/55 TFSI,"$79,350","$74,589",Large,Sedan
+2572,Audi,A8,2023,L w/55 TFSI,"$87,800","$82,532",Large,Sedan
+2573,Audi,Q3,2023,Premium w/40 TFSI,"$36,800","$34,592",Compact,SUV
+2574,Audi,Q3,2023,Premium Plus w/40 TFSI,"$40,100","$37,695",Compact,SUV
+2575,Audi,Q3,2023,Premium Plus S line w/45 TFSI,"$42,500","$39,951",Compact,SUV
+2576,Audi,Q3,2023,Premium S line w/45 TFSI,"$39,200","$36,848",Compact,SUV
+2577,Audi,Q4 Sportback e-tron,2023,Premium w/50,"$58,200","$54,708",Midsize,SUV
+2578,Audi,Q4 Sportback e-tron,2023,Premium Plus w/50,"$64,400","$60,536",Midsize,SUV
+2579,Audi,Q4 Sportback e-tron,2023,Prestige w/50,"$65,900","$61,947",Midsize,SUV
+2580,Audi,Q4 e-tron,2023,Premium w/40,"$49,800","$46,812",Midsize,SUV
+2581,Audi,Q4 e-tron,2023,Premium w/50,"$55,200","$51,888",Midsize,SUV
+2582,Audi,Q4 e-tron,2023,Premium Plus w/40,"$56,000","$52,640",Midsize,SUV
+2583,Audi,Q4 e-tron,2023,Premium Plus w/50,"$61,400","$57,716",Midsize,SUV
+2584,Audi,Q4 e-tron,2023,Prestige w/50,"$62,900","$59,127",Midsize,SUV
+2585,Audi,Q5,2023,Premium w/40 TFSI,"$44,200","$41,548",Midsize,SUV
+2586,Audi,Q5,2023,Premium Plus w/40 TFSI,"$49,400","$46,436",Midsize,SUV
+2587,Audi,Q5,2023,Premium Plus S line w/45 TFSI,"$51,900","$48,787",Midsize,SUV
+2588,Audi,Q5,2023,Premium Plus S line w/55 TFSI e,"$61,700","$57,999",Midsize,SUV
+2589,Audi,Q5,2023,Premium S line w/45 TFSI,"$46,700","$43,899",Midsize,SUV
+2590,Audi,Q5,2023,Premium S line w/55 TFSI e,"$57,400","$53,956",Midsize,SUV
+2591,Audi,Q5,2023,Prestige w/40 TFSI,"$54,900","$51,607",Midsize,SUV
+2592,Audi,Q5,2023,Prestige S line w/45 TFSI,"$57,400","$53,958",Midsize,SUV
+2593,Audi,Q5,2023,Prestige S line w/55 TFSI e,"$67,000","$62,980",Midsize,SUV
+2594,Audi,Q5 Sportback,2023,Premium Plus S line w/45 TFSI,"$54,600","$51,324",Midsize,SUV
+2595,Audi,Q5 Sportback,2023,Premium S line w/45 TFSI,"$51,000","$47,940",Midsize,SUV
+2596,Audi,Q5 Sportback,2023,Prestige S line w/45 TFSI,"$59,700","$56,119",Midsize,SUV
+2597,Audi,Q7,2023,Premium w/45 TFSI,"$59,200","$55,648",Large,SUV
+2598,Audi,Q7,2023,Premium w/55 TFSI,"$64,800","$60,912",Large,SUV
+2599,Audi,Q7,2023,Premium Plus w/45 TFSI,"$63,300","$59,503",Large,SUV
+3200,Audi,Q7,2023,Premium Plus w/55 TFSI,"$68,400","$64,296",Large,SUV
+3201,Audi,Q7,2023,Prestige w/55 TFSI,"$74,400","$69,936",Large,SUV
+3202,Audi,Q8,2023,Premium w/55 TFSI,"$72,800","$68,432",Large,SUV
+3203,Audi,Q8,2023,Premium Plus w/55 TFSI,"$77,300","$72,663",Large,SUV
+3204,Audi,Q8,2023,Prestige w/55 TFSI,"$83,100","$78,115",Large,SUV
+3205,Audi,R8,2023,GT,"$249,900","$234,907",Compact,Coupe
+3206,Audi,R8,2023,performance,"$158,600","$149,084",Compact,Coupe
+3207,Audi,R8,2023,performance,"$209,700","$197,119",Compact,Coupe
+3208,Audi,R8,2023,performance Spyder,"$171,000","$160,740",Compact,Convertible
+3209,Audi,R8,2023,performance Spyder,"$222,100","$208,775",Compact,Convertible
+3210,Audi,RS 3,2023,Base,"$60,900","$57,247",Compact,Sedan
+3211,Audi,RS 5,2023,Base,"$77,900","$73,227",Midsize,Coupe
+3212,Audi,RS 5,2023,Base,"$78,200","$73,508",Midsize,Hatchback
+3213,Audi,RS 6,2023,Base,"$121,900","$114,587",Large,Wagon
+3214,Audi,RS 7,2023,Base,"$123,900","$116,467",Large,Sedan
+3215,Audi,RS Q8,2023,Base,"$125,800","$118,252",Large,SUV
+3216,Audi,RS e-tron GT,2023,Base,"$143,900","$135,267",Large,Sedan
+3217,Audi,S3,2023,Premium,"$46,800","$43,992",Compact,Sedan
+3218,Audi,S3,2023,Premium Plus,"$49,500","$46,531",Compact,Sedan
+3219,Audi,S3,2023,Prestige,"$53,500","$50,291",Compact,Sedan
+3220,Audi,S4,2023,Premium,"$52,800","$49,632",Midsize,Sedan
+3221,Audi,S4,2023,Premium Plus,"$56,800","$53,392",Midsize,Sedan
+3222,Audi,S4,2023,Prestige,"$61,100","$57,435",Midsize,Sedan
+3223,Audi,S5,2023,Premium,"$55,800","$52,452",Midsize,Hatchback
+3224,Audi,S5,2023,Premium,"$64,400","$60,536",Midsize,Convertible
+3225,Audi,S5,2023,Premium,"$55,800","$52,452",Midsize,Coupe
+3226,Audi,S5,2023,Premium Plus,"$68,400","$64,296",Midsize,Convertible
+3227,Audi,S5,2023,Premium Plus,"$59,800","$56,212",Midsize,Coupe
+3228,Audi,S5,2023,Premium Plus,"$59,800","$56,212",Midsize,Hatchback
+3229,Audi,S5,2023,Prestige,"$72,500","$68,151",Midsize,Convertible
+3230,Audi,S5,2023,Prestige,"$63,900","$60,067",Midsize,Coupe
+3231,Audi,S5,2023,Prestige,"$64,200","$60,348",Midsize,Hatchback
+3232,Audi,S6,2023,Premium,"$73,700","$69,279",Large,Sedan
+3233,Audi,S6,2023,Premium Plus,"$78,400","$73,698",Large,Sedan
+3234,Audi,S6,2023,Prestige,"$82,500","$77,551",Large,Sedan
+3235,Audi,S7,2023,Premium,"$83,500","$78,491",Large,Sedan
+3236,Audi,S7,2023,Premium Plus,"$87,700","$82,439",Large,Sedan
+3237,Audi,S7,2023,Prestige,"$91,500","$86,011",Large,Sedan
+3238,Audi,S8,2023,Base,"$120,500","$113,271",Large,Sedan
+3239,Audi,SQ5,2023,Premium,"$56,500","$53,111",Midsize,SUV
+3240,Audi,SQ5,2023,Premium Plus,"$60,900","$57,247",Midsize,SUV
+3241,Audi,SQ5,2023,Prestige,"$66,100","$62,135",Midsize,SUV
+3242,Audi,SQ5 Sportback,2023,Premium,"$59,900","$56,307",Midsize,SUV
+3243,Audi,SQ5 Sportback,2023,Premium Plus,"$63,300","$59,503",Midsize,SUV
+3244,Audi,SQ5 Sportback,2023,Prestige,"$68,500","$64,391",Midsize,SUV
+3245,Audi,SQ7,2023,Premium Plus,"$90,200","$84,788",Large,SUV
+3246,Audi,SQ7,2023,Prestige,"$94,900","$89,207",Large,SUV
+3247,Audi,SQ8,2023,Premium Plus,"$95,500","$89,771",Large,SUV
+3248,Audi,SQ8,2023,Prestige,"$101,500","$95,411",Large,SUV
+3249,Audi,TT,2023,Base w/45 TFSI,"$52,200","$49,068",Compact,Coupe
+3250,Audi,TT,2023,Base w/45 TFSI,"$56,300","$52,923",Compact,Convertible
+3251,Audi,TTS,2023,Base,"$61,900","$58,187",Compact,Coupe
+3252,Audi,e-tron,2023,Chronos Edition,"$86,400","$81,216",Midsize,SUV
+3253,Audi,e-tron,2023,Premium,"$70,800","$66,552",Midsize,SUV
+3254,Audi,e-tron,2023,Premium Plus,"$77,800","$73,132",Midsize,SUV
+3255,Audi,e-tron GT,2023,Premium Plus,"$104,900","$98,607",Large,Sedan
+3256,Audi,e-tron GT,2023,Prestige,"$111,300","$104,623",Large,Sedan
+3257,Audi,e-tron S,2023,Premium Plus,"$88,200","$82,908",Midsize,SUV
+3258,Audi,e-tron S,2023,Prestige,"$95,300","$89,583",Midsize,SUV
+3259,Audi,e-tron S Sportback,2023,Premium Plus,"$90,800","$85,352",Midsize,SUV
+3260,Audi,e-tron S Sportback,2023,Prestige,"$97,900","$92,027",Midsize,SUV
+3261,Audi,e-tron Sportback,2023,Premium Plus S line,"$81,000","$76,140",Midsize,SUV
+3262,Audi,e-tron Sportback,2023,Premium S line,"$74,000","$69,560",Midsize,SUV
+3263,Audi,e-tron Sportback,2023,Prestige S line,"$89,300","$83,943",Midsize,SUV
+3264,BMW,2 Series,2023,230i,"$38,200","$36,025",Compact,Coupe
+3265,BMW,2 Series,2023,230i xDrive,"$40,200","$37,885",Compact,Coupe
+3266,BMW,2 Series,2023,M240i,"$48,900","$45,975",Compact,Coupe
+3267,BMW,2 Series,2023,M240i xDrive,"$50,900","$47,835",Compact,Coupe
+3268,BMW,2 Series Gran Coupe,2023,228i,"$36,600","$34,540",Compact,Sedan
+3269,BMW,2 Series Gran Coupe,2023,228i xDrive,"$38,600","$36,400",Compact,Sedan
+3270,BMW,2 Series Gran Coupe,2023,M235i xDrive,"$46,400","$43,650",Compact,Sedan
+3271,BMW,3 Series,2023,330e,"$44,900","$42,255",Midsize,Sedan
+3272,BMW,3 Series,2023,330e xDrive,"$46,900","$44,115",Midsize,Sedan
+3273,BMW,3 Series,2023,330i,"$43,800","$41,235",Midsize,Sedan
+3274,BMW,3 Series,2023,330i xDrive,"$45,800","$43,095",Midsize,Sedan
+3275,BMW,3 Series,2023,M340i,"$56,400","$52,950",Midsize,Sedan
+3276,BMW,3 Series,2023,M340i xDrive,"$58,400","$54,810",Midsize,Sedan
+3277,BMW,4 Series,2023,430i,"$47,400","$44,580",Midsize,Coupe
+3278,BMW,4 Series,2023,430i,"$55,500","$52,115",Midsize,Convertible
+3279,BMW,4 Series,2023,430i xDrive,"$57,500","$53,975",Midsize,Convertible
+3280,BMW,4 Series,2023,430i xDrive,"$49,400","$46,440",Midsize,Coupe
+3281,BMW,4 Series,2023,M440i,"$66,250","$62,115",Midsize,Convertible
+3282,BMW,4 Series,2023,M440i,"$58,250","$54,675",Midsize,Coupe
+3283,BMW,4 Series,2023,M440i xDrive,"$68,250","$63,975",Midsize,Convertible
+3284,BMW,4 Series,2023,M440i xDrive,"$60,250","$56,535",Midsize,Coupe
+3285,BMW,4 Series Gran Coupe,2023,430i,"$45,900","$43,185",Midsize,Sedan
+3286,BMW,4 Series Gran Coupe,2023,430i xDrive,"$47,900","$45,045",Midsize,Sedan
+3287,BMW,4 Series Gran Coupe,2023,M440i,"$57,450","$53,930",Midsize,Sedan
+3288,BMW,4 Series Gran Coupe,2023,M440i xDrive,"$59,450","$55,790",Midsize,Sedan
+3289,BMW,5 Series,2023,530e,"$56,400","$52,950",Large,Sedan
+3290,BMW,5 Series,2023,530e xDrive,"$58,700","$55,090",Large,Sedan
+3291,BMW,5 Series,2023,530i,"$54,800","$51,465",Large,Sedan
+3292,BMW,5 Series,2023,530i xDrive,"$57,100","$53,605",Large,Sedan
+3293,BMW,5 Series,2023,540i,"$61,600","$57,790",Large,Sedan
+3294,BMW,5 Series,2023,540i xDrive,"$63,900","$59,925",Large,Sedan
+3295,BMW,5 Series,2023,M550i xDrive,"$79,900","$74,805",Large,Sedan
+3296,BMW,7 Series,2023,740i,"$93,300","$87,270",Large,Sedan
+3297,BMW,7 Series,2023,760i xDrive,"$113,600","$106,150",Large,Sedan
+3298,BMW,8 Series,2023,840i,"$97,100","$90,805",Midsize,Convertible
+3299,BMW,8 Series,2023,840i,"$87,500","$81,875",Midsize,Coupe
+3300,BMW,8 Series,2023,840i xDrive,"$90,400","$84,570",Midsize,Coupe
+3301,BMW,8 Series,2023,840i xDrive,"$100,000","$93,500",Midsize,Convertible
+3302,BMW,8 Series,2023,M850i xDrive,"$102,500","$95,825",Midsize,Coupe
+3303,BMW,8 Series,2023,M850i xDrive,"$112,100","$104,755",Midsize,Convertible
+3304,BMW,8 Series Gran Coupe,2023,840i,"$87,500","$81,875",Large,Sedan
+3305,BMW,8 Series Gran Coupe,2023,840i xDrive,"$90,400","$84,570",Large,Sedan
+3306,BMW,8 Series Gran Coupe,2023,M850i xDrive,"$102,500","$95,825",Large,Sedan
+3307,BMW,ALPINA B8 Gran Coupe,2023,Base,"$144,900","$135,255",Large,Sedan
+3308,BMW,ALPINA XB7,2023,Base,"$145,000","$135,350",Large,SUV
+3309,BMW,M2,2023,Base,"$62,200","$58,345",Compact,Coupe
+3310,BMW,M3,2023,Base,"$72,800","$68,205",Midsize,Sedan
+3311,BMW,M3,2023,Competition,"$76,700","$71,830",Midsize,Sedan
+3312,BMW,M3,2023,Competition xDrive,"$80,800","$75,645",Midsize,Sedan
+3313,BMW,M4,2023,Base,"$74,700","$69,970",Midsize,Coupe
+3314,BMW,M4,2023,Competition,"$78,600","$73,600",Midsize,Coupe
+3315,BMW,M4,2023,Competition xDrive,"$82,700","$77,410",Midsize,Coupe
+3316,BMW,M4,2023,Competition xDrive,"$89,700","$83,920",Midsize,Convertible
+3317,BMW,M4 CSL,2023,Base,"$139,900","$130,605",Midsize,Coupe
+3318,BMW,M5,2023,Base,"$107,900","$100,845",Large,Sedan
+3319,BMW,M8,2023,Competition,"$134,100","$125,215",Midsize,Coupe
+3320,BMW,M8,2023,Competition,"$143,700","$134,140",Midsize,Convertible
+3321,BMW,M8 Gran Coupe,2023,Competition,"$134,100","$125,215",Large,Sedan
+3322,BMW,X1,2023,xDrive28i,"$38,600","$36,400",Compact,SUV
+3323,BMW,X2,2023,sDrive28i,"$36,600","$34,540",Compact,SUV
+3324,BMW,X2,2023,xDrive28i,"$38,600","$36,400",Compact,SUV
+3325,BMW,X3,2023,M40i,"$59,950","$56,255",Midsize,SUV
+3326,BMW,X3,2023,sDrive30i,"$45,400","$42,720",Midsize,SUV
+3327,BMW,X3,2023,xDrive30i,"$47,400","$44,580",Midsize,SUV
+3328,BMW,X3 M,2023,Base,"$72,900","$68,295",Midsize,SUV
+3329,BMW,X4,2023,M40i,"$64,650","$60,625",Midsize,SUV
+3330,BMW,X4,2023,xDrive30i,"$53,400","$50,160",Midsize,SUV
+3331,BMW,X4 M,2023,Base,"$76,400","$71,550",Midsize,SUV
+3332,BMW,X5,2023,M50i,"$85,400","$79,920",Large,SUV
+3333,BMW,X5,2023,sDrive40i,"$61,600","$57,790",Large,SUV
+3334,BMW,X5,2023,xDrive40i,"$63,900","$59,925",Large,SUV
+3335,BMW,X5,2023,xDrive45e,"$65,700","$61,600",Large,SUV
+3336,BMW,X5 M,2023,Base,"$108,900","$101,775",Large,SUV
+3337,BMW,X6,2023,M50i,"$89,100","$83,365",Large,SUV
+3338,BMW,X6,2023,xDrive40i,"$70,100","$65,695",Large,SUV
+3339,BMW,X6 M,2023,Base,"$113,700","$106,240",Large,SUV
+3340,BMW,X7,2023,M60i,"$103,100","$96,385",Large,SUV
+3341,BMW,X7,2023,xDrive40i,"$77,850","$72,900",Large,SUV
+3342,BMW,XM,2023,Base,"$159,000","$148,370",Large,SUV
+3343,BMW,Z4,2023,M40i,"$65,300","$61,230",Compact,Convertible
+3344,BMW,Z4,2023,sDrive30i,"$52,800","$49,605",Compact,Convertible
+3345,BMW,i4,2023,M50,"$67,300","$63,090",Midsize,Sedan
+3346,BMW,i4,2023,eDrive35,"$51,400","$48,300",Midsize,Sedan
+3347,BMW,i4,2023,eDrive40,"$55,900","$52,485",Midsize,Sedan
+3348,BMW,i7,2023,xDrive60,"$119,300","$111,450",Large,Sedan
+3349,BMW,iX,2023,M60,"$108,900","$101,775",Large,SUV
+3350,BMW,iX,2023,xDrive50,"$84,100","$78,715",Large,SUV
+3351,Bentley,Bentayga,2023,Azure Hybrid,"$231,300",,Large,SUV
+3352,Bentley,Bentayga,2023,Azure V8,"$236,900",,Large,SUV
+3353,Bentley,Bentayga,2023,Hybrid,"$197,300",,Large,SUV
+3354,Bentley,Bentayga,2023,Odyssean Edition,"$239,300",,Large,SUV
+3355,Bentley,Bentayga,2023,S Hybrid,"$225,500",,Large,SUV
+3356,Bentley,Bentayga,2023,S V8,"$231,100",,Large,SUV
+3357,Bentley,Bentayga,2023,Speed,"$264,600",,Large,SUV
+3358,Bentley,Bentayga,2023,V8,"$197,300",,Large,SUV
+3359,Bentley,Bentayga EWB,2023,Azure V8,"$263,500",,Large,SUV
+3360,Bentley,Bentayga EWB,2023,V8,"$226,900",,Large,SUV
+3361,Bentley,Continental,2023,GT Azure V8,"$282,800",,Midsize,Coupe
+3362,Bentley,Continental,2023,GT Mulliner V8,"$306,600",,Midsize,Coupe
+3363,Bentley,Continental,2023,GT Mulliner W12,"$341,900",,Midsize,Coupe
+3364,Bentley,Continental,2023,GT S V8,"$266,000",,Midsize,Coupe
+3365,Bentley,Continental,2023,GT Speed,"$288,500",,Midsize,Coupe
+3366,Bentley,Continental,2023,GT V8,"$235,600",,Midsize,Coupe
+3367,Bentley,Continental,2023,GTC Azure V8,"$311,000",,Midsize,Convertible
+3368,Bentley,Continental,2023,GTC Mulliner V8,"$326,200",,Midsize,Convertible
+3369,Bentley,Continental,2023,GTC Mulliner W12,"$376,100",,Midsize,Convertible
+3370,Bentley,Continental,2023,GTC S V8,"$292,500",,Midsize,Convertible
+3371,Bentley,Continental,2023,GTC Speed,"$317,300",,Midsize,Convertible
+3372,Bentley,Continental,2023,GTC V8,"$259,200",,Midsize,Convertible
+3373,Bentley,Flying Spur,2023,Azure Hybrid,"$249,100",,Large,Sedan
+3374,Bentley,Flying Spur,2023,Azure V8,"$250,300",,Large,Sedan
+3375,Bentley,Flying Spur,2023,Hybrid,"$214,800",,Large,Sedan
+3376,Bentley,Flying Spur,2023,Mulliner Hybrid,"$297,400",,Large,Sedan
+3377,Bentley,Flying Spur,2023,Mulliner V8,"$299,200",,Large,Sedan
+3378,Bentley,Flying Spur,2023,Mulliner W12,"$315,200",,Large,Sedan
+3387,Ford,Bronco,2023,Base,"$37,745","$37,179",Midsize,Convertible SUV
+3388,Ford,Bronco,2023,Base w/Advanced 4x4,"$38,540","$37,962",Midsize,Convertible SUV
+3389,Ford,Bronco,2023,Big Bend,"$38,085","$37,133",Compact,Convertible SUV
+3390,Ford,Bronco,2023,Big Bend w/Advanced 4x4,"$38,880","$37,908",Compact,Convertible SUV
+3391,Ford,Bronco,2023,Big Bend w/Advanced 4x4,"$40,370","$39,360",Midsize,Convertible SUV
+3392,Ford,Bronco,2023,Big Bend,"$39,575","$38,586",Midsize,Convertible SUV
+3393,Ford,Bronco,2023,Black Diamond w/Advanced 4x4,"$43,035","$41,529",Midsize,Convertible SUV
+3394,Ford,Bronco,2023,Black Diamond w/Advanced 4x4,"$41,545","$40,091",Compact,Convertible SUV
+3395,Ford,Bronco,2023,Black Diamond,"$40,750","$39,324",Compact,Convertible SUV
+3396,Ford,Bronco,2023,Black Diamond,"$42,240","$40,762",Midsize,Convertible SUV
+3397,Ford,Bronco,2023,Everglades,"$53,895","$52,009",Midsize,Convertible SUV
+3398,Ford,Bronco,2023,Heritage Edition,"$46,295","$45,138",Midsize,Convertible SUV
+3399,Ford,Bronco,2023,Heritage Edition,"$44,305","$43,197",Compact,Convertible SUV
+4000,Ford,Bronco,2023,Heritage Limited Edition,"$69,185","$66,764",Midsize,Convertible SUV
+4001,Ford,Bronco,2023,Heritage Limited Edition,"$66,895","$64,554",Compact,Convertible SUV
+4002,Ford,Bronco,2023,Outer Banks,"$45,745","$44,144",Midsize,Convertible SUV
+4003,Ford,Bronco,2023,Outer Banks,"$43,655","$42,127",Compact,Convertible SUV
+4004,Ford,Bronco,2023,Outer Banks w/Advanced 4x4,"$47,335","$45,679",Midsize,Convertible SUV
+4005,Ford,Bronco,2023,Outer Banks w/Advanced 4x4,"$45,245","$43,662",Compact,Convertible SUV
+4006,Ford,Bronco,2023,Raptor,"$76,580","$73,900",Midsize,Convertible SUV
+4007,Ford,Bronco,2023,Wildtrak,"$55,620","$53,673",Midsize,Convertible SUV
+4008,Ford,Bronco,2023,Wildtrak,"$54,580","$52,670",Compact,Convertible SUV
+4009,Ford,Bronco Sport,2023,Badlands,"$37,340","$36,033",Compact,SUV
+4010,Ford,Bronco Sport,2023,Base,"$29,215","$28,776",Compact,SUV
+4011,Ford,Bronco Sport,2023,Big Bend,"$31,230","$30,450",Compact,SUV
+4012,Ford,Bronco Sport,2023,Heritage,"$32,650","$31,834",Compact,SUV
+4013,Ford,Bronco Sport,2023,Heritage Limited,"$44,655","$43,092",Compact,SUV
+4014,Ford,Bronco Sport,2023,Outer Banks,"$35,615","$34,368",Compact,SUV
+4015,Ford,E-Transit Cargo Van,2023,"350 High Roof w/148"" WB","$57,810","$57,810",Large,Cargo Van
+4016,Ford,E-Transit Cargo Van,2023,"350 High Roof w/148"" WB","$58,970","$58,970",Large,Cargo Van
+4017,Ford,E-Transit Cargo Van,2023,"350 Low Roof w/148"" WB","$55,000","$55,000",Midsize,Cargo Van
+4018,Ford,E-Transit Cargo Van,2023,"350 Low Roof w/130"" WB","$53,790","$53,790",Midsize,Cargo Van
+4019,Ford,E-Transit Cargo Van,2023,"350 Medium Roof w/130"" WB","$54,555","$54,555",Large,Cargo Van
+4020,Ford,E-Transit Cargo Van,2023,"350 Medium Roof w/148"" WB","$55,770","$55,770",Large,Cargo Van
+4021,Ford,Edge,2023,SE,"$37,945","$36,807",Midsize,SUV
+4022,Ford,Edge,2023,SEL,"$39,345","$37,771",Midsize,SUV
+4023,Ford,Edge,2023,ST,"$46,485","$44,626",Midsize,SUV
+4024,Ford,Edge,2023,ST-Line,"$43,100","$41,376",Midsize,SUV
+4025,Ford,Edge,2023,Titanium,"$43,100","$41,376",Midsize,SUV
+4026,Ford,Escape,2023,Active,"$31,515","$30,254",Midsize,SUV
+4027,Ford,Escape,2023,Active,"$29,345","$28,171",Midsize,SUV
+4028,Ford,Escape,2023,Active Fleet,"$33,215","$31,836",Midsize,SUV
+4029,Ford,Escape,2023,Active Fleet,"$31,345","$30,041",Midsize,SUV
+4030,Ford,Escape,2023,Base,"$28,000","$27,160",Midsize,SUV
+4031,Ford,Escape,2023,Base,"$29,500","$28,615",Midsize,SUV
+4032,Ford,Escape,2023,Platinum,"$36,965","$35,486",Midsize,SUV
+4033,Ford,Escape,2023,Platinum,"$38,465","$36,926",Midsize,SUV
+4034,Ford,Escape,2023,Platinum,"$37,465","$35,966",Midsize,SUV
+4035,Ford,Escape,2023,Plug-In Hybrid,"$40,500","$38,880",Midsize,SUV
+4036,Ford,Escape,2023,ST-Line,"$33,340","$32,007",Midsize,SUV
+4037,Ford,Escape,2023,ST-Line,"$30,340","$29,127",Midsize,SUV
+4038,Ford,Escape,2023,ST-Line,"$32,510","$31,209",Midsize,SUV
+4039,Ford,Escape,2023,ST-Line Elite,"$39,460","$37,881",Midsize,SUV
+4040,Ford,Escape,2023,ST-Line Elite,"$38,460","$36,921",Midsize,SUV
+4041,Ford,Escape,2023,ST-Line Select,"$34,040","$32,679",Midsize,SUV
+4042,Ford,Escape,2023,ST-Line Select,"$35,040","$33,639",Midsize,SUV
+4043,Ford,Expedition,2023,King Ranch,"$78,115","$74,990",Large,SUV
+4044,Ford,Expedition,2023,King Ranch,"$81,165","$77,918",Large,SUV
+4045,Ford,Expedition,2023,Limited,"$68,060","$65,337",Large,SUV
+4046,Ford,Expedition,2023,Limited,"$71,110","$68,265",Large,SUV
+4047,Ford,Expedition,2023,MAX King Ranch,"$81,115","$77,870",Large,SUV
+4048,Ford,Expedition,2023,MAX King Ranch,"$84,165","$80,798",Large,SUV
+4049,Ford,Expedition,2023,MAX Limited,"$74,110","$71,145",Large,SUV
+4050,Ford,Expedition,2023,MAX Limited,"$71,060","$68,217",Large,SUV
+4051,Ford,Expedition,2023,MAX Platinum,"$83,565","$80,222",Large,SUV
+4052,Ford,Expedition,2023,MAX Platinum,"$86,615","$83,150",Large,SUV
+4053,Ford,Expedition,2023,MAX XL Fleet,"$58,155","$55,829",Large,SUV
+4054,Ford,Expedition,2023,MAX XL Fleet,"$61,205","$58,757",Large,SUV
+4055,Ford,Expedition,2023,MAX XLT,"$62,190","$59,703",Large,SUV
+4056,Ford,Expedition,2023,MAX XLT,"$65,240","$62,631",Large,SUV
+4057,Ford,Expedition,2023,Platinum,"$80,565","$77,342",Large,SUV
+4058,Ford,Expedition,2023,Platinum,"$83,615","$80,270",Large,SUV
+4059,Ford,Expedition,2023,Timberline,"$71,400","$68,544",Large,SUV
+4060,Ford,Expedition,2023,XL Fleet,"$54,155","$51,989",Large,SUV
+4061,Ford,Expedition,2023,XL Fleet,"$57,205","$54,917",Large,SUV
+4062,Ford,Expedition,2023,XL STX,"$55,125","$52,900",Large,SUV
+4063,Ford,Expedition,2023,XL STX,"$58,175","$55,828",Large,SUV
+4064,Ford,Expedition,2023,XLT,"$59,190","$56,823",Large,SUV
+4065,Ford,Expedition,2023,XLT,"$62,240","$59,751",Large,SUV
+4066,Ford,Explorer,2023,Base,"$36,760","$35,657",Large,SUV
+4067,Ford,Explorer,2023,Base,"$38,760","$37,597",Large,SUV
+4068,Ford,Explorer,2023,King Ranch,"$56,075","$53,833",Large,SUV
+4069,Ford,Explorer,2023,King Ranch,"$54,075","$51,913",Large,SUV
+4070,Ford,Explorer,2023,Limited,"$49,070","$47,107",Large,SUV
+4071,Ford,Explorer,2023,Limited,"$47,070","$45,187",Large,SUV
+4072,Ford,Explorer,2023,Limited Hybrid,"$53,005","$50,885",Large,SUV
+4073,Ford,Explorer,2023,Limited Hybrid,"$55,005","$52,805",Large,SUV
+4074,Ford,Explorer,2023,Platinum,"$56,220","$53,971",Large,SUV
+4075,Ford,Explorer,2023,Platinum,"$54,220","$52,051",Large,SUV
+4076,Ford,Explorer,2023,Platinum Hybrid,"$53,820","$51,667",Large,SUV
+4077,Ford,Explorer,2023,Platinum Hybrid,"$55,820","$53,587",Large,SUV
+4078,Ford,Explorer,2023,ST,"$52,005","$49,925",Large,SUV
+4079,Ford,Explorer,2023,ST,"$50,005","$48,005",Large,SUV
+4080,Ford,Explorer,2023,ST-Line,"$46,005","$44,165",Large,SUV
+4081,Ford,Explorer,2023,ST-Line,"$48,005","$46,085",Large,SUV
+4082,Ford,Explorer,2023,Timberline,"$48,980","$47,021",Large,SUV
+4083,Ford,Explorer,2023,XLT,"$38,570","$37,027",Large,SUV
+4084,Ford,Explorer,2023,XLT,"$40,570","$38,947",Large,SUV
+4085,Ford,F-150,2023,King Ranch,"$67,100","$62,739",Large,Pickup Truck
+4086,Ford,F-150,2023,King Ranch,"$63,310","$59,195",Large,Pickup Truck
+4087,Ford,F-150,2023,King Ranch,"$66,805","$62,463",Large,Pickup Truck
+4088,Ford,F-150,2023,King Ranch,"$63,005","$58,910",Large,Pickup Truck
+4089,Ford,F-150,2023,Lariat,"$61,270","$57,287",Large,Pickup Truck
+4090,Ford,F-150,2023,Lariat,"$57,730","$53,978",Large,Pickup Truck
+4091,Ford,F-150,2023,Lariat,"$62,995","$58,900",Large,Pickup Truck
+4092,Ford,F-150,2023,Lariat,"$57,480","$53,744",Large,Pickup Truck
+4093,Ford,F-150,2023,Limited,"$84,910","$79,391",Large,Pickup Truck
+4094,Ford,F-150,2023,Platinum,"$68,490","$64,038",Large,Pickup Truck
+4095,Ford,F-150,2023,Platinum,"$64,695","$60,490",Large,Pickup Truck
+4096,Ford,F-150,2023,Platinum,"$65,000","$60,775",Large,Pickup Truck
+4097,Ford,F-150,2023,Platinum,"$68,795","$64,323",Large,Pickup Truck
+4098,Ford,F-150,2023,Raptor,"$76,775","$71,785",Large,Pickup Truck
+4099,Ford,F-150,2023,Raptor R,"$107,350","$99,609",Large,Pickup Truck
+4100,Ford,F-150,2023,Tremor,"$61,110","$57,138",Large,Pickup Truck
+4101,Ford,F-150,2023,XL,"$39,600","$37,818",Large,Pickup Truck
+4102,Ford,F-150,2023,XL,"$45,410","$43,366",Large,Pickup Truck
+4103,Ford,F-150,2023,XL,"$41,530","$39,662",Large,Pickup Truck
+4104,Ford,F-150,2023,XL,"$48,225","$46,055",Large,Pickup Truck
+4105,Ford,F-150,2023,XL,"$42,930","$40,999",Large,Pickup Truck
+4106,Ford,F-150,2023,XL,"$42,995","$41,060",Large,Pickup Truck
+4107,Ford,F-150,2023,XL,"$34,885","$33,315",Large,Pickup Truck
+4108,Ford,F-150,2023,XL,"$39,195","$37,431",Large,Pickup Truck
+4109,Ford,F-150,2023,XL,"$40,590","$38,764",Large,Pickup Truck
+4110,Ford,F-150,2023,XL,"$45,810","$43,748",Large,Pickup Truck
+4111,Ford,F-150,2023,XL,"$39,900","$38,105",Large,Pickup Truck
+4112,Ford,F-150,2023,XL,"$34,585","$33,029",Large,Pickup Truck
+4113,Ford,F-150,2023,XLT,"$53,045","$49,597",Large,Pickup Truck
+4114,Ford,F-150,2023,XLT,"$47,800","$44,693",Large,Pickup Truck
+4115,Ford,F-150,2023,XLT,"$50,220","$46,955",Large,Pickup Truck
+4116,Ford,F-150,2023,XLT,"$46,360","$43,346",Large,Pickup Truck
+4117,Ford,F-150,2023,XLT,"$47,750","$44,646",Large,Pickup Truck
+4118,Ford,F-150,2023,XLT,"$44,550","$41,654",Large,Pickup Truck
+4119,Ford,F-150,2023,XLT,"$50,620","$47,329",Large,Pickup Truck
+4120,Ford,F-150,2023,XLT,"$44,855","$41,939",Large,Pickup Truck
+4121,Ford,F-150,2023,XLT,"$41,055","$38,386",Large,Pickup Truck
+4122,Ford,F-150,2023,XLT,"$44,000","$41,140",Large,Pickup Truck
+4123,Ford,F-150,2023,XLT,"$45,400","$42,449",Large,Pickup Truck
+4124,Ford,F-150,2023,XLT,"$40,760","$38,110",Large,Pickup Truck
+4125,Ford,F-150 Lightning,2023,Lariat,"$69,995","$69,995",Large,Pickup Truck
+4126,Ford,F-150 Lightning,2023,Platinum,"$91,995","$91,995",Large,Pickup Truck
+4127,Ford,F-150 Lightning,2023,Pro,"$49,995","$49,995",Large,Pickup Truck
+4128,Ford,F-150 Lightning,2023,XLT,"$54,995","$54,995",Large,Pickup Truck
+4129,Ford,F-250 Super Duty,2023,King Ranch,"$76,175","$72,367",Large,Pickup Truck
+4130,Ford,F-250 Super Duty,2023,King Ranch,"$75,975","$72,177",Large,Pickup Truck
+4131,Ford,F-250 Super Duty,2023,Lariat,"$63,740","$60,553",Large,Pickup Truck
+4132,Ford,F-250 Super Duty,2023,Lariat,"$61,410","$58,339",Large,Pickup Truck
+4133,Ford,F-250 Super Duty,2023,Lariat,"$63,940","$60,743",Large,Pickup Truck
+4134,Ford,F-250 Super Duty,2023,Lariat,"$61,610","$58,529",Large,Pickup Truck
+4135,Ford,F-250 Super Duty,2023,Limited,"$96,095","$91,290",Large,Pickup Truck
+4136,Ford,F-250 Super Duty,2023,Limited,"$96,295","$91,480",Large,Pickup Truck
+4137,Ford,F-250 Super Duty,2023,Platinum,"$76,865","$73,021",Large,Pickup Truck
+4138,Ford,F-250 Super Duty,2023,Platinum,"$77,065","$73,211",Large,Pickup Truck
+4139,Ford,F-250 Super Duty,2023,XL,"$50,560","$48,032",Large,Pickup Truck
+4140,Ford,F-250 Super Duty,2023,XL,"$47,960","$45,562",Large,Pickup Truck
+4141,Ford,F-250 Super Duty,2023,XL,"$50,770","$48,231",Large,Pickup Truck
+4142,Ford,F-250 Super Duty,2023,XL,"$47,760","$45,372",Large,Pickup Truck
+4143,Ford,F-250 Super Duty,2023,XL,"$46,505","$44,180",Large,Pickup Truck
+4144,Ford,F-250 Super Duty,2023,XL,"$46,305","$43,990",Large,Pickup Truck
+4145,Ford,F-250 Super Duty,2023,XL,"$49,095","$46,640",Large,Pickup Truck
+4146,Ford,F-250 Super Duty,2023,XL,"$43,970","$41,771",Large,Pickup Truck
+4147,Ford,F-250 Super Duty,2023,XL,"$46,760","$44,422",Large,Pickup Truck
+4148,Ford,F-250 Super Duty,2023,XL,"$49,305","$46,840",Large,Pickup Truck
+4149,Ford,F-250 Super Duty,2023,XLT,"$54,715","$51,979",Large,Pickup Truck
+4150,Ford,F-250 Super Duty,2023,XLT,"$54,510","$51,784",Large,Pickup Truck
+4151,Ford,F-250 Super Duty,2023,XLT,"$50,105","$47,600",Large,Pickup Truck
+4152,Ford,F-250 Super Duty,2023,XLT,"$52,755","$50,117",Large,Pickup Truck
+4153,Ford,F-250 Super Duty,2023,XLT,"$52,955","$50,307",Large,Pickup Truck
+4154,Ford,F-350 Super Duty,2023,King Ranch,"$77,025","$73,174",Large,Pickup Truck
+4155,Ford,F-350 Super Duty,2023,King Ranch,"$77,220","$73,359",Large,Pickup Truck
+4156,Ford,F-350 Super Duty,2023,King Ranch,"$78,160","$74,252",Large,Pickup Truck
+4157,Ford,F-350 Super Duty,2023,Lariat,"$64,790","$61,551",Large,Pickup Truck
+4158,Ford,F-350 Super Duty,2023,Lariat,"$64,990","$61,741",Large,Pickup Truck
+4159,Ford,F-350 Super Duty,2023,Lariat,"$62,460","$59,337",Large,Pickup Truck
+4160,Ford,F-350 Super Duty,2023,Lariat,"$62,660","$59,527",Large,Pickup Truck
+4161,Ford,F-350 Super Duty,2023,Lariat,"$66,480","$63,156",Large,Pickup Truck
+4162,Ford,F-350 Super Duty,2023,Lariat,"$64,145","$60,938",Large,Pickup Truck
+4163,Ford,F-350 Super Duty,2023,Limited,"$97,470","$92,596",Large,Pickup Truck
+4164,Ford,F-350 Super Duty,2023,Limited,"$97,270","$92,406",Large,Pickup Truck
+4165,Ford,F-350 Super Duty,2023,Limited,"$99,280","$94,316",Large,Pickup Truck
+4166,Ford,F-350 Super Duty,2023,Platinum,"$78,115","$74,209",Large,Pickup Truck
+4167,Ford,F-350 Super Duty,2023,Platinum,"$77,915","$74,019",Large,Pickup Truck
+4168,Ford,F-350 Super Duty,2023,Platinum,"$80,145","$76,138",Large,Pickup Truck
+4169,Ford,F-350 Super Duty,2023,XL,"$51,620","$49,039",Large,Pickup Truck
+4170,Ford,F-350 Super Duty,2023,XL,"$48,815","$46,374",Large,Pickup Truck
+4171,Ford,F-350 Super Duty,2023,XL,"$51,815","$49,224",Large,Pickup Truck
+4177,Ford,F-350 Super Duty,2023,XL,"$49,015","$46,564",Large,Pickup Truck
+4178,Ford,F-350 Super Duty,2023,XL,"$49,045","$46,593",Large,Pickup Truck
+4179,Ford,F-350 Super Duty,2023,XL,"$49,305","$46,840",Large,Pickup Truck
+4180,Ford,F-350 Super Duty,2023,XL,"$45,015","$42,764",Large,Pickup Truck
+4181,Ford,F-350 Super Duty,2023,XL,"$51,830","$49,239",Large,Pickup Truck
+4182,Ford,F-350 Super Duty,2023,XL,"$50,500","$47,975",Large,Pickup Truck
+4183,Ford,F-350 Super Duty,2023,XL,"$53,300","$50,635",Large,Pickup Truck
+4184,Ford,F-350 Super Duty,2023,XL,"$46,505","$44,180",Large,Pickup Truck
+4185,Ford,F-350 Super Duty,2023,XLT,"$55,560","$52,782",Large,Pickup Truck
+4186,Ford,F-350 Super Duty,2023,XLT,"$55,760","$52,972",Large,Pickup Truck
+4187,Ford,F-350 Super Duty,2023,XLT,"$54,010","$51,309",Large,Pickup Truck
+4188,Ford,F-350 Super Duty,2023,XLT,"$53,800","$51,110",Large,Pickup Truck
+4189,Ford,F-350 Super Duty,2023,XLT,"$56,610","$53,779",Large,Pickup Truck
+4190,Ford,F-350 Super Duty,2023,XLT,"$54,840","$52,098",Large,Pickup Truck
+4191,Ford,F-350 Super Duty,2023,XLT,"$51,160","$48,602",Large,Pickup Truck
+4192,Ford,F-350 Super Duty,2023,XLT,"$52,115","$49,509",Large,Pickup Truck
+4193,Ford,F-450 Super Duty,2023,King Ranch,"$91,090","$86,536",Large,Pickup Truck
+4194,Ford,F-450 Super Duty,2023,Lariat,"$78,665","$74,731",Large,Pickup Truck
+4195,Ford,F-450 Super Duty,2023,Limited,"$103,030","$97,879",Large,Pickup Truck
+4196,Ford,F-450 Super Duty,2023,Platinum,"$92,535","$87,909",Large,Pickup Truck
+4197,Ford,F-450 Super Duty,2023,XL,"$66,925","$63,579",Large,Pickup Truck
+4198,Ford,F-450 Super Duty,2023,XL,"$58,455","$55,532",Large,Pickup Truck
+4199,Ford,F-450 Super Duty,2023,XL,"$63,455","$60,282",Large,Pickup Truck
+4800,Ford,F-450 Super Duty,2023,XL,"$61,765","$58,676",Large,Pickup Truck
+4801,Ford,F-450 Super Duty,2023,XLT,"$69,035","$65,584",Large,Pickup Truck
+4802,Ford,F-450 Super Duty,2023,XLT,"$65,695","$62,410",Large,Pickup Truck
+4803,Ford,Maverick,2023,Lariat,"$28,355","$27,788",Compact,Pickup Truck
+4804,Ford,Maverick,2023,XL,"$22,595","$22,143",Compact,Pickup Truck
+4805,Ford,Maverick,2023,XLT,"$24,855","$24,358",Compact,Pickup Truck
+4806,Ford,Mustang,2023,EcoBoost,"$27,770","$26,659",Midsize,Coupe
+4807,Ford,Mustang,2023,EcoBoost,"$33,270","$31,939",Midsize,Convertible
+4808,Ford,Mustang,2023,EcoBoost Premium,"$38,295","$36,380",Midsize,Convertible
+4809,Ford,Mustang,2023,EcoBoost Premium,"$32,795","$31,115",Midsize,Coupe
+4810,Ford,Mustang,2023,GT,"$38,345","$36,428",Midsize,Coupe
+4811,Ford,Mustang,2023,GT Premium,"$48,865","$46,421",Midsize,Convertible
+4812,Ford,Mustang,2023,GT Premium,"$43,365","$41,196",Midsize,Coupe
+4813,Ford,Mustang,2023,Mach 1,"$55,570","$52,791",Midsize,Coupe
+4814,Ford,Mustang Mach-E,2023,California Route 1,"$56,995","$56,995",Midsize,Hatchback
+4816,Ford,Mustang Mach-E,2023,GT,"$59,995","$59,995",Midsize,Hatchback
+4818,Ford,Mustang Mach-E,2023,Premium,"$46,995","$46,995",Midsize,Hatchback
+4819,Ford,Mustang Mach-E,2023,Premium,"$49,995","$49,995",Midsize,Hatchback
+4820,Ford,Mustang Mach-E,2023,Premium,"$46,995","$46,995",Midsize,Hatchback
+4821,Ford,Mustang Mach-E,2023,Premium,"$49,995","$49,995",Midsize,Hatchback
+4822,Ford,Mustang Mach-E,2023,Select,"$42,995","$42,995",Midsize,Hatchback
+4823,Ford,Mustang Mach-E,2023,Select,"$45,995","$45,995",Midsize,Hatchback
+4824,Ford,Mustang Mach-E,2023,Select,"$42,995","$42,995",Midsize,Hatchback
+4825,Ford,Mustang Mach-E,2023,Select,"$45,995","$45,995",Midsize,Hatchback
+4826,Ford,Ranger,2023,Lariat,"$37,460","$35,961",Compact,Pickup Truck
+4827,Ford,Ranger,2023,Lariat,"$40,945","$39,307",Compact,Pickup Truck
+4828,Ford,Ranger,2023,Lariat,"$35,500","$34,080",Compact,Pickup Truck
+4829,Ford,Ranger,2023,Lariat,"$38,985","$37,426",Compact,Pickup Truck
+4830,Ford,Ranger,2023,XL,"$27,400","$26,578",Compact,Pickup Truck
+4831,Ford,Ranger,2023,XL,"$31,045","$30,114",Compact,Pickup Truck
+4832,Ford,Ranger,2023,XL,"$29,585","$28,698",Compact,Pickup Truck
+4833,Ford,Ranger,2023,XL,"$33,230","$32,234",Compact,Pickup Truck
+4834,Ford,Ranger,2023,XLT,"$33,420","$32,083",Compact,Pickup Truck
+4835,Ford,Ranger,2023,XLT,"$36,905","$35,429",Compact,Pickup Truck
+4836,Ford,Ranger,2023,XLT,"$31,460","$30,201",Compact,Pickup Truck
+4837,Ford,Ranger,2023,XLT,"$34,945","$33,547",Compact,Pickup Truck
+4838,Ford,Transit Cargo Van,2023,"150 Low Roof w/148"" WB","$43,230","$41,069",Large,Cargo Van
+4839,Ford,Transit Cargo Van,2023,"150 Low Roof w/130"" WB","$41,955","$39,857",Midsize,Cargo Van
+4840,Ford,Transit Cargo Van,2023,"150 Low Roof w/148"" WB","$47,925","$45,529",Large,Cargo Van
+4841,Ford,Transit Cargo Van,2023,"150 Low Roof w/130"" WB","$46,650","$44,318",Midsize,Cargo Van
+4842,Ford,Transit Cargo Van,2023,"150 Medium Roof w/130"" WB","$47,475","$45,102",Large,Cargo Van
+4843,Ford,Transit Cargo Van,2023,"150 Medium Roof w/130"" WB","$42,780","$40,641",Large,Cargo Van
+4844,Ford,Transit Cargo Van,2023,"150 Medium Roof w/148"" WB","$48,745","$46,308",Large,Cargo Van
+4845,Ford,Transit Cargo Van,2023,"150 Medium Roof w/148"" WB","$44,055","$41,852",Large,Cargo Van
+4846,Ford,Transit Cargo Van,2023,"250 High Roof w/148"" WB","$51,845","$49,253",Large,Cargo Van
+4847,Ford,Transit Cargo Van,2023,"250 High Roof w/148"" WB","$47,155","$44,797",Large,Cargo Van
+4848,Ford,Transit Cargo Van,2023,"250 High Roof w/148"" WB","$53,070","$50,416",Large,Cargo Van
+4849,Ford,Transit Cargo Van,2023,"250 High Roof w/148"" WB","$48,375","$45,957",Large,Cargo Van
+4850,Ford,Transit Cargo Van,2023,"250 Low Roof w/148"" WB","$48,875","$46,432",Large,Cargo Van
+4851,Ford,Transit Cargo Van,2023,"250 Low Roof w/148"" WB","$44,175","$41,967",Large,Cargo Van
+4852,Ford,Transit Cargo Van,2023,"250 Low Roof w/130"" WB","$47,600","$45,220",Midsize,Cargo Van
+4853,Ford,Transit Cargo Van,2023,"250 Low Roof w/130"" WB","$42,905","$40,760",Midsize,Cargo Van
+4854,Ford,Transit Cargo Van,2023,"250 Medium Roof w/130"" WB","$48,425","$46,004",Large,Cargo Van
+4855,Ford,Transit Cargo Van,2023,"250 Medium Roof w/130"" WB","$43,730","$41,544",Large,Cargo Van
+4856,Ford,Transit Cargo Van,2023,"250 Medium Roof w/148"" WB","$45,005","$42,755",Large,Cargo Van
+4857,Ford,Transit Cargo Van,2023,"250 Medium Roof w/148"" WB","$49,700","$47,215",Large,Cargo Van
+4858,Ford,Transit Cargo Van,2023,"350 HD High Roof w/148"" WB, 9,950 lbs. GVWR","$50,220","$47,709",Large,Cargo Van
+4859,Ford,Transit Cargo Van,2023,"350 HD High Roof w/148"" WB, 9,950 lbs. GVWR","$55,305","$52,540",Large,Cargo Van
+4860,Ford,Transit Cargo Van,2023,"350 HD High Roof w/148"" WB, 10,360 lbs. GVWR","$50,570","$48,041",Large,Cargo Van
+4861,Ford,Transit Cargo Van,2023,"350 HD High Roof w/148"" WB, 10,360 lbs. GVWR","$57,115","$54,259",Large,Cargo Van
+4862,Ford,Transit Cargo Van,2023,"350 HD High Roof w/148"" WB, 11,000 lbs. GVWR","$52,575","$49,947",Large,Cargo Van
+4863,Ford,Transit Cargo Van,2023,"350 HD High Roof w/148"" WB, 11,000 lbs. GVWR","$58,160","$55,252",Large,Cargo Van
+4864,Ford,Transit Cargo Van,2023,"350 High Roof w/148"" WB","$48,405","$45,985",Large,Cargo Van
+4865,Ford,Transit Cargo Van,2023,"350 High Roof w/148"" WB","$53,100","$50,445",Large,Cargo Van
+4866,Ford,Transit Cargo Van,2023,"350 High Roof w/148"" WB","$54,320","$51,604",Large,Cargo Van
+4867,Ford,Transit Cargo Van,2023,"350 High Roof w/148"" WB","$49,625","$47,144",Large,Cargo Van
+4868,Ford,Transit Cargo Van,2023,"350 High Roof w/148"" WB, 9,950 lbs. GVWR","$48,945","$46,498",Large,Cargo Van
+4869,Ford,Transit Cargo Van,2023,"350 High Roof w/148"" WB, 9,950 lbs. GVWR","$53,640","$50,958",Large,Cargo Van
+4870,Ford,Transit Cargo Van,2023,"350 High Roof w/148"" WB, 9,950 lbs. GVWR","$54,860","$52,117",Large,Cargo Van
+4871,Ford,Transit Cargo Van,2023,"350 High Roof w/148"" WB, 9,950 lbs. GVWR","$50,165","$47,656",Large,Cargo Van
+4872,Ford,Transit Cargo Van,2023,"350 Low Roof w/130"" WB","$48,850","$46,408",Midsize,Cargo Van
+4873,Ford,Transit Cargo Van,2023,"350 Low Roof w/148"" WB","$50,125","$47,619",Large,Cargo Van
+4874,Ford,Transit Cargo Van,2023,"350 Low Roof w/148"" WB","$45,430","$43,159",Large,Cargo Van
+4875,Ford,Transit Cargo Van,2023,"350 Low Roof w/130"" WB","$44,155","$41,947",Midsize,Cargo Van
+4876,Ford,Transit Cargo Van,2023,"350 Low Roof w/148"" WB, 9,950 lbs. GVWR","$45,970","$43,671",Large,Cargo Van
+4877,Ford,Transit Cargo Van,2023,"350 Low Roof w/148"" WB, 9,950 lbs. GVWR","$50,660","$48,127",Large,Cargo Van
+4878,Ford,Transit Cargo Van,2023,"350 Medium Roof w/130"" WB","$44,975","$42,727",Large,Cargo Van
+4879,Ford,Transit Cargo Van,2023,"350 Medium Roof w/148"" WB","$50,945","$48,398",Large,Cargo Van
+4880,Ford,Transit Cargo Van,2023,"350 Medium Roof w/148"" WB","$46,255","$43,942",Large,Cargo Van
+4881,Ford,Transit Cargo Van,2023,"350 Medium Roof w/130"" WB","$49,675","$47,192",Large,Cargo Van
+4882,Ford,Transit Cargo Van,2023,"350 Medium Roof w/148"" WB, 9,950 lbs. GVWR","$51,490","$48,916",Large,Cargo Van
+4883,Ford,Transit Cargo Van,2023,"350 Medium Roof w/148"" WB, 9,950 lbs. GVWR","$46,790","$44,451",Large,Cargo Van
+4884,Ford,Transit Connect Cargo Van,2023,XL w/Rear 180 Degree Doors SWB,"$32,790","$31,479",Compact,Cargo Minivan
+4885,Ford,Transit Connect Cargo Van,2023,XL w/Rear Liftgate SWB,"$32,790","$31,479",Compact,Cargo Minivan
+4886,Ford,Transit Connect Cargo Van,2023,XL w/Rear 180 Degree Doors LWB,"$33,790","$32,439",Large,Cargo Minivan
+4887,Ford,Transit Connect Cargo Van,2023,XL w/Rear Liftgate LWB,"$33,790","$32,439",Large,Cargo Minivan
+4888,Ford,Transit Connect Cargo Van,2023,XLT w/Rear 180 Degree Doors SWB,"$34,965","$33,566",Compact,Cargo Minivan
+4889,Ford,Transit Connect Cargo Van,2023,XLT w/Rear Liftgate SWB,"$34,965","$33,566",Compact,Cargo Minivan
+4890,Ford,Transit Connect Cargo Van,2023,XLT w/Rear 180 Degree Doors LWB,"$35,965","$34,526",Large,Cargo Minivan
+4891,Ford,Transit Connect Cargo Van,2023,XLT w/Rear Liftgate LWB,"$35,965","$34,526",Large,Cargo Minivan
+4892,Ford,Transit Connect Passenger Wagon,2023,Titanium,"$38,560","$37,017",Compact,Passenger Minivan
+4893,Ford,Transit Connect Passenger Wagon,2023,XL w/Rear 180 Degree Doors LWB,"$34,360","$32,985",Compact,Passenger Minivan
+4894,Ford,Transit Connect Passenger Wagon,2023,XL w/Rear Liftgate LWB,"$34,360","$32,985",Compact,Passenger Minivan
+4895,Ford,Transit Connect Passenger Wagon,2023,XLT w/Rear 180 Degree Doors LWB,"$36,475","$35,017",Compact,Passenger Minivan
+4896,Ford,Transit Connect Passenger Wagon,2023,XLT w/Rear Liftgate LWB,"$36,475","$35,017",Compact,Passenger Minivan
+4897,Ford,Transit Crew Van,2023,"150 Low Roof w/130"" WB","$44,320","$42,104",Midsize,Passenger Van
+4898,Ford,Transit Crew Van,2023,"150 Low Roof w/148"" WB","$50,285","$47,771",Large,Passenger Van
+4899,Ford,Transit Crew Van,2023,"150 Low Roof w/130"" WB","$49,015","$46,564",Midsize,Passenger Van
+4900,Ford,Transit Crew Van,2023,"150 Low Roof w/148"" WB","$45,590","$43,311",Large,Passenger Van
+4901,Ford,Transit Crew Van,2023,"150 Medium Roof w/130"" WB","$45,140","$42,883",Large,Passenger Van
+4902,Ford,Transit Crew Van,2023,"150 Medium Roof w/148"" WB","$51,115","$48,559",Large,Passenger Van
+4903,Ford,Transit Crew Van,2023,"150 Medium Roof w/130"" WB","$49,840","$47,348",Large,Passenger Van
+4904,Ford,Transit Crew Van,2023,"150 Medium Roof w/148"" WB","$46,420","$44,099",Large,Passenger Van
+4905,Ford,Transit Crew Van,2023,"250 High Roof w/148"" WB","$54,210","$51,499",Large,Passenger Van
+4906,Ford,Transit Crew Van,2023,"250 High Roof w/148"" WB","$49,515","$47,039",Large,Passenger Van
+4907,Ford,Transit Crew Van,2023,"250 Low Roof w/130"" WB","$49,965","$47,466",Midsize,Passenger Van
+4908,Ford,Transit Crew Van,2023,"250 Low Roof w/148"" WB","$51,240","$48,678",Large,Passenger Van
+4909,Ford,Transit Crew Van,2023,"250 Low Roof w/130"" WB","$45,265","$43,001",Midsize,Passenger Van
+4910,Ford,Transit Crew Van,2023,"250 Low Roof w/148"" WB","$46,545","$44,218",Large,Passenger Van
+4911,Ford,Transit Crew Van,2023,"250 Medium Roof w/148"" WB","$47,370","$45,001",Large,Passenger Van
+4912,Ford,Transit Crew Van,2023,"250 Medium Roof w/130"" WB","$46,090","$43,786",Large,Passenger Van
+4913,Ford,Transit Crew Van,2023,"250 Medium Roof w/130"" WB","$50,785","$48,246",Large,Passenger Van
+4914,Ford,Transit Crew Van,2023,"250 Medium Roof w/148"" WB","$52,065","$49,461",Large,Passenger Van
+4915,Ford,Transit Crew Van,2023,"350 HD High Roof w/148"" WB, 10,360 lbs. GVWR","$52,930","$50,284",Large,Passenger Van
+4916,Ford,Transit Crew Van,2023,"350 HD High Roof w/148"" WB, 9,950 lbs. GVWR","$57,275","$54,412",Large,Passenger Van
+4917,Ford,Transit Crew Van,2023,"350 HD High Roof w/148"" WB, 10,360 lbs. GVWR","$59,085","$56,131",Large,Passenger Van
+4918,Ford,Transit Crew Van,2023,"350 HD High Roof w/148"" WB, 9,950 lbs. GVWR","$52,575","$49,947",Large,Passenger Van
+4919,Ford,Transit Crew Van,2023,"350 High Roof w/148"" WB","$55,465","$52,691",Large,Passenger Van
+4920,Ford,Transit Crew Van,2023,"350 High Roof w/148"" WB","$50,770","$48,231",Large,Passenger Van
+4921,Ford,Transit Crew Van,2023,"350 Low Roof w/130"" WB","$51,215","$48,654",Midsize,Passenger Van
+4922,Ford,Transit Crew Van,2023,"350 Low Roof w/130"" WB","$46,520","$44,194",Midsize,Passenger Van
+4923,Ford,Transit Crew Van,2023,"350 Low Roof w/148"" WB","$52,485","$49,861",Large,Passenger Van
+4924,Ford,Transit Crew Van,2023,"350 Low Roof w/148"" WB","$47,790","$45,401",Large,Passenger Van
+4925,Ford,Transit Crew Van,2023,"350 Medium Roof w/148"" WB","$53,315","$50,649",Large,Passenger Van
+4926,Ford,Transit Crew Van,2023,"350 Medium Roof w/148"" WB","$48,620","$46,189",Large,Passenger Van
+4927,Ford,Transit Crew Van,2023,"350 Medium Roof w/130"" WB","$52,040","$49,438",Large,Passenger Van
+4928,Ford,Transit Crew Van,2023,"350 Medium Roof w/130"" WB","$47,340","$44,973",Large,Passenger Van
+4929,Ford,Transit Passenger Van,2023,"350 HD XL High Roof w/148"" WB","$58,900","$55,955",Large,Passenger Van
+4930,Ford,Transit Passenger Van,2023,"350 HD XL High Roof w/148"" WB","$52,270","$49,656",Large,Passenger Van
+4931,Ford,Transit Passenger Van,2023,"350 HD XLT High Roof w/148"" WB","$54,765","$52,026",Large,Passenger Van
+4932,Ford,Transit Passenger Van,2023,"350 HD XLT High Roof w/148"" WB","$61,405","$58,335",Large,Passenger Van
+4933,Ford,Transit Passenger Van,2023,"350 XL High Roof w/148"" WB","$51,205","$48,645",Large,Passenger Van
+4934,Ford,Transit Passenger Van,2023,"350 XL High Roof w/148"" WB","$55,900","$53,105",Large,Passenger Van
+4935,Ford,Transit Passenger Van,2023,"350 XL Low Roof w/148"" WB","$48,630","$46,199",Midsize,Passenger Van
+4936,Ford,Transit Passenger Van,2023,"350 XL Low Roof w/148"" WB","$53,325","$50,659",Midsize,Passenger Van
+4937,Ford,Transit Passenger Van,2023,"350 XL Medium Roof w/148"" WB","$54,455","$51,732",Large,Passenger Van
+4938,Ford,Transit Passenger Van,2023,"350 XL Medium Roof w/148"" WB","$49,760","$47,272",Large,Passenger Van
+4939,Ford,Transit Passenger Van,2023,"350 XLT High Roof w/148"" WB","$53,715","$51,029",Large,Passenger Van
+4940,Ford,Transit Passenger Van,2023,"350 XLT High Roof w/148"" WB","$58,405","$55,485",Large,Passenger Van
+4941,Ford,Transit Passenger Van,2023,"350 XLT Low Roof w/148"" WB","$55,835","$53,044",Midsize,Passenger Van
+4942,Ford,Transit Passenger Van,2023,"350 XLT Low Roof w/148"" WB","$51,140","$48,583",Midsize,Passenger Van
+4943,Ford,Transit Passenger Van,2023,"350 XLT Medium Roof w/148"" WB","$52,265","$49,651",Large,Passenger Van
+4944,Ford,Transit Passenger Van,2023,"350 XLT Medium Roof w/148"" WB","$56,955","$54,107",Large,Passenger Van
+4945,Mercedes-Benz,AMG GT,2023,43,"$95,900",,Large,Sedan
+4946,Mercedes-Benz,AMG GT,2023,53,"$106,700",,Large,Sedan
+4947,Mercedes-Benz,AMG GT,2023,63,"$149,200",,Large,Sedan
+4948,Mercedes-Benz,AMG GT,2023,63 S,"$170,350",,Large,Sedan
+4949,Mercedes-Benz,C-Class,2023,AMG C 43,"$62,600",,Midsize,Coupe
+4950,Mercedes-Benz,C-Class,2023,AMG C 43,"$69,250",,Midsize,Convertible
+4951,Mercedes-Benz,C-Class,2023,AMG C 43,"$59,900",,Midsize,Sedan
+4952,Mercedes-Benz,C-Class,2023,AMG C 63 S,"$81,850",,Midsize,Coupe
+4953,Mercedes-Benz,C-Class,2023,AMG C 63 S,"$90,000",,Midsize,Convertible
+4954,Mercedes-Benz,C-Class,2023,C 300,"$44,850",,Midsize,Sedan
+4955,Mercedes-Benz,C-Class,2023,C 300,"$49,550",,Midsize,Coupe
+4956,Mercedes-Benz,C-Class,2023,C 300,"$57,250",,Midsize,Convertible
+4957,Mercedes-Benz,C-Class,2023,C 300 4MATIC,"$46,850",,Midsize,Sedan
+4958,Mercedes-Benz,C-Class,2023,C 300 4MATIC,"$51,550",,Midsize,Coupe
+4959,Mercedes-Benz,C-Class,2023,C 300 4MATIC,"$59,250",,Midsize,Convertible
+4960,Mercedes-Benz,CLA-Class,2023,AMG CLA 35,"$49,500",,Midsize,Sedan
+4961,Mercedes-Benz,CLA-Class,2023,AMG CLA 45,"$57,800",,Midsize,Sedan
+4962,Mercedes-Benz,CLA-Class,2023,CLA 250,"$39,350",,Midsize,Sedan
+4963,Mercedes-Benz,CLA-Class,2023,CLA 250 4MATIC,"$41,350",,Midsize,Sedan
+4964,Mercedes-Benz,CLS-Class,2023,CLS 450 4MATIC,"$76,500",,Large,Sedan
+4965,Mercedes-Benz,E-Class,2023,AMG E 53,"$91,500",,Midsize,Convertible
+4966,Mercedes-Benz,E-Class,2023,AMG E 53,"$81,300",,Large,Sedan
+4967,Mercedes-Benz,E-Class,2023,AMG E 53,"$84,500",,Midsize,Coupe
+4968,Mercedes-Benz,E-Class,2023,AMG E 63 S,"$112,800",,Large,Sedan
+4969,Mercedes-Benz,E-Class,2023,AMG E 63 S,"$121,100",,Large,Wagon
+4970,Mercedes-Benz,E-Class,2023,E 350,"$56,750",,Large,Sedan
+4971,Mercedes-Benz,E-Class,2023,E 350 4MATIC,"$59,250",,Large,Sedan
+4972,Mercedes-Benz,E-Class,2023,E 450,"$69,750",,Midsize,Coupe
+4973,Mercedes-Benz,E-Class,2023,E 450,"$76,900",,Midsize,Convertible
+4974,Mercedes-Benz,E-Class,2023,E 450 4MATIC,"$65,550",,Large,Sedan
+4975,Mercedes-Benz,E-Class,2023,E 450 4MATIC,"$72,250",,Midsize,Coupe
+4976,Mercedes-Benz,E-Class,2023,E 450 4MATIC,"$79,550",,Midsize,Convertible
+4977,Mercedes-Benz,E-Class,2023,E 450 4MATIC All-Terrain,"$71,250",,Large,Wagon
+4978,Mercedes-Benz,EQB,2023,EQB 250+,"$52,750",,Midsize,SUV
+4979,Mercedes-Benz,EQB,2023,EQB 300,"$56,900",,Midsize,SUV
+4980,Mercedes-Benz,EQB,2023,EQB 350,"$60,550",,Midsize,SUV
+4981,Mercedes-Benz,EQE,2023,AMG EQE,"$106,900",,Large,Sedan
+4982,Mercedes-Benz,EQE,2023,EQE 350 4MATIC,"$77,900",,Large,Sedan
+4983,Mercedes-Benz,EQE,2023,EQE 350+,"$74,900",,Large,Sedan
+4984,Mercedes-Benz,EQE,2023,EQE 500 4MATIC,"$85,900",,Large,Sedan
+4985,Mercedes-Benz,EQE SUV,2023,EQE 350 4MATIC,"$77,900",,Large,SUV
+4986,Mercedes-Benz,EQE SUV,2023,EQE 350+,"$77,900",,Large,SUV
+4987,Mercedes-Benz,EQE SUV,2023,EQE 500 4MATIC,"$89,500",,Large,SUV
+4988,Mercedes-Benz,EQS,2023,AMG EQS,"$147,550",,Large,Sedan
+4989,Mercedes-Benz,EQS,2023,EQS 450 4MATIC,"$107,400",,Large,Sedan
+4990,Mercedes-Benz,EQS,2023,EQS 450+,"$104,400",,Large,Sedan
+4991,Mercedes-Benz,EQS,2023,EQS 580 4MATIC,"$125,950",,Large,Sedan
+4992,Mercedes-Benz,EQS SUV,2023,EQS 450 4MATIC,"$107,400",,Large,SUV
+4993,Mercedes-Benz,EQS SUV,2023,EQS 450+,"$104,400",,Large,SUV
+4994,Mercedes-Benz,EQS SUV,2023,EQS 580 4MATIC,"$125,950",,Large,SUV
+4995,Mercedes-Benz,G-Class,2023,AMG G 63,"$179,000",,Midsize,SUV
+4996,Mercedes-Benz,G-Class,2023,AMG G 63 4x4 Squared,"$349,000",,Midsize,SUV
+4997,Mercedes-Benz,G-Class,2023,G 550,"$139,900",,Midsize,SUV
+4998,Mercedes-Benz,GLA-Class,2023,AMG GLA 35,"$49,500",,Compact,SUV
+4999,Mercedes-Benz,GLA-Class,2023,AMG GLA 45,"$56,650",,Compact,SUV
+5600,Mercedes-Benz,GLA-Class,2023,GLA 250,"$37,500",,Compact,SUV
+5601,Mercedes-Benz,GLA-Class,2023,GLA 250 4MATIC,"$39,500",,Compact,SUV
+5602,Mercedes-Benz,GLB-Class,2023,AMG GLB 35,"$51,500",,Midsize,SUV
+5603,Mercedes-Benz,GLB-Class,2023,GLB 250,"$39,800",,Midsize,SUV
+5604,Mercedes-Benz,GLB-Class,2023,GLB 250 4MATIC,"$41,800",,Midsize,SUV
+5605,Mercedes-Benz,GLC-Class,2023,GLC 300,"$47,100",,Midsize,SUV
+5606,Mercedes-Benz,GLC-Class,2023,GLC 300 4MATIC,"$49,100",,Midsize,SUV
+5607,Mercedes-Benz,GLC-Class Coupe,2023,AMG GLC 43,"$68,200",,Midsize,SUV
+5608,Mercedes-Benz,GLC-Class Coupe,2023,GLC 300 4MATIC,"$54,700",,Midsize,SUV
+5609,Mercedes-Benz,GLE-Class,2023,AMG GLE 53,"$76,950",,Large,SUV
+5610,Mercedes-Benz,GLE-Class,2023,AMG GLE 63 S,"$120,000",,Large,SUV
+5611,Mercedes-Benz,GLE-Class,2023,GLE 350,"$57,700",,Large,SUV
+5612,Mercedes-Benz,GLE-Class,2023,GLE 350 4MATIC,"$60,200",,Large,SUV
+5613,Mercedes-Benz,GLE-Class,2023,GLE 450 4MATIC,"$66,450",,Large,SUV
+5614,Mercedes-Benz,GLE-Class,2023,GLE 580 4MATIC,"$83,850",,Large,SUV
+5615,Mercedes-Benz,GLE-Class Coupe,2023,AMG GLE 53,"$81,200",,Large,SUV
+5616,Mercedes-Benz,GLE-Class Coupe,2023,AMG GLE 63 S,"$120,700",,Large,SUV
+5617,Mercedes-Benz,GLS-Class,2023,AMG GLS 63,"$139,000",,Large,SUV
+5618,Mercedes-Benz,GLS-Class,2023,GLS 450 4MATIC,"$81,800",,Large,SUV
+5619,Mercedes-Benz,GLS-Class,2023,GLS 580 4MATIC,"$105,000",,Large,SUV
+5620,Mercedes-Benz,Maybach,2023,S 580 4MATIC,"$193,400",,Large,Sedan
+5621,Mercedes-Benz,Maybach,2023,S 680 4MATIC,"$229,000",,Large,Sedan
+5622,Mercedes-Benz,Maybach GLS,2023,GLS 600,"$170,000",,Large,SUV
+5623,Mercedes-Benz,Metris,2023,"126"" WB Cargo","$39,600",,Large,Cargo Minivan
+5624,Mercedes-Benz,Metris,2023,"135"" WB Cargo","$40,200",,Large,Cargo Minivan
+5625,Mercedes-Benz,Metris,2023,Passenger,"$43,600",,Large,Passenger Minivan
+5626,Mercedes-Benz,S-Class,2023,S 500 4MATIC,"$114,500",,Large,Sedan
+5627,Mercedes-Benz,S-Class,2023,S 580 4MATIC,"$124,000",,Large,Sedan
+5628,Mercedes-Benz,S-Class,2023,S 580e 4MATIC,"$120,500",,Large,Sedan
+5629,Mercedes-Benz,SL-Class,2023,AMG SL 43,"$109,900",,Midsize,Convertible
+5630,Mercedes-Benz,SL-Class,2023,AMG SL 55,"$141,300",,Midsize,Convertible
+5631,Mercedes-Benz,SL-Class,2023,AMG SL 63,"$183,000",,Midsize,Convertible
+5632,Mercedes-Benz,Sprinter,2023,"1500 144"" WB Cargo","$43,500",,Large,Cargo Van
+5633,Mercedes-Benz,Sprinter,2023,"1500 144"" WB Passenger","$48,700",,Compact,Passenger Van
+5634,Mercedes-Benz,Sprinter,2023,"2500 144"" WB Cargo","$44,500",,Large,Cargo Van
+5635,Mercedes-Benz,Sprinter,2023,"2500 144"" WB Cargo","$47,000",,Large,Cargo Van
+5636,Mercedes-Benz,Sprinter,2023,"2500 144"" WB Cargo","$56,050",,Large,Cargo Van
+5637,Mercedes-Benz,Sprinter,2023,"2500 144"" WB Cargo w/High Output Engine","$49,650",,Large,Cargo Van
+5638,Mercedes-Benz,Sprinter,2023,"2500 144"" WB Crew w/High Output Engine","$51,850",,Midsize,Passenger Van
+5639,Mercedes-Benz,Sprinter,2023,"2500 144"" WB Crew","$49,200",,Midsize,Passenger Van
+5640,Mercedes-Benz,Sprinter,2023,"2500 144"" WB Crew","$46,700",,Midsize,Passenger Van
+5641,Mercedes-Benz,Sprinter,2023,"2500 144"" WB Crew","$58,250",,Midsize,Passenger Van
+5642,Mercedes-Benz,Sprinter,2023,"2500 144"" WB Passenger","$61,660",,Compact,Passenger Van
+5643,Mercedes-Benz,Sprinter,2023,"2500 144"" WB Passenger w/High Output Engine","$55,260",,Compact,Passenger Van
+5644,Mercedes-Benz,Sprinter,2023,"2500 144"" WB Passenger","$50,110",,Compact,Passenger Van
+5645,Mercedes-Benz,Sprinter,2023,"2500 144"" WB Passenger","$52,610",,Compact,Passenger Van
+5646,Mercedes-Benz,Sprinter,2023,"2500 170"" WB Cargo w/High Roof","$53,290",,Large,Cargo Van
+5647,Mercedes-Benz,Sprinter,2023,"2500 170"" WB Cargo w/High Roof","$64,590",,Large,Cargo Van
+5648,Mercedes-Benz,Sprinter,2023,"2500 170"" WB Cargo w/High Roof, High Output Engine","$58,190",,Large,Cargo Van
+5649,Mercedes-Benz,Sprinter,2023,"2500 170"" WB Cargo w/High Roof","$55,540",,Large,Cargo Van
+5650,Mercedes-Benz,Sprinter,2023,"2500 170"" WB Cargo w/High Roof","$62,340",,Large,Cargo Van
+5651,Mercedes-Benz,Sprinter,2023,"2500 170"" WB Cargo w/High Roof, High Output Engine","$55,940",,Large,Cargo Van
+5652,Mercedes-Benz,Sprinter,2023,"2500 170"" WB Cargo w/High Roof","$50,790",,Large,Cargo Van
+5653,Mercedes-Benz,Sprinter,2023,"2500 170"" WB Crew w/High Roof","$56,100",,Large,Passenger Van
+5654,Mercedes-Benz,Sprinter,2023,"2500 170"" WB Crew w/High Roof","$53,600",,Large,Passenger Van
+5678,Mercedes-Benz,Sprinter,2023,"3500XD 170"" WB Cargo w/High Roof, High Output Engine","$63,690",,Large,Cargo Van
+5679,Mercedes-Benz,Sprinter,2023,"3500XD 170"" WB Cargo w/High Roof","$58,790",,Large,Cargo Van
+5680,Mercedes-Benz,Sprinter,2023,"3500XD 170"" WB Cargo w/High Roof, High Output Engine","$61,440",,Large,Cargo Van
+5681,Mercedes-Benz,Sprinter,2023,"3500XD 170"" WB Crew w/High Roof, High Output Engine","$64,250",,Large,Passenger Van
+5682,Mercedes-Benz,Sprinter,2023,"3500XD 170"" WB Crew w/High Roof","$61,600",,Large,Passenger Van
+5683,Mercedes-Benz,Sprinter,2023,"3500XD 170"" WB Crew w/High Roof","$70,650",,Large,Passenger Van
+5684,Mercedes-Benz,Sprinter,2023,"4500 144"" WB Cargo w/High Output Engine","$57,620",,Midsize,Cargo Van
+5685,Mercedes-Benz,Sprinter,2023,"4500 144"" WB Cargo","$54,970",,Midsize,Cargo Van
+5686,Mercedes-Benz,Sprinter,2023,"4500 144"" WB Crew w/High Output Engine","$59,820",,Midsize,Passenger Van
+5687,Mercedes-Benz,Sprinter,2023,"4500 144"" WB Crew","$57,170",,Midsize,Passenger Van
+5688,Mercedes-Benz,Sprinter,2023,"4500 170"" WB Cargo w/High Roof","$63,440",,Large,Cargo Van
+5689,Mercedes-Benz,Sprinter,2023,"4500 170"" WB Cargo w/High Roof","$61,190",,Large,Cargo Van
+5690,Mercedes-Benz,Sprinter,2023,"4500 170"" WB Cargo w/High Roof, High Output Engine","$63,840",,Large,Cargo Van
+5691,Mercedes-Benz,Sprinter,2023,"4500 170"" WB Cargo w/High Roof, High Output Engine","$66,090",,Large,Cargo Van
+5692,Mercedes-Benz,Sprinter,2023,"4500 170"" WB Crew w/High Roof, High Output Engine","$66,650",,Large,Passenger Van
+5693,Mercedes-Benz,Sprinter,2023,"4500 170"" WB Crew w/High Roof","$64,000",,Large,Passenger Van
+5694,Nissan,ARIYA,2023,Empower+,"$53,690",,Midsize,SUV
+5695,Nissan,ARIYA,2023,Engage,"$43,190",,Midsize,SUV
+5696,Nissan,ARIYA,2023,Engage e-4ORCE,"$47,190",,Midsize,SUV
+5697,Nissan,ARIYA,2023,Engage+ e-4ORCE,"$51,190",,Midsize,SUV
+5698,Nissan,ARIYA,2023,Evolve+,"$50,190",,Midsize,SUV
+5699,Nissan,ARIYA,2023,Evolve+ e-4ORCE,"$54,190",,Midsize,SUV
+5700,Nissan,ARIYA,2023,Platinum+ e-4ORCE,"$60,190",,Midsize,SUV
+5701,Nissan,ARIYA,2023,"Platinum+ e-4ORCE w/20"" Wheels","$60,190",,Midsize,SUV
+5702,Nissan,ARIYA,2023,Premiere,"$54,690",,Midsize,SUV
+5703,Nissan,ARIYA,2023,Venture+,"$47,190",,Midsize,SUV
+5704,Nissan,Altima,2023,2.5 S,"$25,630",,Midsize,Sedan
+5705,Nissan,Altima,2023,2.5 SL,"$33,830",,Midsize,Sedan
+5706,Nissan,Altima,2023,2.5 SL,"$32,330",,Midsize,Sedan
+5707,Nissan,Altima,2023,2.5 SR,"$27,830",,Midsize,Sedan
+5708,Nissan,Altima,2023,2.5 SR,"$29,330",,Midsize,Sedan
+5709,Nissan,Altima,2023,2.5 SV,"$27,930",,Midsize,Sedan
+5710,Nissan,Altima,2023,2.5 SV,"$26,430",,Midsize,Sedan
+5711,Nissan,Altima,2023,VC-T SR,"$35,330",,Midsize,Sedan
+5712,Nissan,Armada,2023,Platinum,"$70,370",,Large,SUV
+5713,Nissan,Armada,2023,Platinum,"$67,370",,Large,SUV
+5714,Nissan,Armada,2023,S,"$50,700",,Large,SUV
+5715,Nissan,Armada,2023,S,"$53,700",,Large,SUV
+5716,Nissan,Armada,2023,SL,"$59,120",,Large,SUV
+5717,Nissan,Armada,2023,SL,"$62,120",,Large,SUV
+5718,Nissan,Armada,2023,SV,"$55,300",,Large,SUV
+5719,Nissan,Armada,2023,SV,"$58,300",,Large,SUV
+5720,Nissan,Frontier,2023,PRO-4X,"$38,720",,Compact,Pickup Truck
+5721,Nissan,Frontier,2023,PRO-4X,"$39,100",,Compact,Pickup Truck
+5722,Nissan,Frontier,2023,PRO-X,"$35,720",,Compact,Pickup Truck
+5723,Nissan,Frontier,2023,PRO-X,"$36,100",,Compact,Pickup Truck
+5724,Nissan,Frontier,2023,S,"$29,190",,Compact,Pickup Truck
+5725,Nissan,Frontier,2023,S,"$32,390",,Compact,Pickup Truck
+5726,Nissan,Frontier,2023,S,"$30,490",,Compact,Pickup Truck
+5727,Nissan,Frontier,2023,S,"$33,490",,Compact,Pickup Truck
+5728,Nissan,Frontier,2023,S,"$33,870",,Compact,Pickup Truck
+5729,Nissan,Frontier,2023,S,"$29,570",,Compact,Pickup Truck
+5730,Nissan,Frontier,2023,S,"$32,770",,Compact,Pickup Truck
+5731,Nissan,Frontier,2023,S,"$30,870",,Compact,Pickup Truck
+5732,Nissan,Frontier,2023,SV,"$35,090",,Compact,Pickup Truck
+5733,Nissan,Frontier,2023,SV,"$31,890",,Compact,Pickup Truck
+5734,Nissan,Frontier,2023,SV,"$33,290",,Compact,Pickup Truck
+5735,Nissan,Frontier,2023,SV,"$36,290",,Compact,Pickup Truck
+5736,Nissan,Frontier,2023,SV,"$39,120",,Compact,Pickup Truck
+5737,Nissan,Frontier,2023,SV,"$36,120",,Compact,Pickup Truck
+5738,Nissan,Frontier,2023,SV,"$36,500",,Compact,Pickup Truck
+5739,Nissan,Frontier,2023,SV,"$36,670",,Compact,Pickup Truck
+5740,Nissan,Frontier,2023,SV,"$39,500",,Compact,Pickup Truck
+5741,Nissan,Frontier,2023,SV,"$33,670",,Compact,Pickup Truck
+5742,Nissan,Frontier,2023,SV,"$32,270",,Compact,Pickup Truck
+5743,Nissan,Frontier,2023,SV,"$35,470",,Compact,Pickup Truck
+5744,Nissan,GT-R,2023,NISMO,"$215,740",,Midsize,Coupe
+5745,Nissan,GT-R,2023,Premium,"$116,040",,Midsize,Coupe
+5746,Nissan,Kicks,2023,S,"$20,590",,Compact,Hatchback
+5747,Nissan,Kicks,2023,SR,"$23,150",,Compact,Hatchback
+5748,Nissan,Kicks,2023,SV,"$22,450",,Compact,Hatchback
+5749,Nissan,LEAF,2023,S,"$28,040",,Compact,Hatchback
+5750,Nissan,LEAF,2023,SV PLUS,"$36,040",,Compact,Hatchback
+5751,Nissan,Maxima,2023,3.5 Platinum,"$44,450",,Midsize,Sedan
+5752,Nissan,Maxima,2023,3.5 SR,"$43,500",,Midsize,Sedan
+5753,Nissan,Maxima,2023,3.5 SV,"$38,340",,Midsize,Sedan
+5754,Nissan,Murano,2023,Platinum,"$45,710",,Midsize,SUV
+5755,Nissan,Murano,2023,Platinum,"$47,410",,Midsize,SUV
+5756,Nissan,Murano,2023,S,"$34,160",,Midsize,SUV
+5765,Nissan,Pathfinder,2023,S,"$35,320",,Large,SUV
+5766,Nissan,Pathfinder,2023,S,"$37,220",,Large,SUV
+5767,Nissan,Pathfinder,2023,SL,"$43,640",,Large,SUV
+5768,Nissan,Pathfinder,2023,SL,"$41,740",,Large,SUV
+5769,Nissan,Pathfinder,2023,SV,"$38,140",,Large,SUV
+5770,Nissan,Pathfinder,2023,SV,"$40,040",,Large,SUV
+5771,Nissan,Rogue,2023,Platinum,"$37,140",,Midsize,SUV
+5772,Nissan,Rogue,2023,Platinum,"$38,640",,Midsize,SUV
+5773,Nissan,Rogue,2023,Platinum,"$39,090",,Midsize,SUV
+5774,Nissan,Rogue,2023,Platinum,"$37,590",,Midsize,SUV
+5775,Nissan,Rogue,2023,S,"$27,360",,Midsize,SUV
+5778,Nissan,Rogue,2023,S,"$28,010",,Midsize,SUV
+5779,Nissan,Rogue,2023,SL,"$33,710",,Midsize,SUV
+5780,Nissan,Rogue,2023,SL,"$35,210",,Midsize,SUV
+5781,Nissan,Rogue,2023,SL,"$35,660",,Midsize,SUV
+5782,Nissan,Rogue,2023,SL,"$34,160",,Midsize,SUV
+5783,Nissan,Rogue,2023,SV,"$30,550",,Midsize,SUV
+5784,Nissan,Rogue,2023,SV,"$29,050",,Midsize,SUV
+5785,Nissan,Rogue,2023,SV,"$31,200",,Midsize,SUV
+5786,Nissan,Rogue,2023,SV,"$29,700",,Midsize,SUV
+5787,Nissan,Sentra,2023,S,"$20,200",,Midsize,Sedan
+5788,Nissan,Sentra,2023,SR,"$23,090",,Midsize,Sedan
+5789,Nissan,Sentra,2023,SV,"$21,420",,Midsize,Sedan
+5790,Nissan,Titan,2023,PRO-4X,"$53,460",,Large,Pickup Truck
+5791,Nissan,Titan,2023,Platinum Reserve,"$62,630",,Large,Pickup Truck
+5792,Nissan,Titan,2023,Platinum Reserve,"$59,320",,Large,Pickup Truck
+5793,Nissan,Titan,2023,S,"$40,350",,Large,Pickup Truck
+5794,Nissan,Titan,2023,S,"$43,640",,Large,Pickup Truck
+5795,Nissan,Titan,2023,S,"$45,330",,Large,Pickup Truck
+5796,Nissan,Titan,2023,S,"$42,140",,Large,Pickup Truck
+5797,Nissan,Titan,2023,SV,"$49,020",,Large,Pickup Truck
+5798,Nissan,Titan,2023,SV,"$45,730",,Large,Pickup Truck
+5799,Nissan,Titan,2023,SV,"$48,840",,Large,Pickup Truck
+6400,Nissan,Titan,2023,SV,"$45,650",,Large,Pickup Truck
+6401,Nissan,Titan XD,2023,PRO-4X,"$57,770",,Large,Pickup Truck
+6402,Nissan,Titan XD,2023,Platinum Reserve,"$65,720",,Large,Pickup Truck
+6403,Nissan,Titan XD,2023,S,"$47,990",,Large,Pickup Truck
+6404,Nissan,Titan XD,2023,SV,"$51,810",,Large,Pickup Truck
+6405,Nissan,Versa,2023,S,"$15,980",,Compact,Sedan
+6406,Nissan,Versa,2023,S,"$17,650",,Compact,Sedan
+6407,Nissan,Versa,2023,SR,"$19,970",,Compact,Sedan
+6408,Nissan,Versa,2023,SV,"$19,270",,Compact,Sedan
+6409,Nissan,Z,2023,Performance,"$50,990",,Compact,Coupe
+6410,Nissan,Z,2023,Performance,"$50,990",,Compact,Coupe
+6411,Nissan,Z,2023,Proto Spec,"$53,990",,Compact,Coupe
+6412,Nissan,Z,2023,Proto Spec,"$53,990",,Compact,Coupe
+6413,Nissan,Z,2023,Sport,"$40,990",,Compact,Coupe
+6414,Nissan,Z,2023,Sport,"$40,990",,Compact,Coupe
